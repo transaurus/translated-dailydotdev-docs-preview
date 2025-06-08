@@ -1,0 +1,302 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/reputation.md",
+  "source_file_content_hash": "ac74021631d7f68f2f2b67e4b60a82242644ce9115d17a12adaf8dc0ecba40ad",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1  \ndescription: \"Learn how reputation works on daily.dev, how to earn points, unlock privileges, and gain more exposure on the platform. Discover ways to grow your reputation and contribute meaningfully to the community.\"  \n---",
+      "source_content_hash": "e50587f1f6978715d9f8257410741e20d0adba22a7bb548a39c44a5e95b88a9c",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Reputation Explained",
+      "source_content_hash": "7d15fbd9d95a97c275696a4bcc985f656079df6cdf744ef84e3d676aaa15e886",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 声望系统详解"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What is Reputation?",
+      "source_content_hash": "58454289d685445834a3d70bf41a5430d69025168dc6ea44ee28ed193eadf93f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是声望？"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Reputation is a metric that reflects the trust you earn from the community through positive and meaningful interactions. It's a measure of your contributions' impact, visible on your profile. Higher reputation unlocks more privileges, reflecting your role in shaping our community.",
+      "source_content_hash": "5be4f7094bc274b03084eedf8489b03334dfbe046883ca19ab4e9c2086bec212",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "声望是通过积极且有意义的社区互动所获得的信任度量值。它量化了您对社区的贡献影响力，并显示在个人资料中。更高的声望将解锁更多特权，体现您在塑造社区中的角色。"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Starting in 2025, **higher reputation also increases your exposure and reach**. this means that your posts and comments have a greater chance of being seen by more developers on the platform.",
+      "source_content_hash": "7d6d578efbee4e04a111ac378728107d45746cb083dbd671844ceb5e74da0ea9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "自2025年起，**更高的声望还将提升您的曝光度和影响力**。这意味着您的帖子和评论将有更大机会被平台上更多开发者看到。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Reputation Basics",
+      "source_content_hash": "87ed88adba12e89579d07e0d89958d147728f3f9f9d2a03f0eabac37835c5ba0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 声望基础"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "When you sign up for daily.dev, you start with **10 points**, celebrating your entry into the community. Reputation never falls below **0**, preventing negative scores.",
+      "source_content_hash": "31838bf317b8177bffff4a4f202c5ecdbd30d73b68e4dccd7c7c3d2706a7f246",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "注册daily.dev时，您会获得**10点初始声望**，标志着您加入社区。声望值永不低于**0**，避免出现负分。"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "Reputation is visible across the platform:",
+      "source_content_hash": "acf868af3cec20eec0af85c3a63687ece10943235a32161e4817ce67e41effa2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "声望值在全平台可见："
+      }
+    },
+    {
+      "segment_id": "3b695c37",
+      "source_content": "- **On the app's header**: See your reputation near your profile image.  \n- **On your comments and posts**: Reputation is highlighted on your interactions.  \n- **On your public profile page**: Showcases your overall reputation.  \n- **On your DevCard**: Reputation is also displayed on your personalized DevCard.",
+      "source_content_hash": "dde1ccfae8df5000a01b550facd07ad1fa8dd606f5a7b421379fa35c6cc5227d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **应用顶部栏**：在个人头像旁显示当前声望  \n- **评论和帖子**：您的互动内容会标注声望值  \n- **公开资料页**：展示您的总声望值  \n- **开发者卡片(DevCard)**：个性化卡片中也会显示声望"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "## How to Earn Reputation Points",
+      "source_content_hash": "4e58e8fb3a67db62ae19a492f9f39e3aee0cd2759f48a423ee79d732eb725225",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何获取声望点数"
+      }
+    },
+    {
+      "segment_id": "6b3596a2",
+      "source_content": ":::info[]\nReputation points are granted only when actions such as upvotes, downvotes, or other contributions come from users with **250 or more reputation points**. For example, if a user with less than 250 reputation points upvotes your post or comment, it will not affect your reputation score. This ensures that reputation reflects feedback from established members of the community.  \n:::",
+      "source_content_hash": "d24e7939b65bcd1139cca18071439bb36960d6591c4f3c5979275df958480f2f",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info[]\n声望点数仅当来自**250点以上声望用户**的点赞、点踩等行为时才会生效。例如：若声望低于250的用户对您的帖子点赞，不会影响您的声望值。该机制确保声望反映的是社区资深成员的反馈。  \n:::"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Reputation points are gained or lost through specific actions, fostering accountability:",
+      "source_content_hash": "4f36ff19812cbca08afcf6a5baf651eeb7d9dbcac4c8e4c97166700ee2b70c3c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "声望点数通过特定行为增减，以促进责任意识："
+      }
+    },
+    {
+      "segment_id": "e48f5b02",
+      "source_content": "| Activity                             | Points  |  \n|--------------------------------------|---------|  \n| Post upvoted                         | **+10** |  \n| Post downvoted                       | **-10** |  \n| Post banned or removed               | **-100**|  \n| Comment upvoted                      | **+50** |  \n| Comment downvoted                    | **-50** |  \n| Report results in post removal       | **+100**|  \n| Approved source suggestion           | **+200**|",
+      "source_content_hash": "b04ad623bf674f6286bac4045ac223fa5ca34b60dea32e919bbf57d678778979",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_e48f5b02"
+      }
+    },
+    {
+      "segment_id": "3ff39c1d",
+      "source_content": "> Last update: February 2024",
+      "source_content_hash": "9921e849a024820c879e6880c8785ebf58071042196b41e6fb140f65903313f1",
+      "node_type": "blockquote",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "> 最后更新：2024年2月"
+      }
+    },
+    {
+      "segment_id": "6b421e57",
+      "source_content": ":::warning[]\nEngaging in reputation farming or any activities intended to manipulate reputation scores is strictly against our [terms of service](https://daily.dev/tos). Such behavior may result in penalties, including the loss of reputation points or even account suspension or banning. Always use the platform responsibly and adhere to the community guidelines.  \n:::",
+      "source_content_hash": "bb385983b6e1b9c9edb2843e99652a1bafcbb90e426e746b5cf610e0a8631764",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::warning[]\n任何刷声望或操纵声望的行为都违反我们的[服务条款](https://daily.dev/tos)，可能导致声望扣除、账号封禁等处罚。请始终遵守社区准则，合理使用平台。  \n:::"
+      }
+    },
+    {
+      "segment_id": "6f930b2f",
+      "source_content": "## How Reputation Impacts Exposure and Reach",
+      "source_content_hash": "53185408be6a09ac7bdf05a8fd4811f3dff24e2e8b2f0873f56b0f440a35727c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 声望如何影响曝光度"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "As of 2025, **having a higher reputation means your content gets more visibility**. This means:",
+      "source_content_hash": "a8d9d218a8046d29d86adf9e03d78a33e311cde584dea500ff8bb6fcaed5721c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "2025年起，**高声望用户的內容将获得更高可见性**，具体表现为："
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "- **Posts and comments from high-reputation users are more likely to appear in people's feeds**.\n- **Your contributions get prioritized** in ranking algorithms, increasing engagement and reach.\n- **Your reputation signals credibility**, making your insights more impactful within the community.",
+      "source_content_hash": "0d3d937dad7b513a5c466861ebc615b77b71fbab93831109cdd5853da7e3f989",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **高声望用户的帖子/评论更易出现在他人信息流中**  \n- **您的贡献在排序算法中享有优先级**，增加互动机会  \n- **声望值成为可信度标识**，提升观点在社区内的影响力"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "Building a strong reputation not only unlocks privileges but also **ensures your voice is heard by more developers**.",
+      "source_content_hash": "dfde5160b39521a714ff8f3f2031dd22e8dda7e3ae7471072ad0aceb2364d66e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "建立良好声望不仅能解锁特权，更能**确保您的声音被更多开发者听见**。"
+      }
+    },
+    {
+      "segment_id": "7283cdac",
+      "source_content": "## Privileges Unlocked with Reputation",
+      "source_content_hash": "b45d31574e6e1df3a527072d3019afd10a12fd1a6cb9382edebeb89c38faf589",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 声望解锁的特权"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "Reputation growth brings special privileges:",
+      "source_content_hash": "89558cffb53502ebd3753efcb8cc399f8fbfeae20fba64fbfd132ece9616de59",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "声望增长将开启特殊权益："
+      }
+    },
+    {
+      "segment_id": "f1fa4157",
+      "source_content": "| Reputation Threshold | Privileges |  \n|----------------------|------------|  \n| 250+                 | Upvotes contribute to others' reputation |  \n| 250+                 | Can [suggest new sources](../for-content-creators/suggest-new-source.md) for the feed |  \n| 250+                 | Eligible to submit links via [Community Picks](../key-features/community-picks.md) |  \n| Various Points       | Unlock exclusive themes for your [DevCard](/your-profile/devcard.md) |  \n| More Reputation      | Increases your content’s reach and visibility on daily.dev |",
+      "source_content_hash": "0793a1c400caabb230f4066d2a92e2cae96d28831bdd20791aef52618b7b1aec",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_f1fa4157"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "More privileges will be available soon!",
+      "source_content_hash": "4c37624067385424af48036d33edfd8d6343fd951b14e44de1eef3a0b183c1d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "更多特权即将推出！"
+      }
+    },
+    {
+      "segment_id": "d422fb13",
+      "source_content": "## Tips for Boosting Your Reputation",
+      "source_content_hash": "85c8f5e35d8694b43d5be35e5efb94a6661a6374bb9eebaa958e9df2fdbed690",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 声望提升技巧"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "Maximize your reputation through thoughtful engagement:",
+      "source_content_hash": "2865b2877e34978b6c6493829a16c3c26deaa91ad1f3bde124beada89c13f6a9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过高质量互动最大化声望收益："
+      }
+    },
+    {
+      "segment_id": "caffd879",
+      "source_content": "- **Insightful contributions**: Offer unique perspectives or essential information.  \n- **Effective summaries**: Condense information to provide valuable overviews.  \n- **Constructive feedback**: Improve content reliability through helpful feedback.  \n- **Personal stories**: Share relatable dev anecdotes or humorous takes.  \n- **Supportive engagement**: Positive interactions boost community spirit.",
+      "source_content_hash": "9357128518c59fa2245ca80cfe6be9560588d9d8eba7bcb91222a43615c16b15",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **深度见解**：提供独特视角或关键信息  \n- **精要总结**：提炼内容核心价值  \n- **建设性反馈**：通过有效反馈提升内容可靠性  \n- **个人故事**：分享开发者轶事或幽默观点  \n- **支持性互动**：积极互动促进社区氛围"
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "Strive for respectful and constructive contributions, fostering a welcoming and informative environment on daily.dev.",
+      "source_content_hash": "2e305dfdbccc84e817ce0796f6968dfb9ae01ae43d80da770a12663ca048b8ef",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "请始终保持尊重与建设性，共同营造daily.dev的良好环境。"
+      }
+    },
+    {
+      "segment_id": "0a103a02",
+      "source_content": "## Reputation is Optional",
+      "source_content_hash": "807d0d8dd05d30f7ce9943865299a113866dc2d42668c29244d6ffc1e466ab1f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 声望系统为可选功能"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "Reputation isn’t required to enjoy daily.dev essentials: read, upvote, and comment freely.",
+      "source_content_hash": "af7d6d2c29d433574ba0faaf26bd7067cbb3f821ba01cfe3afff2982af013e97",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "使用daily.dev核心功能（阅读、点赞、评论）无需依赖声望值。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/reputation.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.390699+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "ac74021631d7f68f2f2b67e4b60a82242644ce9115d17a12adaf8dc0ecba40ad"
+  }
+}

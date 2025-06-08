@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/for-content-creators/suggest-new-source.md",
+  "source_file_content_hash": "61aa0b182bcf1d3f7a2cc82f76c0010dc342ca57520aed90a80737a32109376f",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Learn how to suggest a new content source for daily.dev to expand our community-driven developer resources. Follow these steps for successful submission.\"\n---",
+      "source_content_hash": "5dbcf9deaea90b71934cc35ba37b0988bf218b7558d10bd83308d53aed641c8e",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# How to Suggest a New Source on daily.dev",
+      "source_content_hash": "5e43c9d23e8a5fb5233fdf8036a1e03c1e4d6bf8d3ee607871158689a936924c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 如何在daily.dev上推荐新内容源"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Introduction",
+      "source_content_hash": "d753efbab681fa4da82470d9a83b1c202de58f92fd498e77a269c1163bc4714b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 简介"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "We're delighted you’re interested in adding valuable content to daily.dev. Our platform continuously grows with community-recommended sources. If you’ve discovered a source that could benefit daily.dev, but it’s not currently listed, we invite you to suggest it.",
+      "source_content_hash": "f2aab868bf82d09b388456023d6e5ff2eac5e39a71fb8919faaa9fbd3c88b880",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们很高兴您有兴趣为daily.dev增添优质内容。我们的平台通过社区推荐不断扩展内容源。如果您发现某个未收录的优质内容源，欢迎向我们推荐。"
+      }
+    },
+    {
+      "segment_id": "0e7eb58c",
+      "source_content": ":::caution\nPlease review our [content guidelines](/for-content-creators/content-guidelines.md) before suggesting a new source. These guidelines are essential to our content review process, ensuring high-quality, relevant, and ethical content. Understanding and following these guidelines will improve the chances of your suggestion being accepted, helping us make daily.dev an exceptional resource.\n:::",
+      "source_content_hash": "054f1d3eb462f4a70e0154c059346dc595ce56f04f168cc3934db419f0614fd6",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::caution\n提交推荐前请务必阅读[内容指南](/for-content-creators/content-guidelines.md)。这些规范对我们的内容审核至关重要，确保平台呈现高质量、相关且符合道德的内容。理解并遵守这些指南将显著提高推荐通过率，帮助我们共同打造卓越的技术资源平台。\n:::"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "### Prerequisites",
+      "source_content_hash": "06853ecee3d6e5f20a40c0d198df12313c0c9b1a182563a0014a7fb4945c7081",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 前提条件"
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "1. Familiarize yourself with our [content guidelines](/for-content-creators/content-guidelines.md).\n2. Register on daily.dev.\n3. Ensure your publication has a public RSS feed.\n4. Confirm the source is a well-known publication or developer blogging platform.\n5. Corporate and personal blogs are not eligible. Consider [starting a Squad](../squads/creating-your-squad.md) instead.",
+      "source_content_hash": "ee648d68c1345d1c778ff4d251331d10d54e4518d2dc0b20a0d4b75d8384cf7a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 熟悉我们的[内容指南](/for-content-creators/content-guidelines.md)\n2. 注册daily.dev账号\n3. 确保您的出版物提供公开RSS订阅源\n4. 确认该源是知名技术出版物或开发者博客平台\n5. 企业和个人博客不符合条件，建议考虑[创建Squad](../squads/creating-your-squad.md)"
+      }
+    },
+    {
+      "segment_id": "6604338b",
+      "source_content": ":::note\nSome existing sources may not fully align with our updated criteria. We are gradually migrating relevant sources to Squads to ensure alignment with current standards.\n:::",
+      "source_content_hash": "0b1e06d50ea006fa04d74f623426ad5c00eb351725ad3fd4e52029173a8d4208",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::note\n部分现有内容源可能不完全符合最新标准。我们正逐步将相关源迁移至Squad体系以确保符合现行规范。\n:::"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "### How to Submit Your Source",
+      "source_content_hash": "1283f3d1ad13699b0f1b3af59df14131e9f47dba7950d0a117121661337e1618",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 提交流程"
+      }
+    },
+    {
+      "segment_id": "5da9e02b",
+      "source_content": "1. Access your feed through the [browser extension](../getting-started/browser-extension-installation.md) or the [web app](https://app.daily.dev).\n2. Sign up or log in.\n3. Select `Suggest new source` from the top-right in the `Sources` section, as shown below:\n4. Enter the URL of your publication's RSS feed (preferred) or homepage.\n5. Click `Check link`.\n6. Select the relevant RSS feed if multiple options appear.\n7. Click `Submit for review`.",
+      "source_content_hash": "f3c3d15aa46b586455a0ddb034bc4118ead1816e87951a4980a4e1eaf8284723",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 通过[浏览器扩展](../getting-started/browser-extension-installation.md)或[网页端](https://app.daily.dev)访问您的信息流\n2. 登录您的账户\n3. 在\"内容源\"版块右上角选择\"推荐新源\"(如下图所示)\n4. 输入出版物RSS订阅源链接(首选)或主页URL\n5. 点击\"检查链接\"\n6. 若出现多个选项，选择相关RSS订阅源\n7. 点击\"提交审核\""
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "![Suggest new source submission form on daily.dev](https://github.com/user-attachments/assets/3e55cc94-c65b-4425-9ad2-1c19f5efd5d2)",
+      "source_content_hash": "c9176e3a6e7f491aed236723154f63483db581837719e52a5c85a1aaaa0ac85a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev的新源推荐提交表单](https://github.com/user-attachments/assets/3e55cc94-c65b-4425-9ad2-1c19f5efd5d2)"
+      }
+    },
+    {
+      "segment_id": "782c902a",
+      "source_content": "### Review Process",
+      "source_content_hash": "2ad5184d73ef5888b833a162599c2a51665478c54490106ff5e7bf4c6ee98024",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 审核流程"
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "Our team manually reviews each submission to ensure compliance with our [content guidelines](/for-content-creators/content-guidelines.md). **The review process may take up to 30 days.**",
+      "source_content_hash": "77a56907548f28eebd6492cf21096693801a5b5f0d383ee4157a3820ff3684bf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们的团队会人工审核每项提交以确保符合[内容指南](/for-content-creators/content-guidelines.md)。**审核周期可能长达30天**"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "You’ll receive email notifications:",
+      "source_content_hash": "bd70de3b7ec22342cd861fbe4f0d2d22356ddee953fd1de3b73195fa6b80fbeb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您将通过电子邮件收到以下通知："
+      }
+    },
+    {
+      "segment_id": "4c077b92",
+      "source_content": "1. Confirming your source request submission.\n2. Informing you of your source’s approval or rejection.\n3. If further information is needed, our team will contact you directly at support@daily.dev.",
+      "source_content_hash": "a9434d94c29feb8af887d3d462f903288a596e85b4f2303c39238d1b00adf678",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 确认收到您的源推荐请求\n2. 告知您的源是否通过审核\n3. 如需补充材料，团队将通过support@daily.dev直接联系您"
+      }
+    },
+    {
+      "segment_id": "6f930b2f",
+      "source_content": "## FAQ",
+      "source_content_hash": "b07ed55203f0d88ebed77a69ea750333f4f62ec38193b32272aa2987376f7b86",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 常见问题"
+      }
+    },
+    {
+      "segment_id": "11c76fcc",
+      "source_content": "### What Happens After Approval?",
+      "source_content_hash": "6afda6fc13b4771cfaff4d39de963a108892cf24d882720351d1d51548b70ddb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 审核通过后会发生什么？"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "Once approved, new posts from your source will be automatically collected, analyzed, and potentially added to the feed. Note that historical content is not auto-populated from newly approved sources; only content published after approval will be considered. Please allow a few days for full synchronization.",
+      "source_content_hash": "5631d83822840c068b34def0571eb0b84610a51080c989d0b11aba8db8505b17",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过审核后，系统将自动抓取该源的新文章进行分析，并可能加入信息流。请注意历史内容不会自动同步，仅审核后发布的内容会被收录。完整同步可能需要数天时间。"
+      }
+    },
+    {
+      "segment_id": "af52d59d",
+      "source_content": "### Is Approval Permanent?",
+      "source_content_hash": "2332cfa228ba6155efab2b06276a6bdb78121fb783d3664d70d19da86c80989c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 审核通过是否永久有效？"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "We continuously monitor new sources to maintain content quality. Misuse of the platform may result in the disqualification of an approved source.",
+      "source_content_hash": "0fe7c6de14fe905671ebe0b3c5ab7838cf0d23dfdb80f7731545c61f31b67b07",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们会持续监控新内容源以维持质量标准。若发现滥用平台行为，已批准的源可能会被取消资格。"
+      }
+    },
+    {
+      "segment_id": "7283cdac",
+      "source_content": "### Can I Resubmit a Rejected Source?",
+      "source_content_hash": "c0ebba7047ddacd6d5433cdc5620162afc19157cae80f038aa3549b1be2bded5",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 被拒后能否重新提交？"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "Yes, but only after making significant changes. For further assistance, contact support@daily.dev.",
+      "source_content_hash": "27ea44b2f254d067d51afe93a6c618f66cae7b9229de2edd2f62fdeda3307b72",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "可以，但需先进行实质性改进。如需协助请联系support@daily.dev。"
+      }
+    },
+    {
+      "segment_id": "9e95fc4a",
+      "source_content": "### How to Track the Review Process?",
+      "source_content_hash": "d88b230d8748e626a5b378b4f615c1af044e3dd31aeb295ae22587784e04dc21",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 如何追踪审核进度？"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "Review status updates are communicated via email notifications. We appreciate your patience during this process.",
+      "source_content_hash": "394868342a1b7218b40f0c0f9a7e79bbbf570433b03ee862c75bbcab5821e10b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "审核状态更新将通过邮件通知。感谢您在此过程中的耐心等待。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/for-content-creators/suggest-new-source.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.391294+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "61aa0b182bcf1d3f7a2cc82f76c0010dc342ca57520aed90a80737a32109376f"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/squads/creating-your-squad.md",
+  "source_file_content_hash": "d2a313c0ec36928b2e4cd3d234ffef985faa76d7e8e70eb37f2c1e9477ec487c",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\ndescription: \"Learn how to create your own developer-focused Squad on daily.dev. Customize, invite members, and foster a collaborative community.\"\n---",
+      "source_content_hash": "8bf58a4079b401993213e9ec645bde1d39902139ac4fcfe2ad0fef7d15080519",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Creating Your Squad",
+      "source_content_hash": "3d17dce95f054855ac35915c5c8a725724adb64200521c1b40de66fc4f0d385e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 创建您的开发者小队"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![A cover image for squads](https://daily-now-res.cloudinary.com/image/upload/v1690467943/docs/Update%20July%202023/-_Private_squads_v3_2.png)",
+      "source_content_hash": "487f9a6b3688c76a3a5fca66bf5dcade80d8b8a0aecad5d1ff98c31afff80550",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![小队封面图](https://daily-now-res.cloudinary.com/image/upload/v1690467943/docs/Update%20July%202023/-_Private_squads_v3_2.png)"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What is a Squad?",
+      "source_content_hash": "8bf91cf44180909eaf1feaac98a41d11e3b44108c0f5039ddd995f6f681aea7d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是开发者小队？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "A Squad is a developer-focused group where members can come together to learn, interact, and engage on topics that matter to them. Think of Squads as tailored online communities specifically for developers. Squads facilitate knowledge sharing, discussions, and peer interactions, making them ideal for teams, projects, communities, or niche interests.",
+      "source_content_hash": "6df7505d025c04ca9ad5ea36ff4057e9b921e76ea17def3a391d89bc93ac402e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "开发者小队是以开发者为核心的社群空间，成员可围绕共同关注的技术主题展开学习、互动与交流。将小队视为专为开发者定制的线上社区，它们能促进知识共享、技术讨论和同行协作，非常适合团队协作、项目开发、技术社群或垂直领域兴趣小组。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "A Squad can be **Public** or **Private**:",
+      "source_content_hash": "b4248e20834d4beb79e2cea5c6bf5b83d146a7cbcd83769b1b566803cf31652c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "小队分为**公开**和**私有**两种类型："
+      }
+    },
+    {
+      "segment_id": "4269e691",
+      "source_content": "- **Public Squads**: Open to all developers and discoverable in the Squad Directory. Public Squads enjoy additional benefits like wider exposure and being featured in categories.\n- **Private Squads**: Invite-only, ensuring more controlled membership.",
+      "source_content_hash": "ed74615f0adf6e76b482aab8ec84f503648d1a73c32275869c8f07ff06f1f9c7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **公开小队**：面向所有开发者开放，可在小队目录中被发现。公开小队享有更高曝光度，并有机会被精选至分类推荐。\n- **私有小队**：仅限受邀成员加入，实现更严格的访问控制。"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "## Key Features of Squads",
+      "source_content_hash": "7fd8b77a9ddd37a0e9ab7621b3c6c26ddace82a0e2979aefa686813f4391fcd7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 小队核心功能"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Squads offer several interactive features to create an engaging experience:",
+      "source_content_hash": "5bc24064b6b8d642613d6bdc712774b76e6dc5141cb774dad5f8aaf9d2715a90",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "小队提供以下互动功能以打造沉浸式体验："
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "✨ **Create a Squad**: Customize your Squad with a unique name, handle, image, description, and select a category for Public Squads.",
+      "source_content_hash": "6489c87686e24837a50692ac1e528f93f2e1db98526d5feb98ed04910cbf163f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **创建小队**：自定义小队名称、专属ID、头像、描述，公开小队还需选择分类标签。"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "✨ **Invite Members**: Bring in developers to discuss, share resources, and collaborate.",
+      "source_content_hash": "3d1cf1ce260bfc9284ab2896ffb1e3efc475db63c547b0f342283ef2ce22539e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **邀请成员**：汇聚开发者进行技术讨论、资源分享与协作。"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "✨ **Post & Share Content**: Depending on settings, posting can be open to everyone or restricted to moderators. Enjoy full Markdown compatibility for rich discussions.",
+      "source_content_hash": "280558bdfe52ce9c81a55d3fc924f18b01772251e5ebe9df25c8ac142b48c586",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **发布内容**：根据设置，发帖权限可开放给全员或仅限管理员。支持完整Markdown语法，打造富文本讨论环境。"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "✨ **Moderation Tools**: As an admin, you have tools to manage posts, comments, and member interactions.",
+      "source_content_hash": "243a3eef2c553221a03571b2f69ce0c502056becbeb8a0566ca707c171191aa8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **管理工具**：管理员拥有帖子审核、评论管理和成员互动管控权限。"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "✨ **Integrate with Work Tools**: Kickstart collaboration by integrating your Squad with work-related tools, such as Slack. This makes setup seamless and enables stronger team alignment.",
+      "source_content_hash": "6e43ca96d713cac409642910a169a76bf9159869c5943210639aee8e61d57465",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **工作工具集成**：通过与Slack等工作工具无缝对接，快速启动协作并强化团队协同。"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "## How to Create a Squad",
+      "source_content_hash": "1583d5d7c4f9c74059edeaaf886d40e566240a3072f1874d9f75de5a5e1da402",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何创建小队"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "Starting a Squad is easy. Follow these steps:",
+      "source_content_hash": "d2c3a7127c0391db67d42701e8e7e19591fb87a28fcd0a58dae59f8b984091be",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "只需简单几步即可创建："
+      }
+    },
+    {
+      "segment_id": "7a2e981c",
+      "source_content": "1. **Start a New Squad**: In the left sidebar, click the \"New Squad\" button or find it in the Directory.\n2. **Name Your Squad**: Choose a name and handle that captures the focus of your Squad.\n3. **Add an Image**: Upload a profile image for your Squad, such as a logo or icon.\n4. **Write a Description**: Explain the theme, objectives, and member expectations for your Squad.\n5. **Select a Category** *(Public Squads Only)*: Choose a category that best fits your Squad from options like Languages, Web, AI, Career, and more.",
+      "source_content_hash": "59228f42f93a91ce8ad8a1f47f35a1fb4b8ef1687e7432b431d296eb9a8aac66",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **新建小队**：在左侧边栏点击\"新建小队\"按钮，或通过目录入口创建。\n2. **命名小队**：拟定能体现小队主旨的名称和专属ID。\n3. **上传头像**：添加小队标识图片（如LOGO或图标）。\n4. **撰写描述**：阐明小队主题、目标及成员行为准则。\n5. **选择分类**（仅公开小队）：从\"编程语言\"、\"Web开发\"、\"人工智能\"、\"职业发展\"等标签中选择最匹配的分类。"
+      }
+    },
+    {
+      "segment_id": "f331c5ef",
+      "source_content": ":::tip\nThe most active Squads have engaged members. Encourage contributions, discussions, and sharing. Leverage daily.dev’s netowrk to build a valuable developer community.\n:::",
+      "source_content_hash": "17919aa10aa2798c14e107d5bdfecf7fed2a549f79988d8398232a1390300036",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n活跃度最高的小队往往拥有积极参与的成员。鼓励内容贡献、技术讨论和资源共享，借助daily.dev的开发者网络打造高价值技术社区。\n:::"
+      }
+    },
+    {
+      "segment_id": "8bddee80",
+      "source_content": "## Squad Visibility: Private vs. Public",
+      "source_content_hash": "1e3d31f77dabfd65e09f4b6ed8bf92b3b06987ebad8d550b15da7e797ac7381d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 小队可见性设置"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "When creating a Squad, select the desired visibility:",
+      "source_content_hash": "86f28499e6a88c5f55b813a45aac26b27b0250b364d20742513585f75dd1dc02",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "创建时需选择可见范围："
+      }
+    },
+    {
+      "segment_id": "40251870",
+      "source_content": "1. **Private Squads**: Accessible only by invite, with content visible only to members.\n2. **Public Squads**: Open and discoverable in the Squads Directory, allowing developers to join freely.",
+      "source_content_hash": "77bb84f9dbed3b959a1284b1c9c33bb8d72c58222e2293181b63b4198ed68acc",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **私有小队**：仅限受邀成员访问，内容完全保密。\n2. **公开小队**：开放加入并展示在小队目录中，开发者可自由发现并参与。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "Public Squads must select a category during setup. Categories like Web, Mobile, AI, and Fun help users discover Squads that align with their interests.",
+      "source_content_hash": "21093e40db54c0982d052dc36694c00379969aae2245aeee6713c6681ff6ec5e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开小队必须选择分类标签，如Web开发、移动端、人工智能、趣味编程等分类帮助用户精准发现兴趣社群。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "Good luck! We can’t wait to see your community thrive ✨",
+      "source_content_hash": "7f01c1ce3f4f71d7802047e1f36b3e1a1e46e06bdc1aaad23d36eb43bbfc31f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "祝您创建顺利！期待见证您社群的蓬勃发展 ✨"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/squads/creating-your-squad.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.388762+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d2a313c0ec36928b2e4cd3d234ffef985faa76d7e8e70eb37f2c1e9477ec487c"
+  }
+}

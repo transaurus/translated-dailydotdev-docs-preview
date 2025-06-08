@@ -1,0 +1,262 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/squads/public-squads.md",
+  "source_file_content_hash": "4d3e618fbe069049b5676412032f5b99b8e83e7af4bb96c49d7bb2f90ad14db8",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Learn how to create and manage a Public Squad on daily.dev to boost your visibility, engagement, and reach within the developer community.\"\n---",
+      "source_content_hash": "84394acaa959e141520024d040fd4cbb599667fac20b575cf8faa3170463e5ce",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Becoming a Public Squad",
+      "source_content_hash": "e15e4bf476ee121148f5a5907c3c8e14a619ff755769ee09e3f01adcc53cd3e3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 成为公开小队"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Introduction to Public Squads",
+      "source_content_hash": "a26e13248c6f0eff2d55886292be5f2354ebc68941db3d4e3ab7c372b575ea9f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 公开小队简介"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Building a developer community is tough. That’s why we built daily.dev Squads—to make it easier to create a thriving developer community from day one. With Public Squads, you can start building your community while tapping into the global daily.dev ecosystem, where developers are already active and engaged.",
+      "source_content_hash": "6ee672f3e5016dc832867891b223597319a14d28b934234e4290fb4d370f6b84",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "构建开发者社区并非易事。为此我们打造了daily.dev小队功能——帮助您从零开始快速建立活跃的开发者社区。通过公开小队，您既能创建自己的社区，又能融入全球daily.dev生态体系，直接触达平台上已有的活跃开发者群体。"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Public Squads are the best way to feature your content and gain organic exposure on daily.dev. These Squads are open to everyone and discoverable in the [Squads Directory](https://app.daily.dev/squads). They help you connect with developers who share your interests, making it easier to create a vibrant, active community.",
+      "source_content_hash": "2c870fbe4cc28432656d2317f5e196405b3226d2e55a3ba988c7c2bcc0d62279",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开小队是展示内容并获得自然曝光的绝佳方式。这些小队完全开放，所有用户都可通过[小队目录](https://app.daily.dev/squads)发现并加入。它们能帮助您快速连接志同道合的开发者，轻松创建充满活力的社区。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "![public squads](https://daily-now-res.cloudinary.com/image/upload/v1722602245/docs-v2/db1091c4-eab0-4357-ba73-a8c3873f6231.png)",
+      "source_content_hash": "62800a95b31ce0adbdc0840c7a9669fb1b0feccae95c63c35382bc76a2883d74",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![公开小队](https://daily-now-res.cloudinary.com/image/upload/v1722602245/docs-v2/db1091c4-eab0-4357-ba73-a8c3873f6231.png)"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Key Features of Public Squads",
+      "source_content_hash": "3f431909368de403c9c8bacb2228f7bf1e6f145b5c3397e67abfad205f91a8d0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 公开小队核心特性"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "What makes Public Squads special?",
+      "source_content_hash": "898704cc1cd931d15319f651e7d73717334b5a08123d7c7436b246a951e12136",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开小队的独特优势何在？"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "✨ **Discoverability**: Public Squads are integrated into the daily.dev ecosystem, making them visible to a global network of developers already active on the platform.",
+      "source_content_hash": "ad7c954b5b394b6e8035e9209af897b06feab185da5b1ea5464c2d7694614745",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **可发现性**：公开小队深度集成于daily.dev生态，直接面向平台上全球开发者网络可见"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "✨ **High Engagement**: Developers on daily.dev are engaged and ready to talk, so you won’t have to struggle to keep conversations alive. Public Squads foster meaningful interactions and discussions.",
+      "source_content_hash": "6be319a5dbbbeefc840748e68f235ed0235eb10e3aabe9f9fe2721aadcb4c065",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **高互动性**：daily.dev开发者活跃度高，您无需担心冷场问题。公开小队能自然催生深度讨论"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "✨ **Content Curation**: As a Squad leader, you can curate articles, tutorials, and videos that resonate with your community, keeping members engaged and informed.",
+      "source_content_hash": "4d490c9efc3152c21634c5158078e771879937aff87590c477703453fe3bbf9b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **内容策展**：作为小队管理员，您可以精选与社区调性相符的技术文章、教程和视频"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "✨ **Immediate Visibility**: There’s no longer a need for manual review to become a public Squad. Simply set your Squad to Public during creation, and you're good to go.",
+      "source_content_hash": "f5e8cb0bc679b93b392dfdd245953b2fe80a80460532e1efb2302aeba20ca006",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **即时可见**：创建时选择公开即可立即生效，无需人工审核流程"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "✨ **Community Interaction**: Public Squads allow for open engagement, and by default, all members can post (with admin approval required) and invite others to join.",
+      "source_content_hash": "97eab17c1416453a40860eafa0e84e201bba5ffd2ec9ac17e5ebce5983314d6b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **社区互动**：默认允许所有成员发帖（需管理员审核）并邀请新成员加入"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "✨ **Reporting and Moderation**: Admins and moderators of a Squad get various tools to ensure the community stays safe and healthy.",
+      "source_content_hash": "e2a06ad618abc07181972cdf9909876fd50ea50ed38e4f695ec322218e500443",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **监管工具**：为管理员提供完善的社区健康管理工具"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "## Benefits of Being a Public Squad",
+      "source_content_hash": "7f56af3a72dbb03fbedbe972f09bb4d76bcc27a7ddf702fdc6d5cab9075425b9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 公开小队优势"
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "- **Increased Visibility**: Public Squads appear in the directory, where developers can browse by categories such as Languages, Mobile, AI, and more.  \n- **Community Engagement**: Public Squads can foster larger, more interactive communities by welcoming new members.  \n- **Recognition**: Public Squads are marked with a \"Public Squad\" badge, enhancing their credibility. Key stats such as views, upvotes, and posts are displayed at the top of the Squad page.",
+      "source_content_hash": "65a0caa16bf0e5070caec44912a0c7b479090ef63930fdf6bbdc46325fc5fd48",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **曝光提升**：出现在按编程语言、移动开发、AI等分类的目录中  \n- **社区活跃**：开放加入机制有助于形成更大规模的互动社区  \n- **权威认证**：专属\"公开小队\"徽章增强可信度，关键数据（浏览/点赞/发帖量）直接展示在小队首页"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "## How to Choose Your Category",
+      "source_content_hash": "fa3dfc1919d6d83b5519556f527fb4066840e88dd6163b1d49c880b842bba888",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何选择分类"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "When creating a Public Squad, selecting the right category ensures your Squad reaches the most relevant audience. Here's an overview of the available categories:",
+      "source_content_hash": "53d607940a906a0203a501c873af2b8a6f995ba67d622cfd1caf1339f6d7806b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "创建公开小队时，选择合适的分类能精准触达目标受众。以下是可选分类概览："
+      }
+    },
+    {
+      "segment_id": "60430721",
+      "source_content": "| **Category**         | **Criteria**                                                                                   | **Examples**                                   |\n|-----------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------|\n| **Featured**          | Editor’s choice for high-quality, active Squads with exceptional content and engagement.      | Best-in-class Squads curated by daily.dev.    |\n| **Languages**         | Squads focused on specific programming languages.                                             | JavaScript, Python, Rust.                     |\n| **Web**               | Squads related to web development, including front-end and back-end topics.                   | React, Tailwind, Node.js.                     |\n| **Mobile**            | Squads focusing on mobile app development and related frameworks.                             | Flutter, Swift, Kotlin.                       |\n| **DevOps & Cloud**    | Communities for DevOps practices, cloud platforms, and CI/CD tools.                           | Kubernetes, AWS, Terraform.                   |\n| **AI**                | Squads dedicated to artificial intelligence, machine learning, and data science.              | OpenAI, TensorFlow, GPT Models.               |\n| **Games**             | Communities around game development, engines, and design.                                     | Unity, Unreal Engine, Indie Game Design.      |\n| **DevTools**          | Squads created by or for developer tools and platforms.                                       | GitHub Actions, Postman, Sentry.              |\n| **Career**            | Topics around career growth, leadership, and developer mentorship.                            | Job search tips, transitioning to management. |\n| **Open Source**       | Squads focusing on contributions to open source projects and repositories.                    | Maintainers, OSS best practices, Git.         |\n| **DevRel**            | Squads about developer relations and building developer communities.                          | Community management, advocacy strategies.    |\n| **Fun**               | For anything else—lighthearted topics, memes, or general developer interests.                 | Programming jokes, off-topic discussions.     |",
+      "source_content_hash": "8e50541347f0c8b3c93250ed62be7fb567a3013d01d8a657627d4f07da3fd8d9",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_60430721"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "Choosing the most relevant category makes your Squad easier to discover and helps you attract the right audience.",
+      "source_content_hash": "740a34487ce5e17394f66f7ec0075d079ec3ae344cffac0d82bc1db3ff671fc3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "选择最相关分类可显著提升小队的可发现性，帮助吸引精准受众。"
+      }
+    },
+    {
+      "segment_id": "7283cdac",
+      "source_content": "## Tips for Success as a Public Squad",
+      "source_content_hash": "ae83737421ace72ccaa6df7b29475a954fa8e569f913a36a8cf9735ce767b651",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 公开小队运营建议"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "To maximize your impact as a Public Squad:",
+      "source_content_hash": "709998c3c0b069267c9dfd2b3603ba4e66cf634648c6b3d81cfd99d6618a016c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要最大化公开小队影响力："
+      }
+    },
+    {
+      "segment_id": "ea0c7bae",
+      "source_content": "- **Optimize Metadata**: Add a compelling image, description, and title.  \n- **Foster Engagement**: Encourage discussions and participation among members.  \n- **Post High-Quality Content**: Regular, meaningful posts increase visibility and credibility.  \n- **Grow Your Community**: Invite members and promote your Squad in relevant channels.",
+      "source_content_hash": "a9ae2af426549ede5279df7bfe3495417943ec2bcdb8190c7e41b3caf430cded",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **优化元数据**：配置吸引人的封面图、描述和标题  \n- **促进互动**：鼓励成员积极参与讨论  \n- **内容质量**：定期发布高质量内容提升可信度  \n- **社区扩张**：主动邀请成员并在相关渠道推广"
+      }
+    },
+    {
+      "segment_id": "fc8cba88",
+      "source_content": ":::caution\n**Public Status is Revocable**: Non-compliance with content guidelines or misuse of the platform may result in losing Public status. Use this privilege responsibly.\n:::",
+      "source_content_hash": "3558a012328e00ac310264ebf60b2b47a3c6919edefcb23b85b9d35039c4fb85",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::caution\n**公开状态可撤销**：若违反内容准则或滥用平台功能，可能被取消公开资格。请善用此权限。\n:::"
+      }
+    },
+    {
+      "segment_id": "147e8550",
+      "source_content": "With Public Squads, you get a head start in building a thriving developer community. Let’s build some amazing communities together! 🚀",
+      "source_content_hash": "563762dacc5461bde3bf1b902dc1553bfc5585af22317e24fbc30cba3dd6774b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开小队让您赢在开发者社区建设的起跑线上。让我们携手打造卓越的开发者社区！🚀"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/squads/public-squads.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.390475+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "4d3e618fbe069049b5676412032f5b99b8e83e7af4bb96c49d7bb2f90ad14db8"
+  }
+}

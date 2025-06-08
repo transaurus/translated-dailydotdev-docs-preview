@@ -1,0 +1,412 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/weekly-goal.md",
+  "source_file_content_hash": "1e9264f3792951e6f0e343c16da2bd8e9691fd513f5d8010cd29784b79ff55ac",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Learn about daily.dev Reading Streaks and how to track your reading habits, view milestones, and stay consistent with reminders and streak restoration.\"\n---",
+      "source_content_hash": "2445c6550ad9a03a197be6d39c6dd728563c2ebac373c6def6a68a4acfe4dc7c",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Reading Streaks",
+      "source_content_hash": "9852e7a75429aaeefc7f0a61af231dfcc1b6de757f2eb82f80d5eb3bd6f6f607",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 阅读连续打卡"
+      }
+    },
+    {
+      "segment_id": "a239c14b",
+      "source_content": ":::note\nThe previous version of Reading Streaks, called Weekly Goal, has been sunset as of May 2024.\n:::",
+      "source_content_hash": "3b3ecdc8ee203d62c1e6ade71373ae504de8741ff96ae4c9a6f4b39fa8d42ac4",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::note\n旧版阅读打卡功能\"每周目标\"已于2024年5月正式下线。\n:::"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "![Milestone pop-up congratulating user on reaching a streak milestone](https://daily-now-res.cloudinary.com/image/upload/v1719905254/docs/mTR8YyOxU_1.webp)",
+      "source_content_hash": "744f40f82435e170ae3c95db9240ebe5327128253aea59ac7d7723572f376b07",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![祝贺用户达成连续打卡里程碑的弹窗](https://daily-now-res.cloudinary.com/image/upload/v1719905254/docs/mTR8YyOxU_1.webp)"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Introduction to Reading Streaks",
+      "source_content_hash": "68b73567aad4732fa56c6f21e7a73a744f7b23150d5be78d46cf51d69e00fd1a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 阅读打卡功能简介"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "Creating a reading habit can significantly impact your personal and professional growth. Continuous learning keeps you updated with the latest trends, tools, and best practices in your field. To help you maintain this habit, we've introduced **Reading Streaks**. This feature provides motivation by celebrating your dedication to staying updated. Here's how it works:",
+      "source_content_hash": "3d2fb8127424077d9b8223da6bca85c110fbb24ddcd523b87c752f2563915fc7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "培养阅读习惯能显著促进个人职业发展。持续学习能让你掌握行业最新动态、工具和最佳实践。为帮助您保持这一习惯，我们推出了**阅读连续打卡**功能。该功能通过庆祝您的持续学习来提供激励，具体机制如下："
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 运作原理"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "### Milestones and Notifications",
+      "source_content_hash": "c1730130aae0821a644dcfa697f44374913300d8674933761f56a86e5ed7d1b9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 里程碑与通知"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "Celebrate your reading streak milestones with congratulatory pop-ups. Milestones follow a Fibonacci series. You can opt out of these notifications anytime.",
+      "source_content_hash": "139032911424ceb5dfbd2c908a65417a2e8da1e305e6662c74341b6d7918fbb2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过祝贺弹窗庆祝您的阅读打卡里程碑。里程碑遵循斐波那契数列规律。您可随时关闭这些通知。"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "![Notification pop-up celebrating a reading streak milestone](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_376c6ea1-ab0b-4402-bddb-d4ac5c28d237.webp)",
+      "source_content_hash": "7ece2742502466e0394738798f1e9c4aac858c0becfb4b37ccd716e9ebfbf9a9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![庆祝阅读打卡里程碑的通知弹窗](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_376c6ea1-ab0b-4402-bddb-d4ac5c28d237.webp)"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "### Reading Streak Icon",
+      "source_content_hash": "d1d701aff341e1d4cd5155906f3df47b7011c5ef65eb836f75cf60f30b66102d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 打卡状态图标"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "On the top right, you'll see the reading streak icon. It shows a flame once you've read the first post of the day. Before that, it appears as an empty icon outlined by a dotted line.",
+      "source_content_hash": "655d67a58141bafdbef4c4e94dcdae923df9ce36f0541c7719452c303b79e589",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "界面右上角设有打卡状态图标。当日阅读首篇文章后会显示火焰图标，此前则以虚线轮廓的空心图标显示。"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "![Reading streak icon displaying flame for active streak](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_7bdd0401-c9cd-45ab-88e0-45b49197e34f.webp)",
+      "source_content_hash": "5c5e011caced7aed403f8e29925dda709311e27507eee7f0918426add859cc85",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![显示活跃打卡状态的火焰图标](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_7bdd0401-c9cd-45ab-88e0-45b49197e34f.webp)"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "### Streak Tracking",
+      "source_content_hash": "b0e6666c0fd2e22d540c2a938504ab70d4f9cd2b855c54a60ad15cf3328c2a94",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 打卡记录追踪"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "Click on the reading streak icon to view your reading activity for the past week, including days read and skipped. The widget also displays your longest streak and total reading days since joining daily.dev.",
+      "source_content_hash": "262e2d491979673df1c1b4db9ee39f2f46027fed46ec10889343dd2133782879",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击打卡图标可查看近七日阅读记录，包括已读日和跳过日。该组件同时显示您加入daily.dev以来的最长连续打卡天数和总阅读天数。"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "![Reading streak widget showing weekly activity, longest streak, and total days](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_ab5fd98a-3e8a-4c64-b4fe-c103ee92fdf7.webp)",
+      "source_content_hash": "fc24d65d1cc8305297dd92d8503af1bf6614976d9c87c7ffbd38b02ad839022e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![显示每周活动、最长连续打卡及总天数的打卡组件](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_ab5fd98a-3e8a-4c64-b4fe-c103ee92fdf7.webp)"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "### Weekend Freeze",
+      "source_content_hash": "ea51ff1f8785572638d29aa50c78a1d88649fbc171acd8326a486d045438051a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 周末豁免"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "Weekends are grayed out, and skipping them won't break your streak. If you read on weekends, those days are counted in your streak and marked with a flame.",
+      "source_content_hash": "c515804756b373a477d1c3742d8e28e46d5d24ec7b4131bfa575122422c373af",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "周末日期显示为灰色，跳过周末不会中断打卡记录。若周末坚持阅读，这些天数会计入打卡并标记火焰图标。"
+      }
+    },
+    {
+      "segment_id": "8d04259b",
+      "source_content": "## What Counts as a Reading Day?",
+      "source_content_hash": "52890b473f05a01dbca88e955f1619484b92f35f8b80217e5151d6e57011c485",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何判定有效阅读日？"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "For most content types on daily.dev, you need to go and read/watch the original content for it to qualify as a reading day. Simply clicking on a post in the feed isn't enough; you must click \"Read post\" and consume the content for it to count. For video content, it counts as a view just by opening the post since you can watch the video in the embedded player. There are some other exceptions, like Squad posts, where clicking on them inside daily.dev is sufficient.",
+      "source_content_hash": "18f63be94be0aacda05641440a8f1ab866b756d3598963d16e9d6d940fc4f291",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "对于daily.dev大多数内容类型，需要实际阅读/观看原文才能记为有效阅读日。仅点击feed中的帖子并不足够，必须点击\"阅读文章\"并消费内容才会计数。视频内容在打开帖子时即记为一次观看（因可直接在嵌入式播放器中观看）。部分例外情况如Squad帖子，在daily.dev内点击即视为有效。"
+      }
+    },
+    {
+      "segment_id": "80e5ac71",
+      "source_content": ":::note\nAdditionally, it's not enough to simply log in to daily.dev once a day; you must consume something every day (except weekends) to maintain a streak.\n:::",
+      "source_content_hash": "b988659aaff9719c866092653b27184b8ddf80782ae7904dd302bf114658efea",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::note\n注意：仅每日登录daily.dev并不满足打卡条件，必须每日（周末除外）实际消费内容才能保持连续打卡记录。\n:::"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "## Customizing Your Reading Streak",
+      "source_content_hash": "d9db97f0876954501e4e4d720113958cd261d8ab265711e8b6f8a52931162db4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 自定义阅读打卡设置"
+      }
+    },
+    {
+      "segment_id": "cb5b269c",
+      "source_content": "### Enabling/Disabling Reading Streak",
+      "source_content_hash": "8c1ca16cc07303f13d54e5a93e239dd1d0a76ab6d6d2eb842a5a0f2ef643d013",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 启用/禁用阅读打卡"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "You can toggle the reading streak feature on or off. Navigate to \"Customize\" on the sidebar and use the toggle option.",
+      "source_content_hash": "098abbe40afbd819ade24d6e7911a3be13d58f38b34a1619ff4f00bd44beb495",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可随时开关打卡功能。通过侧边栏\"自定义\"选项使用切换开关。"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "![Option to enable or disable reading streak in settings](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_5508690a-ba29-4d47-94cb-4cb714ca948c.webp)",
+      "source_content_hash": "edced004dcc4ba0bcee84a422138185cca9f0896871392793d29ddd5551c5fcf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![设置中启用/禁用阅读打卡的选项](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_5508690a-ba29-4d47-94cb-4cb714ca948c.webp)"
+      }
+    },
+    {
+      "segment_id": "1a316f80",
+      "source_content": "### Streak Reminders",
+      "source_content_hash": "1a4250a285c8e2b253b5c3fca540643c1d8c4994e2de90093718a6e2b227a044",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 打卡提醒"
+      }
+    },
+    {
+      "segment_id": "40158b4b",
+      "source_content": "To avoid breaking your streak, a reminder notification is sent at 20:00 in your local time if you're about to lose your streak. You can [enable or disable these notifications](https://app.daily.dev/account/notifications) by navigating to your profile image 👉 account details 👉 notifications. You can also manage this via the reading streak modal.",
+      "source_content_hash": "a6e5a4b793894478de5621a71a277f7e7370fd87615b03ba732be016d3fde80a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "为避免连续阅读天数中断，系统会在当地时间20:00发送提醒通知（若当天尚未完成阅读）。您可通过点击个人头像👉账户详情👉通知设置来[启用或禁用这些提醒](https://app.daily.dev/account/notifications)，也可在连续阅读天数弹窗中进行管理。"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "![Notification settings to enable or disable streak reminders](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_27fd1816-4348-4624-a6f2-faceb2d68605.webp)",
+      "source_content_hash": "30b6a55207a3ff77049967017d4dee7bdd0dc1c04cbab770cdd286c31ed7f02f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![启用或禁用连续阅读提醒的通知设置](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_27fd1816-4348-4624-a6f2-faceb2d68605.webp)"
+      }
+    },
+    {
+      "segment_id": "c315c636",
+      "source_content": "### Profile Integration",
+      "source_content_hash": "8ed41be0b73a32aae53d82c2c48a1ae3e267b6ef5c83c5378ee7930157c68ed0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 个人资料集成"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "Your longest streak and total reading days are featured on your profile, showcasing your dedication and consistency.",
+      "source_content_hash": "7b53c4462e90fce9dde31a3a4eafa128d8143649ab9fcd52155c3543170f0cf4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您的个人资料会展示最长连续阅读天数和累计阅读天数，彰显您的专注力与坚持。"
+      }
+    },
+    {
+      "segment_id": "bd92edfc",
+      "source_content": "### DevCard Integration",
+      "source_content_hash": "63d4682a429f0e970d4c5d8fa96685787fcaece8db65f27efa835e978920cca7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 开发者卡片集成"
+      }
+    },
+    {
+      "segment_id": "7f71ff2a",
+      "source_content": "Your longest streak is displayed on your profile and your [DevCard](https://app.daily.dev/devcard), allowing you to showcase your dedication. Check out a sample below 👇#notsohumblebrag",
+      "source_content_hash": "95be6bf0a3bc9ed66708706ce92f592d849b3dbd8c093c9c26a9bad42e989391",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "最长连续阅读天数将同步显示在个人资料和[开发者卡片](https://app.daily.dev/devcard)上，方便您展示学习毅力。查看下方示例👇#低调炫耀"
+      }
+    },
+    {
+      "segment_id": "147e8550",
+      "source_content": "![DevCard displaying user's longest streak and reading stats](https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard-background.webp)",
+      "source_content_hash": "012573c5ebefb2efec52760d81f5d5f19eec39db7b943c52f2b804bb3ad090df",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![展示用户最长连续阅读天数和阅读数据的开发者卡片](https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard-background.webp)"
+      }
+    },
+    {
+      "segment_id": "daed5acb",
+      "source_content": "## Restore Streak",
+      "source_content_hash": "6193f9e67211b28769066537d477c385c2820387cdadbdf121012e3e0414d60a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 恢复连续记录"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "When you’re back from your holiday, or hospital stay, whatever your excuse is, you’ll get a message about your lost streak and an offer to restore it. You can restore it by “paying” 25 reputation points (no, we don’t monetize this, it’s just a way to be fair). The first restore is on us. What if I don’t have 25 points to restore? Tough cookie. Looks like you’re going to have to start over.",
+      "source_content_hash": "aec13f073f514683e44505d1c77c873ca2d29480398838bb3bf31c9b73ad2f01",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "当您结束假期、病假或其他特殊情况后回归时，系统会提示连续记录已中断，并提供恢复选项。您可通过消耗25声望值来恢复记录（注：非商业化设计，仅为公平机制）。首次恢复免费。若声望值不足？很遗憾，您需要重新开始累积。"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "![Notification offering streak restoration with reputation points](https://github.com/user-attachments/assets/b9535d48-b778-4442-b51b-9ede3c81d0a6)",
+      "source_content_hash": "f89fe093e3a993d26500edb576b811b00c7d3b00eb8f6fc8bff44ae978758582",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![使用声望值恢复连续记录的提示通知](https://github.com/user-attachments/assets/b9535d48-b778-4442-b51b-9ede3c81d0a6)"
+      }
+    },
+    {
+      "segment_id": "7736989b",
+      "source_content": "You can also configure your weekend days, so that it’s easier to keep your streak: just go to reading streak setting on the top right to configure your reading streak settings.",
+      "source_content_hash": "46518a48fb9da75b728aac5c3695be77360d5c5fa5f92dc54055b850942203b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您还可以自定义周末设置来维持连续记录：点击右上角连续阅读设置即可调整相关偏好。"
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "![Settings to configure weekend reading preferences for streak maintenance](https://github.com/user-attachments/assets/21223960-bf13-47f0-81f9-3bd42baf6ffb)",
+      "source_content_hash": "d5992ec15d95a00aad77f23ff3bf85036f0f673345321ae23024a19efeb219c8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![用于配置周末阅读偏好以维持连续记录的设置界面](https://github.com/user-attachments/assets/21223960-bf13-47f0-81f9-3bd42baf6ffb)"
+      }
+    },
+    {
+      "segment_id": "a4bf4268",
+      "source_content": "## Public Leaderboard",
+      "source_content_hash": "7490044d4d69be428fe98479d097189c72491d2c695eaf565ba7540e1e095368",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 公开排行榜"
+      }
+    },
+    {
+      "segment_id": "ec619944",
+      "source_content": "We have a [public leaderboard](https://app.daily.dev/users) that features community members with the longest streaks and the most reading days in general. Check it out to see where you stand and get inspired by the top readers in our community.",
+      "source_content_hash": "6e72c40dc69763c009ff2c7adedb46ff24dc25b0a3e91d33c36ad86e0df83486",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们设有[公开排行榜](https://app.daily.dev/users)，展示社区中连续阅读天数最长和总阅读天数最多的成员。快来查看您的排名，从顶尖阅读者身上获取激励吧。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/weekly-goal.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.388534+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "1e9264f3792951e6f0e343c16da2bd8e9691fd513f5d8010cd29784b79ff55ac"
+  }
+}

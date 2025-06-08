@@ -1,0 +1,222 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/keyword-filters.md",
+  "source_file_content_hash": "eead79e32b4d96e63589ab93d27dc7637ffb924a02a2568521aee9e93090c605",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 5\ndescription: \"Keyword Filters on daily.dev let you block posts containing specific words or phrases for a cleaner, more focused feed. Available exclusively for Plus subscribers, this feature helps you eliminate distractions and customize your content experience.\"\n---",
+      "source_content_hash": "06915184f89442e7bbf23a3e6c88d7f14f0ee3cbde837a8c144fa0af80c1f807",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Keyword Filters",
+      "source_content_hash": "5baccacd0c8f6b86ed2f5f5aced2c4cb27d9622d690bf661ca654fe92ebff214",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 关键词过滤器"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What Are Keyword Filters?",
+      "source_content_hash": "4d1a702734972b7b6610371c261722a5875ed2001212ceff8d59e3e1ecc2e787",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是关键词过滤器？"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "**Keyword Filters** allow you to block posts containing specific words or phrases, giving you complete control over the content in your daily.dev feed. This feature helps you eliminate irrelevant, repetitive, or distracting topics, making your feed more focused and personalized.",
+      "source_content_hash": "3377c353284bd7db3332d97393e09aca7c0fa8406232040a250145c06ea37857",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**关键词过滤器**允许您屏蔽包含特定词汇或短语的帖子，从而完全掌控daily.dev信息流中的内容。该功能可帮助您剔除无关、重复或干扰性主题，使信息流更加聚焦和个性化。"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Available exclusively for **Plus** subscribers, Keyword Filters let you customize your reading experience and remove unnecessary noise—so you can concentrate on content that truly matters.",
+      "source_content_hash": "90d570d05e6d7c2cc26c64dc55524990ec2e51026ebeb90f5a7545fb61a69cee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "作为**Plus订阅用户**专属功能，关键词过滤器让您能定制阅读体验，消除不必要的信息噪音——从而专注于真正有价值的内容。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Why Use Keyword Filters?",
+      "source_content_hash": "6ad2e0a8a52020dad4a205bb913d0376e30bb133b993058957694fae5f691748",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为什么使用关键词过滤器？"
+      }
+    },
+    {
+      "segment_id": "4ddf6ae7",
+      "source_content": "- **Filter out unwanted content** – Automatically block posts containing words you don’t want to see.  \n- **Stay focused** – Remove distractions and keep your feed relevant to your interests.  \n- **Customize your feed** – Gain full control over your content experience.  \n- **Exclusive for Plus** – Enjoy advanced filtering options and unlimited customization.",
+      "source_content_hash": "760e8af4c068299369e1b80bd6f2b8424c21d76703a8b65356bdfc27496a721e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **过滤无关内容** – 自动屏蔽包含您不想看到的词汇的帖子  \n- **保持专注** – 消除干扰，确保信息流与您的兴趣相关  \n- **定制信息流** – 获得对内容体验的完全控制权  \n- **Plus会员专属** – 享受高级过滤选项和无限定制能力"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "## Key Features",
+      "source_content_hash": "9214cf33ff90e03f0531d7f7aa0acc0dc8c37a382092e325d7e26659930e0c52",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心功能"
+      }
+    },
+    {
+      "segment_id": "40f9552a",
+      "source_content": "### Block Specific Words or Phrases",
+      "source_content_hash": "22c398f7a4c4d1297e907edb2e5e54f2d4def00b94b344f739867f6edc3826a8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 屏蔽特定词汇或短语"
+      }
+    },
+    {
+      "segment_id": "8cf6d045",
+      "source_content": "- Block any word or phrase, ensuring posts with unwanted content never appear in your feed.  \n- Add multiple words at once by separating them with commas.",
+      "source_content_hash": "eff3edbfa3d63acb420863a3d41573b3b82b049aa4247903644ded67105f97a0",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 屏蔽任意词汇或短语，确保包含不需要内容的帖子永不出现  \n- 通过逗号分隔可一次性添加多个词汇"
+      }
+    },
+    {
+      "segment_id": "fa430ad4",
+      "source_content": "### Manage Your Blocked Words List",
+      "source_content_hash": "3d92de7498aaeb8b0d55090b48b377e0108a39938c8e30aad8e11e288856fd8d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 管理屏蔽词列表"
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "- View and manage all your blocked words directly from the **Blocked** tab in your feed settings.  \n- Remove any blocked word by clicking the **\"X\"** next to it.",
+      "source_content_hash": "42668cc7be48671416c558925a1604cd9ceb6b58bdc427b646caa7a0be20cd09",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 在信息流设置的**已屏蔽**标签页查看和管理所有屏蔽词  \n- 点击词汇旁的**\"X\"**图标即可移除"
+      }
+    },
+    {
+      "segment_id": "48847fd4",
+      "source_content": "### Seamless Integration with Feed Settings",
+      "source_content_hash": "fa65ec6d5e0c46ec6557411cc5e42ed7f44050db1d69eba2efff5e2d7b50b51b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 与信息流设置无缝集成"
+      }
+    },
+    {
+      "segment_id": "86b525ab",
+      "source_content": "- Easily access **Keyword Filters** from your feed settings for quick customization.  \n- Combine with existing features like tag and source blocking for a fully personalized experience.",
+      "source_content_hash": "93c6ab6d38c2d6d7cb6198f3857b0e729330a7f4dc343c1b7fefd77332c758a5",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 通过信息流设置快速访问**关键词过滤器**进行定制  \n- 与标签屏蔽、来源屏蔽等现有功能结合，实现全面个性化体验"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "### Plus-Exclusive Access",
+      "source_content_hash": "725ec994821cc9ff01e502c1b897990c8182cea59efbe7115912930980ff3035",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Plus会员专属权限"
+      }
+    },
+    {
+      "segment_id": "7a2e981c",
+      "source_content": "- **Free users** – See the feature in your settings but with clear messaging that it’s exclusive to **Plus** subscribers.  \n- **Plus subscribers** – Enjoy full access to the Keyword Filters and block as many words as needed for a distraction-free experience.",
+      "source_content_hash": "9f610d5ca5fd6bb58d3482710954d60270679ce7e4998ef7bd63414be84ee56a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **免费用户** – 在设置中可见该功能，但会明确提示需升级**Plus**订阅  \n- **Plus订阅用户** – 完整使用关键词过滤器，可无限添加屏蔽词获得无干扰体验"
+      }
+    },
+    {
+      "segment_id": "62a6890b",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用指南"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "### For Plus Subscribers",
+      "source_content_hash": "6cc4c76f97bd343f2f01bd5f9720081d0ee2ea8ddfffd01f8b0d19871f49146d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Plus订阅用户操作"
+      }
+    },
+    {
+      "segment_id": "8612da05",
+      "source_content": "1. Go to your **Feed Settings** and click on the **Blocked content** tab.  \n2. Type the words or phrases you want to block and press **Enter** to add them.  \n3. Add multiple words at once by separating them with commas.  \n4. Review your blocked words in the list and remove any by clicking the **\"X\"** button.",
+      "source_content_hash": "709ac104d1392f448e4677dafa41131b28a09ccc9966d664aefb467c4333a362",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 进入**信息流设置**，点击**屏蔽内容**标签页  \n2. 输入需要屏蔽的词汇或短语，按**回车键**添加  \n3. 用逗号分隔可一次性添加多个词汇  \n4. 在列表中查看屏蔽词，点击**\"X\"**按钮即可移除"
+      }
+    },
+    {
+      "segment_id": "f44c1398",
+      "source_content": "## Free vs. Plus Access",
+      "source_content_hash": "8dd3d38886e6b5cf8fe5da428ee1eac840fc197a6612e1fceb5c26b158851c33",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费版与Plus版对比"
+      }
+    },
+    {
+      "segment_id": "61cbcc6c",
+      "source_content": "| Feature                  | Free Users        | Plus Subscribers |\n|--------------------------|-------------------|------------------|\n| Add Blocked Words        | ❌                | ✅               |\n| Manage Blocked Words     | ❌                | ✅               |\n| Remove Blocked Words     | ❌                | ✅               |\n| Access from Feed Settings| View Only         | Full Access      |",
+      "source_content_hash": "b09a8fd53558f97a460c7320518a0ea7e2a9a4a2ed7db4a01aad06122f43e522",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_61cbcc6c"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/keyword-filters.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.386568+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "eead79e32b4d96e63589ab93d27dc7637ffb924a02a2568521aee9e93090c605"
+  }
+}

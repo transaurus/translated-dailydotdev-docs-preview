@@ -1,0 +1,122 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/deleting-your-profile.md",
+  "source_file_content_hash": "e2de6ad3f817308438d3e3ad85a0c58d1f1de2f491adfdd9bead5eeef54b42ac",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 8\ndescription: \"Learn how to permanently delete your daily.dev profile, including all associated content, bookmarks, posts, and comments. Important steps and considerations before proceeding.\"\n---",
+      "source_content_hash": "51d28bf72e4ca54aa5d1050d58c7e0beec49fc4980bc6ef31be3a670ad215cdc",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Deleting Your Profile",
+      "source_content_hash": "59651297c791528af667ebf946873b83c6df8abfb40c9148c053e0872d922b8f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 删除个人资料"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## How to Delete Your Profile",
+      "source_content_hash": "0946b5a141e5a319bc724373079dd0cfdc69e60f5735737ef1477d195ab3906e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何删除个人资料"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "If you wish to delete your account on daily.dev, please follow these steps:",
+      "source_content_hash": "65a80c251a5842bb756eb4c0df6ff83e546094889cfb35a0c713405e4939215f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如需删除daily.dev账户，请按以下步骤操作："
+      }
+    },
+    {
+      "segment_id": "143e51c1",
+      "source_content": "1. Go to your profile by clicking on your profile icon.\n2. Click on \"Account Details\" in the profile menu.\n3. Click on the \"Security\" section.\n4. Scroll down until you reach the \"Danger zone\" section.\n5. Click on the \"Delete account\" button.",
+      "source_content_hash": "2128b34334bf5a535625ee059d653d8f23c5be4ff0176bbd2426306d57a5b68c",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击个人资料图标进入个人主页\n2. 在个人资料菜单中选择\"账户详情\"\n3. 点击\"安全\"选项卡\n4. 滚动至\"危险区域\"板块\n5. 点击\"删除账户\"按钮"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "![Profile deletion button in danger zone](https://github.com/user-attachments/assets/9c569cf9-ddfb-4932-a73e-5ba6b11fe27c)",
+      "source_content_hash": "77c962f239cad15f58be271c15e23947b33030cf230d8759593c8fc9603f88d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![危险区域中的账户删除按钮](https://github.com/user-attachments/assets/9c569cf9-ddfb-4932-a73e-5ba6b11fe27c)"
+      }
+    },
+    {
+      "segment_id": "80e6256a",
+      "source_content": ":::danger\n**Important:** Deleting your account is **unrecoverable and cannot be undone**.\n:::",
+      "source_content_hash": "2efb9221685b01b193b3a42e2d7995c855823f121a17c0cee84c9721237d848c",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::danger\n**重要提示：** 账户删除操作**不可逆且无法恢复**\n:::"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "## What Will Be Deleted?",
+      "source_content_hash": "cc8b5da1cf83e05c384b7813dde3b1cff51b371e84d7f4bbca9c05fcf3777526",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 删除后将影响哪些数据？"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "When you delete your account, the following actions will occur:",
+      "source_content_hash": "86630fae9df9fccb874575825a72fc41d118daefaafbaf8fb2084dbb78ef2ffd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "账户删除后将执行以下操作："
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "1. Your profile, along with your authentication associations, will be permanently deleted.\n2. All your content, including posts, bookmarks, comments, upvotes, etc., will be permanently removed.\n3. Your username will become available to other users.",
+      "source_content_hash": "8690fb37c9b3a6074e02d36d51ba7a4eb201e2863755b4f54ac470d2b458fc82",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 个人资料及所有关联认证信息将被永久删除\n2. 所有内容（包括帖子、书签、评论、点赞等）将被永久清除\n3. 您的用户名将释放给其他用户使用"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "For any questions or assistance, feel free to contact [support@daily.dev](mailto:support@daily.dev), and our team members will be glad to help. Please remember, deleting your account is a permanent action, so proceed with caution.",
+      "source_content_hash": "fecb72d14042af398551d8fe70204aa86b615c24d4d1b6586707207a5b408810",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如有疑问或需要帮助，请随时联系[support@daily.dev](mailto:support@daily.dev)，我们的团队将竭诚为您服务。请注意，账户删除是永久性操作，请谨慎操作。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/deleting-your-profile.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.383735+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "e2de6ad3f817308438d3e3ad85a0c58d1f1de2f491adfdd9bead5eeef54b42ac"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/customize-your-feed/theme.md",
+  "source_file_content_hash": "ce8d3fbc672a78364bf20217750e43825b1274e4a9756e5e8200b9a5ee2ebb8e",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Customize your daily.dev experience by choosing between Dark, Light, and Auto theme settings for a personalized reading environment.\"\n---",
+      "source_content_hash": "c8452d77639fe983df296954779605daff5f8fdac5c2950ef6298722b0ed63b3",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Theme Options",
+      "source_content_hash": "794b118d0506f357f19d03d0cc4f425ec238ed869b50e44f9568e59f87b357c4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 主题选项"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "The theme option allows you to change the look and feel of **daily.dev** by selecting from the available themes. Currently, you can choose from:",
+      "source_content_hash": "d9b3e6a53b67d90e814107a4b199b08f757bd35da8eb413918eede0f69f11295",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "主题选项允许您通过选择可用主题来改变 **daily.dev** 的视觉风格。当前可选主题包括："
+      }
+    },
+    {
+      "segment_id": "4a5b6a68",
+      "source_content": "- Dark theme\n- Light theme\n- Auto theme",
+      "source_content_hash": "aa468c36058e827e92e747bddd8c4c877c7dfd0a9dd61274508f78ecb7ab7b9a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 深色主题\n- 浅色主题\n- 自动主题"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Dark Theme (Default)",
+      "source_content_hash": "182983af800ea88f0085f9df372e6f0cc2a28e2bc2cbf65e49093c5d2ea82ecb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 深色主题（默认）"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "The **Dark theme** reduces eye strain and applies mostly dark surfaces across the UI, as shown below:",
+      "source_content_hash": "760158079b366553d77a6850fb30e3b87f258a5249ae42a5f86bd71815a8060a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**深色主题** 可减轻视觉疲劳，并在整个用户界面中应用以深色为主的表面设计，如下图所示："
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "![Dark theme view for daily.dev interface](https://daily-now-res.cloudinary.com/image/upload/v1722601800/docs-v2/6916a1da-db83-41a7-8a6c-590bc7d99b5a.png)",
+      "source_content_hash": "6c4f5b353456c30bcdc556a96855731836a72a1633d18127d351784b4ba5e10d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 界面的深色主题视图](https://daily-now-res.cloudinary.com/image/upload/v1722601800/docs-v2/6916a1da-db83-41a7-8a6c-590bc7d99b5a.png)"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Dark theme balances light emissions with the minimal contrast required for readability. Additionally, the Dark theme can help conserve battery, extending device usage.",
+      "source_content_hash": "313bf786c368f38da7243b69c860bca0d0e3a3148a8e249a76e555da8eb17b15",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "深色主题通过最小对比度平衡光线发射，确保可读性。此外，深色主题有助于节省电量，延长设备使用时间。"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "You can set the Dark theme for daily.dev as illustrated here:",
+      "source_content_hash": "20c653ac0ffab8369577a0534a9aae01ebb02ca2c42aeac321138ad73322622c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以按以下图示设置 daily.dev 的深色主题："
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "![Dark theme activation on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1722601830/docs-v2/43e5fae1-02e4-48f8-b218-305e7008bcc0.png)",
+      "source_content_hash": "d94367111cf8f6fe8d6f5b9bf120bfa961fc1166a239e9594770558ed26f4068",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 上激活深色主题](https://daily-now-res.cloudinary.com/image/upload/v1722601830/docs-v2/43e5fae1-02e4-48f8-b218-305e7008bcc0.png)"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "## Light Theme",
+      "source_content_hash": "1ff5a65902829541a3a3eb82044ab683253b45ef3c987a2539efcd5b2b827100",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 浅色主题"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "The **Light theme** uses a white or light background, offering a clean and professional appearance. This theme provides clear, readable content, allowing easy navigation and a smooth reading experience on daily.dev.",
+      "source_content_hash": "b7558770cbf4d9f713a14db912063a8284870e7036e83074dfbfd7527bc406e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**浅色主题** 使用白色或浅色背景，呈现干净专业的外观。该主题提供清晰易读的内容，确保在 daily.dev 上获得流畅的阅读体验和便捷导航。"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "![Light theme view for daily.dev interface](https://daily-now-res.cloudinary.com/image/upload/v1722601855/docs-v2/c735a963-21a7-4615-bd08-213641db7dc0.png)",
+      "source_content_hash": "e9cbbe9977f1b6de8522b6ad7720f7aa88eb5e124776cdb5ed3fbc952ed32693",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 界面的浅色主题视图](https://daily-now-res.cloudinary.com/image/upload/v1722601855/docs-v2/c735a963-21a7-4615-bd08-213641db7dc0.png)"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "You can set the Light theme for daily.dev, as seen below:",
+      "source_content_hash": "ae9a2229d2223191806a504d19f0b0feee0a7d2c21763815ad5acec87bacdb06",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以按以下图示设置 daily.dev 的浅色主题："
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "![Light theme activation on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1722601874/docs-v2/64c8e692-1826-4f1f-9b33-9f1250e28f8d.png)",
+      "source_content_hash": "8804b39cff09667a26964518d6ab447a79a5396dffce5d7d57c5d403e6586a68",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 上激活浅色主题](https://daily-now-res.cloudinary.com/image/upload/v1722601874/docs-v2/64c8e692-1826-4f1f-9b33-9f1250e28f8d.png)"
+      }
+    },
+    {
+      "segment_id": "109ace10",
+      "source_content": "## Auto Theme",
+      "source_content_hash": "50f7675866b8a7ee8ca87c66711554484c3225b5a5d0e55381fdfbf070296875",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 自动主题"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "The **Auto theme** option automatically adjusts the daily.dev theme to match your browser's theme setting, toggling between Light and Dark as per your browser configuration.",
+      "source_content_hash": "c9a1bf5a4a55d7898dffcceaec6ecffe3143c261b43f752a87b6c3522448a914",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**自动主题** 选项会根据浏览器主题设置自动调整 daily.dev 的主题，在浅色和深色之间切换以匹配您的浏览器配置。"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "![Auto theme view for daily.dev interface](https://daily-now-res.cloudinary.com/image/upload/v1722601887/docs-v2/8c745869-ed77-40ee-976a-5830c4694ba7.png)",
+      "source_content_hash": "74af937a6af1856b86787d99383c0228b0e25f479d6c84f4b6d62e2bdf0259c4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 界面的自动主题视图](https://daily-now-res.cloudinary.com/image/upload/v1722601887/docs-v2/8c745869-ed77-40ee-976a-5830c4694ba7.png)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/customize-your-feed/theme.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.388985+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "ce8d3fbc672a78364bf20217750e43825b1274e4a9756e5e8200b9a5ee2ebb8e"
+  }
+}

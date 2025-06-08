@@ -1,0 +1,362 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/setting-up-your-feed/blocking-tags-sources.md",
+  "source_file_content_hash": "24ac20b6441a2cdcea298f375caccb9c9e5003e522df4b021c0f5340e8708a7c",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Learn how to block tags and sources on daily.dev for a more personalized feed experience.\"\n---",
+      "source_content_hash": "4ff9c073e3ee5f212f22c4cb8bc9f983c1d6125371ff22c8159ba446985965f6",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Blocking and Report",
+      "source_content_hash": "1de48c5ac5ffe30a8d8d4f3bc5953c74f2db184fe5d341f5fc36da9be6f7ea70",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 屏蔽与举报"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Customizing your daily.dev feed is simple. When there are specific tags or sources you don’t want to see, blocking them comes in handy.",
+      "source_content_hash": "17cd84fdf0cca3c3e401fc3b26b24b5495ecc5da539fe84c60a36bab1381e2f4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "定制您的daily.dev信息流非常简单。当您不希望看到某些特定标签或来源时，屏蔽功能就能派上用场。"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Watch this quick overview video to see how to block sources and tags for a more tailored feed experience:",
+      "source_content_hash": "08596c5fdbdb7bd485c7b9c4fe3dc567d894cc99fce34a5f46858688628a696a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "观看这段快速概览视频，了解如何屏蔽来源和标签以获得更个性化的信息流体验："
+      }
+    },
+    {
+      "segment_id": "321c5251",
+      "source_content": "<iframe width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/10ECCjEdHK4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "source_content_hash": "28754698dc907a282ed5d552cbb4bcc86feb113dfdd674d99d4a6abfbd7f2c85",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_321c5251"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## How Does Blocking Work?",
+      "source_content_hash": "26f83a6dc191d74ea85796c76530379a86875f886ecc8fd37297b6b0b9186ae2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 屏蔽功能如何运作？"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "Blocking enables you to:",
+      "source_content_hash": "19a68bf9f07fd90dc86bebc2cea669ceb793cfd700c976738858a665f661e07e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "屏蔽功能允许您："
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "1. Remove all posts containing a [specific tag](#blocking-tags): Eliminate unwanted content by blocking tags that don’t match your interests.\n2. Remove all posts from a [specific source](#blocking-sources): Keep your feed free from sources you prefer not to follow.",
+      "source_content_hash": "38a2c46e53488f20b872b9cbbf9c9f2e3a756fdf88d84224e52b5d18d8c66f4c",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 移除所有包含[特定标签](#blocking-tags)的帖子：通过屏蔽不符合您兴趣的标签来消除不需要的内容。\n2. 移除来自[特定来源](#blocking-sources)的所有帖子：让您的信息流远离您不想关注的来源。"
+      }
+    },
+    {
+      "segment_id": "cac45343",
+      "source_content": ":::info\nBlocking only applies to posts in your \"My Feed.\" It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.\n\nSet up your personal feed for optimal use of the blocking feature. Customize your daily.dev experience to suit your preferences and enjoy a curated feed.\n:::",
+      "source_content_hash": "934411e38f3253f407f0d59d035fae1942bf2d1f9d89574579fca5c10b1ac2a2",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n屏蔽仅适用于\"我的信息流\"中的帖子，不会影响\"热门\"、\"最多点赞\"或\"最佳讨论\"信息流中的内容。\n\n请设置您的个人信息流以充分利用屏蔽功能。根据您的偏好定制daily.dev体验，享受精心策划的信息流。\n:::"
+      }
+    },
+    {
+      "segment_id": "fa430ad4",
+      "source_content": "## Blocking Tags and Sources from the Feed",
+      "source_content_hash": "7ae3888d0d82a6d75b760d7bb1222c840d87d32c7f2bba16671020b8297265e9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 从信息流中屏蔽标签和来源"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "Blocking tags and sources can be done directly from the feed. Whenever you see a post with a tag or source you wish to block, click on the more options button (⋮) (1):",
+      "source_content_hash": "fd325cc56e34f78c9b36d4c686077c58c2baca4e5b19d81cb004b971a0405bbd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "可以直接在信息流中屏蔽标签和来源。当您看到带有想要屏蔽的标签或来源的帖子时，点击更多选项按钮(⋮)(1)："
+      }
+    },
+    {
+      "segment_id": "ea37d64a",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724395638/docs-v2/eac26cd5-d610-4e8f-82c9-bc38a594879b.png\" alt='Options button located at the top right of a post card for blocking tags or sources' width=\"900\" height=\"900\" />",
+      "source_content_hash": "3aeacb64e13feef90ea6b41aa4c63dcfaea237ed5ca00a21234b6bbd995aa8d9",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_ea37d64a"
+      }
+    },
+    {
+      "segment_id": "cd471e4e",
+      "source_content": "- **To block a tag:** Choose “Not interested in (tag_name)” (2)\n- **To block a source:** Choose \"Don't show posts from (source_name)\" (3)",
+      "source_content_hash": "7698542f0cb093acee42a514ea3c25e1c5ef1505cae3c210f8dec02a665cd56b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **屏蔽标签**：选择\"对(标签名称)不感兴趣\"(2)\n- **屏蔽来源**：选择\"不显示来自(来源名称)的帖子\"(3)"
+      }
+    },
+    {
+      "segment_id": "e7c54101",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724395498/docs-v2/49192be8-73da-4f18-9c84-2609de45a7db.png\" alt='Options menu showing options for blocking specific tags or sources' width=\"900\" height=\"900\" />",
+      "source_content_hash": "18b5e884819203b368ac775f5624fa520a7fbdc48c48a7e144ca8903ccfc60cf",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_e7c54101"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "Once selected, the blocked tags or sources will be removed from your feed. A toast notification will confirm your action, and you can click \"Undo\" in the toast to reverse it.",
+      "source_content_hash": "549c134ed5e9666970441f7f9286c39ae795215fd40ce958beb0fd78922091e1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "选择后，被屏蔽的标签或来源将从您的信息流中移除。系统会显示一个确认通知，您可以点击通知中的\"撤销\"来取消操作。"
+      }
+    },
+    {
+      "segment_id": "33a4805e",
+      "source_content": ":::tip\nCan’t find a post from a specific tag or source you wish to block? Use the [search feature](/docs/key-features/search).\n:::",
+      "source_content_hash": "48b8d796c495909e5b5e8e591d81057a3dbf520c95540b6bfec3434b597ed53a",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n找不到包含您想屏蔽的特定标签或来源的帖子？使用[搜索功能](/docs/key-features/search)。\n:::"
+      }
+    },
+    {
+      "segment_id": "54268405",
+      "source_content": "## Unblocking Tags and Sources",
+      "source_content_hash": "681c5b9ea72d6d8f00c070eea55abf7dbc0176aa4b3c3f05b614debaf3cb2357",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 取消屏蔽标签和来源"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "To unblock tags or sources, follow these steps:",
+      "source_content_hash": "1fa4117b54745a7648792c9b1e939d6af7dd97eb2335d793d3705374dada0aed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要取消屏蔽标签或来源，请按照以下步骤操作："
+      }
+    },
+    {
+      "segment_id": "cef3cb03",
+      "source_content": "1. Click on the \"Feed settings\" button to open the feed options menu.\n2. Select \"Blocked Items\" in the options menu.\n3. You’ll see a list of all blocked tags and sources.\n4. Click on the \"unblock\" icon next to an item to unblock it.",
+      "source_content_hash": "8645f80d92de9fedfec94daeddacfa5b342df8c8adab41ccd5112a3c9465a5fc",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击\"信息流设置\"按钮打开选项菜单\n2. 在选项菜单中选择\"已屏蔽项目\"\n3. 您将看到所有被屏蔽的标签和来源列表\n4. 点击项目旁边的\"取消屏蔽\"图标"
+      }
+    },
+    {
+      "segment_id": "8296bd42",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.png\" alt='Blocked items list showing how to unblock specific tags or sources' width=\"900\" height=\"900\" />",
+      "source_content_hash": "93e2cd980a02feb76eff3d9c291e08d48f214dde10a0737a2f715fd967b5c523",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_8296bd42"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "Unblocked items will reappear in your feed, letting you fully manage and customize your daily.dev experience.",
+      "source_content_hash": "78a605cc5f7058434bbe807907705ee62786a61adc436d3331d6472118176ccf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "取消屏蔽的项目将重新出现在您的信息流中，让您全面管理和定制daily.dev体验。"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "## Advanced Information About How Blocking Works",
+      "source_content_hash": "0ab9727cda3a4a382e3f9678e61ef2407732d922b23fa2ab39e25014cd421316",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 关于屏蔽功能的进阶信息"
+      }
+    },
+    {
+      "segment_id": "7283cdac",
+      "source_content": "### Blocking Tags",
+      "source_content_hash": "186a2c56c9beb52551a61637df5f56723741123af10cbe2ba7385f8e3f0db941",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 屏蔽标签"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "Tags can have the following states:",
+      "source_content_hash": "0948aeaa89d07679a6f75e23f724213bc65c1ab48dc660499131bb07fd461261",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "标签可能处于以下状态："
+      }
+    },
+    {
+      "segment_id": "24c174ca",
+      "source_content": "* Following / Not following\n* Blocked",
+      "source_content_hash": "7e45fcab7e1ef2c0ab8fe465464d784249406ae09c4cfd89c14c36be525be230",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* 关注中/未关注\n* 已屏蔽"
+      }
+    },
+    {
+      "segment_id": "faba0bc9",
+      "source_content": "| Tag A (State)     | Tag B (State)     | Will you see the post?     |\n|-------------------|-------------------|----------------------------|\n| Following         | Following         | ✅ Yes                      |\n| Following         | Not following     | ✅ Yes                      |\n| Not following     | Not following     | ❌ No                       |\n| Not following     | Blocked           | ❌ No                       |\n| Following         | Blocked           | ❌ No                       |",
+      "source_content_hash": "a41267a483b5adb1c92b7580bb8c24456b6183f0b9e52653ac9ddbbdc6f6b764",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_faba0bc9"
+      }
+    },
+    {
+      "segment_id": "d422fb13",
+      "source_content": "### Blocking Sources",
+      "source_content_hash": "a24032a2e48c47a34c7388f595d6a067d0f47d81c81c13cc7f2b8643f6c71fad",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 屏蔽来源"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "A source can have the following states:",
+      "source_content_hash": "5769dd34ff20823fdd6c4b88369aabfda9304e77f73a005ce616d46233dc87d9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "来源可能处于以下状态："
+      }
+    },
+    {
+      "segment_id": "4fe53981",
+      "source_content": "* Following (default for all sources)\n* Blocked",
+      "source_content_hash": "75397c67626795530b2d9ea94e256c2713741b60e551b2f3915149b68a14c1f0",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* 关注中(所有来源的默认状态)\n* 已屏蔽"
+      }
+    },
+    {
+      "segment_id": "feacddee",
+      "source_content": "| Source (State)    | Will you see the post?     |\n|-------------------|----------------------------|\n| Following         | ✅ Yes                      |\n| Blocked           | ❌ No                       |",
+      "source_content_hash": "270f01a82e97e70776a798e2bf6307f20e05afb0b8e80ffade98e37d6c149289",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_feacddee"
+      }
+    },
+    {
+      "segment_id": "a4bf4268",
+      "source_content": "### Reporting Posts",
+      "source_content_hash": "b5c1871477952d899d920d93c5e3b2a3a94de845ab223443fafad937a970f858",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 举报帖子"
+      }
+    },
+    {
+      "segment_id": "ec619944",
+      "source_content": "If you encounter a post that violates the [community guidelines](https://docs.daily.dev/docs/for-content-creators/content-guidelines), you can report it. Click on the more options button (⋮) on the post card and select \"Report\" to notify the daily.dev team.",
+      "source_content_hash": "c3caef79064691ce0a0d2d92e3ceff6de9bf775f59aa1a13dec7553a250bca78",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您发现违反[社区准则](https://docs.daily.dev/docs/for-content-creators/content-guidelines)的帖子，可以进行举报。点击帖子卡片上的更多选项按钮(⋮)并选择\"举报\"通知daily.dev团队。"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "![Reporting post image](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)",
+      "source_content_hash": "a7c51f52e35ee7d58405b824bb63dd7763f135a76298aaf2160da9eb2e43dbf8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![举报帖子图片](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)"
+      }
+    },
+    {
+      "segment_id": "0750bfa1",
+      "source_content": "Once you click on \"Report,\" you’ll be asked to confirm your action and select the reason for reporting the post. The daily.dev team will review the report and take appropriate action.",
+      "source_content_hash": "bf7a46141b53d50be56def4e0c884b43d4f3000deef3f56b039648794b3367ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击\"举报\"后，系统会要求您确认操作并选择举报原因。daily.dev团队将审核举报并采取适当措施。"
+      }
+    },
+    {
+      "segment_id": "51867d16",
+      "source_content": "![Reporting reason image](https://github.com/user-attachments/assets/b274c1ca-e630-4eda-814f-cb730a60afd6)",
+      "source_content_hash": "0f4e948b8ce254dae231a49d916fdaf8c8e904c2b8162f23f6e0d227f69235d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![举报原因图片](https://github.com/user-attachments/assets/b274c1ca-e630-4eda-814f-cb730a60afd6)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/setting-up-your-feed/blocking-tags-sources.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.393024+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "24ac20b6441a2cdcea298f375caccb9c9e5003e522df4b021c0f5340e8708a7c"
+  }
+}

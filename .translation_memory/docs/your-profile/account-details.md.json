@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/account-details.md",
+  "source_file_content_hash": "b7ffc07dc6f4be785f7cfb4ea3050126e036eb94e6bba38ca6ec7a6db0ccfa68",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 7\ndescription: \"Learn how to personalize your daily.dev profile, configure security settings, manage notifications, and invite friends. Set up your account for a tailored experience.\"\n---",
+      "source_content_hash": "cfd0659f6dab2102a036102f1d217917bbfeab8837d237014d0d17aa00b689eb",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Account Settings",
+      "source_content_hash": "f68ddf41f6c748b454e7cd8b79442d0a83cfdfd4f11d526a630f63b5c2a1e05a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 账户设置"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Profile Details",
+      "source_content_hash": "a8e92c914d87eba842954e57fa28d29dd13848681352bb3e42f12332625a9f9c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 个人资料详情"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "You have the option to personalize your daily.dev profile by editing your account information. To do this, follow these simple steps:",
+      "source_content_hash": "04733e801f7f6518b49434ab0cd16bf7711cc250fab40f415972e83051997dd5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以通过编辑账户信息来个性化您的daily.dev个人资料。具体操作步骤如下："
+      }
+    },
+    {
+      "segment_id": "143e51c1",
+      "source_content": "1. Log in to your daily.dev account.\n2. Click on your profile picture or avatar at the top right corner of the page to access the account dropdown menu.\n3. Select \"Account details\" from the dropdown menu to navigate to the profile tab.",
+      "source_content_hash": "0f177e231c145db4bcf2ac7fa7278ddf31bbc049519d68f7e8d410054fba0243",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 登录您的daily.dev账户\n2. 点击页面右上角的个人头像，进入账户下拉菜单\n3. 从下拉菜单中选择\"账户详情\"，进入个人资料选项卡"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "On the account settings page, you can edit various personal information, including:",
+      "source_content_hash": "8add42feaf32f2e8694d111e3a2e3e0353870d8326d94c8cb2717c9f32cd51e6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在账户设置页面，您可以编辑以下个人信息："
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "* **Name**: Update your name to display on your daily.dev profile.\n* **Username**: Change your username, the unique identifier associated with your daily.dev account.\n* **Profile Picture**: Click on the profile picture to upload a new image from your device.\n* **Bio**: Add or edit a brief bio to be displayed on your profile.\n* **Company**: Edit the name of the company you work for.\n* **Job Title**: Add or edit your job title.\n* **Social Media Accounts**: Add links to your Twitter, GitHub profile, etc.\n* **Website**: Add or edit your personal website or other relevant URLs.",
+      "source_content_hash": "4b4398cf3e2071048211304dae7b92ca2975491ad9b003901abee15d4ffa0be5",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* **姓名**：更新显示在个人资料中的姓名\n* **用户名**：修改与账户关联的唯一标识符\n* **头像**：点击头像可从设备上传新图片\n* **个人简介**：添加或编辑显示在个人资料中的简短介绍\n* **公司**：编辑您就职的公司名称\n* **职位**：添加或编辑您的职位信息\n* **社交媒体账户**：添加Twitter、GitHub等社交平台链接\n* **网站**：添加或编辑个人网站或其他相关网址"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "![Profile details menu screenshot](https://github.com/user-attachments/assets/53a4fe9e-a4c9-408d-9b75-9260a9153b11)",
+      "source_content_hash": "3d4114c452c374b4a42c5f933714d8b2a34fb9863d3c5974ae5e5c01a8a771b0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![个人资料详情菜单截图](https://github.com/user-attachments/assets/53a4fe9e-a4c9-408d-9b75-9260a9153b11)"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## Security Settings",
+      "source_content_hash": "0840581f345eecd936db2d7d0a6d837a7a60125f40fe49f3d79fa1bbc9e33bad",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 安全设置"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "At daily.dev, we prioritize the security of your account information. You have control over various security features that allow you to safeguard your profile. Here are some available security options:",
+      "source_content_hash": "46b1d9179749ad613e2cee7f893513bdb4f85e9a2ab7ecc29a12f957f7efdbd7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev高度重视您的账户信息安全。您可以控制以下安全功能来保护个人资料："
+      }
+    },
+    {
+      "segment_id": "cd471e4e",
+      "source_content": "1. **Change Email Address**: Update the email associated with your account to receive important notifications and updates.\n2. **Connect Social Media Auth Providers**: Connect additional social media authentication providers for added security and easy login.\n3. **Remove Authorized Login Providers**: Disconnect any previously authorized login providers, giving you control over your authentication methods.\n4. **Set and Change Password**: Ensure your account is protected with a strong, unique password to prevent unauthorized access.\n5. **Delete Your Account**: If you wish to delete your account, this option permanently removes all associated data. [Learn more](/your-profile/deleting-your-profile.md).",
+      "source_content_hash": "cc9fc12fbf0f668ad7f6317cf46127a6374c39d9a0a034f8cb0f8176f4bcc3a8",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **更改邮箱地址**：更新账户关联邮箱以接收重要通知\n2. **连接社交媒体认证提供商**：添加更多社交认证方式以增强安全性\n3. **移除已授权登录提供商**：断开之前授权的登录方式\n4. **设置/修改密码**：使用高强度密码防止未授权访问\n5. **删除账户**：永久移除所有关联数据 [了解更多](/your-profile/deleting-your-profile.md)"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "![Security settings menu screenshot](https://github.com/user-attachments/assets/a2541edd-c1be-4081-aa05-4fbf4d5b07b5)",
+      "source_content_hash": "cdb6811ff4aa8e2357423fc9d7bd4ea28c56ca02dfbb0d317a7c270657cc6322",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![安全设置菜单截图](https://github.com/user-attachments/assets/a2541edd-c1be-4081-aa05-4fbf4d5b07b5)"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "## Notification Settings",
+      "source_content_hash": "5101a8b52c2882b5d74a041ddab49e525bce33cdc73af741e7817f0e60f00614",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 通知设置"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "Customize notifications to stay informed about important updates:",
+      "source_content_hash": "947f3a0f4ad8199e53ab5f371fdf5022761f9ac99d300e2d26a3c2b30849b13e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "自定义通知设置以获取重要更新："
+      }
+    },
+    {
+      "segment_id": "4c077b92",
+      "source_content": "1. **Push Notifications**: Toggle push notifications to receive alerts on your device for replies, mentions, updates, and more.\n2. **Email Notifications**: Manage email notifications sent to your registered email, providing updates and important information.\n3. **Configure Email Notification Settings**: Choose specific types of notifications you’d like to receive.",
+      "source_content_hash": "3b60359e182a4e05585a068c52f4f50cb37f515a3bc674094eb938142fb3c0b2",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **推送通知**：开启设备推送提醒，接收回复、提及等通知\n2. **邮件通知**：管理发送至注册邮箱的更新信息\n3. **配置邮件通知设置**：选择您希望接收的具体通知类型"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "![Notification settings menu screenshot](https://github.com/user-attachments/assets/47eb837f-19b2-4cc6-a768-2f3490b58027)",
+      "source_content_hash": "6b42964ca82dd7c16f8c81a0429e35f443848e2d93177e2f1fcd8fa824c34d72",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![通知设置菜单截图](https://github.com/user-attachments/assets/47eb837f-19b2-4cc6-a768-2f3490b58027)"
+      }
+    },
+    {
+      "segment_id": "11c76fcc",
+      "source_content": "## Integration",
+      "source_content_hash": "3484711ea1bb0fd1749a548b3bf85f6ddc26fe300dea2e7f1b62c5805e250f4f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 集成"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "Here you can integrate daily.dev with other platforms. For now, you can connect it with Slack.",
+      "source_content_hash": "4de4d9ba49da0506a04da45e93d503725af8e840f02571bc7fc392953afb52fa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "此处可将daily.dev与其他平台集成。目前支持与Slack连接。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "![image](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)",
+      "source_content_hash": "b42b123c0adf7318c2435b0f287e59ed412bffd4861bf6ea72f5f95bc2a0d9bb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![图片](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)"
+      }
+    },
+    {
+      "segment_id": "1a316f80",
+      "source_content": "## Invite Friends",
+      "source_content_hash": "813069798d78d3a9bf5c2e890b58c75be590e4452169333e41aa1bfdf1ab48c4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 邀请好友"
+      }
+    },
+    {
+      "segment_id": "40158b4b",
+      "source_content": "Invite friends to daily.dev! Click the \"Copy link\" button and share it via email, messaging apps, or social media.",
+      "source_content_hash": "c950ea8439f2c01c6b58ebb2c0602524b466139a34740f0e4c27d3d9cbf33f56",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "邀请好友使用daily.dev！点击\"复制链接\"按钮，通过邮件、即时通讯或社交媒体分享。"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "![Invite friends option screenshot](https://github.com/user-attachments/assets/b0f28c99-8284-44bc-9e04-4767d2eed3d9)",
+      "source_content_hash": "b1c6a32bba6a22f3b72fb959f6e40cb5fa7a73883a99a81aaaac243fa6acf88f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![邀请好友选项截图](https://github.com/user-attachments/assets/b0f28c99-8284-44bc-9e04-4767d2eed3d9)"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "daily.dev provides additional settings to manage your time zone and newsletter subscription.",
+      "source_content_hash": "c103095541b61824f906e2180478d5078bff62a53fd2fb9fa13b29c5a6e95c8f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev还提供时区和新闻订阅等附加设置："
+      }
+    },
+    {
+      "segment_id": "180e9ce9",
+      "source_content": "1. **Time Zone**: Adjust your time zone to align weekly goal cycles and other time-based stats with your local time.\n2. **Newsletter Subscription**: Manage your subscription to the daily.dev newsletter, which offers curated content, updates, and news for the developer community.",
+      "source_content_hash": "1a43787bd2c783715e186a31b6234dbc943e852f4eb172d962473d0c15832924",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **时区**：调整时区使每周目标周期等时间统计与本地时间同步\n2. **新闻订阅**：管理daily.dev开发者社区精选内容、更新和新闻的订阅"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/account-details.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.391026+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b7ffc07dc6f4be785f7cfb4ea3050126e036eb94e6bba38ca6ec7a6db0ccfa68"
+  }
+}

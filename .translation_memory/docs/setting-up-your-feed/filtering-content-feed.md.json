@@ -1,0 +1,162 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/setting-up-your-feed/filtering-content-feed.md",
+  "source_file_content_hash": "d65484acd1659c707f627bf7ce23b529348f2f852ff55b35c0b433010cd89905",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Create a personalized feed on daily.dev, tailored to your interests with tag categories and advanced filtering options.\"\n---",
+      "source_content_hash": "6266dc81a40862e7864badeff39e29b49008da82653465ed2743d6a57554663b",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Creating a Personal Feed",
+      "source_content_hash": "46e12d06bcc1a93d625819f5c3bc8b61640929cb03955f28d441e30f209225f4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 创建个人订阅源"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Welcome to daily.dev's personal feed feature called \"My Feed\"! With our personal feed, you can customize the content you see, making sure it's tailored to your interests. Here's a simple guide on how to create your own personal feed.",
+      "source_content_hash": "dbb79e0fe98f1fbd17f55fee0e288e9ac014d9004cc5ef29efca0c057dce47ec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "欢迎使用daily.dev的\"我的订阅源\"个性化功能！通过个人订阅源，您可以自定义显示内容，确保其符合您的兴趣。以下是创建个人订阅源的简易指南。"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## Step 1: Choose Tag Categories",
+      "source_content_hash": "5f1cadadee891bcc9ba188739c24a037e038deafbba2b9d7b5a5598cbfbbedaa",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 第一步：选择标签分类"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Tag categories are the building blocks of your personal feed. They help you specify the topics and types of content you want to see in your feed. During the onboarding process, you'll be prompted to choose from a list of tag categories that might be relevant to your interests. Don't worry if you're not sure what tags to choose initially, as you can always fine-tune them later.",
+      "source_content_hash": "8fbfb5c80508de41a2aaf951890bdef57a2b066a991bc207cfe939c57aba8d83",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "标签分类是构建个人订阅源的基础模块。它们帮助您指定希望在订阅源中看到的内容主题和类型。在初始设置过程中，系统会提示您从可能相关的标签分类列表中进行选择。如果最初不确定选择哪些标签也无需担心，后续随时可以微调。"
+      }
+    },
+    {
+      "segment_id": "899bc9b4",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1681287811/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.22.43.png\" alt='Tag selection interface during onboarding, highlighting options for content customization' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "8d3b044d99f2ce79e8b70af64d0485f510c3fda5dbb846b66af5f990a71aae2f",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_899bc9b4"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Step 2: Sign Up",
+      "source_content_hash": "04ea6cb5872124e11d0a39ef264a1b22d9f3770c0f056615487f1d10f174f23b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 第二步：注册账号"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "Once you've selected your tag categories, it's time to sign up for an account. Simply follow the on-screen instructions to create your profile. By signing up, you'll have access to additional features such as bookmarking posts, customizing settings, and syncing your feed across multiple devices.",
+      "source_content_hash": "49224456313895b2c2bb371f862912c8e3a3b29bbb411756af30540b2cb35b5c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "选择完标签分类后，即可注册账号。只需按照屏幕指引创建个人资料。注册后，您将获得书签功能、设置自定义以及多设备订阅源同步等附加功能。"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## Step 3: Fine-Tune Your Tags",
+      "source_content_hash": "c8cb85ca4ff15ca15b326af65660fa27b32d802c19021df8f2e1c335fcde11f4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 第三步：微调标签设置"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "After signing up, you can further customize your personal feed by fine-tuning your tag categories. You can easily add or remove tags based on your changing interests or preferences. This way, you can ensure that the content you see in your feed is always relevant and up-to-date.",
+      "source_content_hash": "b4ff0a1796e85c19ee10a9fb3ded1510b09a99ec6aa3357d2237c2340f392b1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "注册完成后，您可以通过微调标签分类进一步定制个人订阅源。根据兴趣变化或偏好调整，随时轻松添加或移除标签。这样就能确保订阅源中的内容始终保持相关性和时效性。"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "To access this menu, hit the \"My Feed\" button located above the first card on your feed.",
+      "source_content_hash": "ae65ec8dc3144dddf3a878ed1a16c736f2ed5df91bc054e986617cc0993cd75a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要访问此菜单，请点击订阅源顶部首张卡片上方的\"我的订阅源\"按钮。"
+      }
+    },
+    {
+      "segment_id": "1941846d",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1681288606/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.36.39.png\" alt='Tag selection menu for adjusting and refining tag categories' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "4487b681fd06763e83738b9f1fd3950d84a181b4a3ac95c96d028c6c1917bdcf",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_1941846d"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "## Step 4: Explore Advanced Filtering Settings",
+      "source_content_hash": "49ded0e2c692fdc139b7269d1a1e28bb0dfc59be34c670b2c347024e047c669a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 第四步：探索高级过滤设置"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "In addition to tag categories, daily.dev offers advanced filtering settings to help you refine your personal feed even further. You can adjust settings such as content types (e.g., non-editorial content, newsletters, product launches, etc.), and more. These advanced filtering options allow you to have more control over the content that appears in your feed, ensuring it meets your specific needs.",
+      "source_content_hash": "ede028586a7f9b378472c12d7fd59d9794eb422eeb7f14c77047493629be9026",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "除标签分类外，daily.dev还提供高级过滤设置来进一步优化个人订阅源。您可以调整内容类型（如非编辑内容、新闻通讯、产品发布等）等参数。这些高级过滤选项让您能更精准地控制订阅源内容，确保符合特定需求。"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "See the next page for more info about advanced filtering.",
+      "source_content_hash": "c50d64c95d9d3cd9625430b86a06ac9cbdd23a35b96b849e96096eeb464bfc6b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "更多关于高级过滤的信息，请参阅下一页。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/setting-up-your-feed/filtering-content-feed.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.384953+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d65484acd1659c707f627bf7ce23b529348f2f852ff55b35c0b433010cd89905"
+  }
+}

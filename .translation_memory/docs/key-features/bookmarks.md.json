@@ -1,0 +1,282 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/bookmarks.md",
+  "source_file_content_hash": "a39051b75890a5486ee3b026a5dcc0e48f3a277fd9439cb26f1352452c058f94",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 5\ndescription: \"Learn how to save, organize, and sync daily.dev bookmarks across devices and share them on GitHub for seamless access and integration.\"\n---",
+      "source_content_hash": "aebe7e16d5cbf5864aa86732300ca7b60d7cc000dcaaca455dc17ecfe1f46ae9",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Bookmarks",
+      "source_content_hash": "4f81ad2ed2c971a44b40a39c382fba995b65224d71e17edc9a94e75cb6a6a9d6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 书签功能"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Importance of Bookmarks",
+      "source_content_hash": "cb29a15d2d4bcfd677b993e9997d9cb632f59c6a64e37d2aa6bca5f0843085c8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 书签的重要性"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Bookmarks on **daily.dev** allow you to save and organize posts for later reading, helping you manage valuable content at your own pace.",
+      "source_content_hash": "8ba3c38d21831b3fd27a8534f1d1824ba226adacd60c56fb6a8c19c8d68e40d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**daily.dev** 的书签功能可帮助您保存并整理文章供稍后阅读，让您能按自己的节奏管理有价值的内容。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "### Benefits of Bookmarks",
+      "source_content_hash": "354cce3d251dcf1906412e441b13dfa5c952485dba57843c186e99dbe886aa60",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 书签的优势"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "1. **Save for Later**: Bookmark posts you can’t read immediately and access them when convenient.\n2. **Organize Reading List**: Categorize posts by interest, preference, or need using folders or tags for easy sorting.\n3. **Sync Across Devices**: Bookmarks on daily.dev sync across all devices linked to your account, enabling seamless reading transitions.\n4. **Personalized Content**: Create a tailored reading list with bookmarks relevant to your interests, enhancing focus and professional growth.",
+      "source_content_hash": "c9898244e5f76506e7a6d8959870582170d6f7e2bea7f57930ad6d35dc5d2d7a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **稍后阅读**：为无法立即阅读的文章添加书签，方便随时查阅。\n2. **整理阅读清单**：通过文件夹或标签按兴趣、偏好或需求分类文章，便于检索。\n3. **多设备同步**：书签会同步到您账户关联的所有设备，实现无缝阅读切换。\n4. **个性化内容**：构建与您专业兴趣相关的专属阅读清单，提升专注力与职业成长。"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## Bookmarking a Post",
+      "source_content_hash": "f1e28bc5ef9f780816d147c1075ceb2632dc28ba5e8fc67ba63e13ea53b0aa4b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何添加书签"
+      }
+    },
+    {
+      "segment_id": "0787cf7f",
+      "source_content": "- **Via Bookmarks Button**: Click the **bookmark** button on the post.\n- **Companion Widget**: Use the [bookmark icon in the companion widget](https://app.daily.dev/posts/6IVMj7uuS) for quick saving.\n- **Post Discussion Page**: On the [action bar](https://app.daily.dev/posts/yc3ZVzfLY) of the post discussion page, click the bookmark button.",
+      "source_content_hash": "c4b4f143e50b41ba3f7aef95a2cae524c25b1d16a77bb71bfbabe99b7df31a64",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **通过书签按钮**：点击文章上的**书签**按钮。\n- **侧边栏工具**：使用[侧边栏工具中的书签图标](https://app.daily.dev/posts/6IVMj7uuS)快速保存。\n- **文章讨论页**：在文章讨论页的[操作栏](https://app.daily.dev/posts/yc3ZVzfLY)点击书签按钮。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "![Highlight showing bookmarking feature in daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724398568/docs-v2/9ff96218-b88c-4c45-94b6-e087cf2d6810.png)",
+      "source_content_hash": "8d28da6060cc6582b894ef474aa5971a15101eb273834a911ae7fc4731195d55",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev书签功能示意图](https://daily-now-res.cloudinary.com/image/upload/v1724398568/docs-v2/9ff96218-b88c-4c45-94b6-e087cf2d6810.png)"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "These methods ensure a seamless bookmarking experience in daily.dev.",
+      "source_content_hash": "5a5200407fb0e4af871300a140c572f9f06d6620e7f1523481a7aa44956b96ef",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "以上方法确保您在daily.dev获得流畅的书签体验。"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## Bookmark reminder",
+      "source_content_hash": "c051131a5ea5898619fbb56f353760508bee6e5ddd52ec10ea3c5b9c12e6fc60",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 书签提醒"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Once you bookmark a post, you might see it on your feed as a reminder to read it!",
+      "source_content_hash": "66ae9393743573e99bee79245b645faa89e0bd0f03b39d746627a38cb7cbbb99",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "添加书签后，文章可能会在信息流中显示，提醒您及时阅读。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "![Bookmark reminder image](https://github.com/user-attachments/assets/30f793c0-a1d2-469f-9f5c-f0249c257676)",
+      "source_content_hash": "07f1d999e5fb88f823cee716d00b0f5073a531a83851013dc1e19cb2c8da58e4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![书签提醒示意图](https://github.com/user-attachments/assets/30f793c0-a1d2-469f-9f5c-f0249c257676)"
+      }
+    },
+    {
+      "segment_id": "109ace10",
+      "source_content": "## Syncing Across Devices",
+      "source_content_hash": "cb1bb82fe1c403947ca04913bee4bff40cb3f9e08099a1a1ee6b05e01dff17b8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 多设备同步"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "To sync bookmarks, simply log in with the same account on all your devices.",
+      "source_content_hash": "d8a8ca4b2166cba0579be6a777718a063228531adc5f5384f70ba981e7d86377",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "只需在所有设备上登录同一账户即可同步书签。"
+      }
+    },
+    {
+      "segment_id": "782c902a",
+      "source_content": "## Public Mode for Bookmarks",
+      "source_content_hash": "8dbdfe120c0dfc9bd8c0d2b045b708b72130c758ec100a26549af1cb4c5c6085",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 书签公开模式"
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "Public mode creates a public RSS feed of your bookmarks for easy sharing or integration. For instance, you can integrate bookmarks with your GitHub README. Follow the tutorial below to set it up.",
+      "source_content_hash": "19341dc89e26854313a40b0656e1d50d95896227bc64b11b7c1d503e38510bc1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开模式会生成书签的公开RSS订阅链接，便于分享或集成。例如，您可将书签集成到GitHub README中。请参照以下教程进行设置。"
+      }
+    },
+    {
+      "segment_id": "54268405",
+      "source_content": "## [Tutorial] Share Bookmarks on GitHub",
+      "source_content_hash": "751d2cfae97adff2fd19d5a709ef789e56701eb8703fbb7f082b0253b5ab0d94",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## [教程] 在GitHub分享书签"
+      }
+    },
+    {
+      "segment_id": "8bddee80",
+      "source_content": "### Integrating daily.dev Bookmarks with GitHub",
+      "source_content_hash": "5718ad8b683125050227663f44cf9e403359650d849a510117879fed5aaed848",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 将daily.dev书签集成至GitHub"
+      }
+    },
+    {
+      "segment_id": "cef3cb03",
+      "source_content": "- In the bookmarks section, choose **Share Bookmarks**.\n- Activate public mode and copy the RSS feed link.\n- On GitHub, create a repository with the same name as your account.\n- Create a `.github` folder, then add a `workflows` folder within it.\n- Add a file named `daily.dev-bookmarks.yml` with the following content:",
+      "source_content_hash": "4b365995112c7cf2fa089ffc4d27012223cde0e32b01312e7083aa37de1b8cce",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 在书签版块选择**分享书签**\n- 启用公开模式并复制RSS订阅链接\n- 在GitHub创建与您账户同名的仓库\n- 创建`.github`文件夹，并在其中添加`workflows`子文件夹\n- 添加名为`daily.dev-bookmarks.yml`的文件，内容如下："
+      }
+    },
+    {
+      "segment_id": "3ce8f045",
+      "source_content": "```yaml\nname: daily.dev Bookmarks\non:\n  schedule:\n    # Runs every hour\n    - cron: '0 * * * *'\n  workflow_dispatch:\n\njobs:\n  daily-dev-bookmarks:\n    name: Update this repo's README with latest bookmarks from daily.dev\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - uses: gautamkrishnar/blog-post-workflow@master\n        with:\n          comment_tag_name: \"daily.dev BOOKMARKS\"\n          feed_list: \"<YOUR BOOKMARKS RSS FEED LINK HERE>\"\n\n\n**Important:** You need to replace the `<YOUR BOOKMARKS RSS FEED LINK HERE>` with your own RSS feed.\n\n- Commit the `daily.dev-bookmarks.yml` file. Your file should look like this:\n\n![Example of daily.dev-bookmarks.yml file setup](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub6.png)\n\n- Open the `README.md` file in your profile repository (this repository should be named the same as your GitHub account).\n\n![GitHub profile repository README setup](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub7.png)\n\n- Add these lines at the end of the `README.md` file:\n\n```markdown\n<!-- daily.dev BOOKMARKS:START -->\n<!-- daily.dev BOOKMARKS:END -->\n\n```",
+      "source_content_hash": "de988f357bade12fe232f92491c3e983507d1a6a7c86ffba8ba7f8159d733423",
+      "node_type": "code",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_3ce8f045"
+      }
+    },
+    {
+      "segment_id": "49f9f337",
+      "source_content": "- Commit the Readme.md file\n- Check if the README file has been updated\n\n- Run the workflow  `daily-dev-bookmarks`",
+      "source_content_hash": "f84a86d763899d6432c4ffa9c577295293e4bab139fc7427679c327abf072b2b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 提交Readme.md文件\n- 检查README文件是否已更新\n- 运行工作流`daily-dev-bookmarks`"
+      }
+    },
+    {
+      "segment_id": "a311e967",
+      "source_content": "![Starting the daily.dev GitHub workflow](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub9.png)",
+      "source_content_hash": "ba9a60f53790f8c40f98a27a12ac09275b9086e1bd5d237118429cf1d2972c21",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![启动daily.dev GitHub工作流](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub9.png)"
+      }
+    },
+    {
+      "segment_id": "eb51d107",
+      "source_content": "![GitHub README updated with daily.dev bookmarks](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub11.png)",
+      "source_content_hash": "35c076952aab865afc3926d2e279dd633200c8b7739fbeaadd7db97f4a5c3a47",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![更新后的GitHub README显示daily.dev书签](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub11.png)"
+      }
+    },
+    {
+      "segment_id": "1862c5fe",
+      "source_content": "The GitHub action is set to run every hour. You can adjust the frequency by modifying the cron setting in the `daily.dev-bookmarks.yml` file.",
+      "source_content_hash": "0b5abffe961b84feee2b8d583b9603ef44cd92f13246df55eb7c76f1222586ae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "GitHub Action默认每小时运行一次。您可通过修改`daily.dev-bookmarks.yml`文件中的cron设置调整频率。"
+      }
+    },
+    {
+      "segment_id": "6ca4479f",
+      "source_content": "![Configuring the GitHub action schedule](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)",
+      "source_content_hash": "dbbf2bfa94da2dd8f68408d720cd901c7fe496903f2c6b9227809ff482af923e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![配置GitHub Action执行计划](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)"
+      }
+    },
+    {
+      "segment_id": "a2c0166e",
+      "source_content": "Congratulations! Your daily.dev bookmarks are now integrated with GitHub.",
+      "source_content_hash": "3cf74eea02e9e31736a447a647a7ee654120f1629897c520c7416005436425a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "恭喜！您的daily.dev书签已成功集成至GitHub。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/bookmarks.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.392798+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "a39051b75890a5486ee3b026a5dcc0e48f3a277fd9439cb26f1352452c058f94"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/bookmark-folders.md",
+  "source_file_content_hash": "b25ae96d3ae9abdf65a69df15f4f5502361c8e88b86b84143f799af6ebfc2e68",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 4\ndescription: \"Organize your saved content with Bookmark Folders on daily.dev. Create, manage, and share folders for easy access and better content organization. Unlock unlimited folders and advanced features with Plus.\"\n---",
+      "source_content_hash": "7f1da8fb27c12baa5b340507581986e81de48d6d774193f2a399b2839eac1f10",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Bookmark Folders",
+      "source_content_hash": "de8eff2044ed1c8c077390c3da35cb2226aec104f65713d3687cbb9b1b6e0ca2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 书签文件夹"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What Are Bookmark Folders?",
+      "source_content_hash": "ba2f3a8b8e85a73c3057b24cea35834a6a070de3d6501becd1a6af26aec3861f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是书签文件夹？"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "**Bookmark Folders** help you organize your saved posts into structured, easy-to-access categories. Whether you're a casual reader or a power user managing hundreds (or thousands) of bookmarks, this feature allows you to group and manage saved content efficiently.",
+      "source_content_hash": "12cbab7e5538cef67eb15250e398df8c5b86a78ea0173dad21575b3fe5b9823f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**书签文件夹**功能可帮助您将保存的帖子分类到结构化、易于访问的目录中。无论您是休闲读者还是需要管理数百（或数千）个书签的高级用户，此功能都能让您高效地分组和管理已保存内容。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Why Use Bookmark Folders?",
+      "source_content_hash": "3f98854f54bcb8d2143167b76dfd7fc43d0cb0a39d3a34b250f2d05fa1409ef3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为何使用书签文件夹？"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "- **Stay organized** – Group saved posts into folders for easy access and better management.  \n- **Find content faster** – Quickly locate specific bookmarks without scrolling through endless lists.  \n- **Unlock full control with Plus** – Create up to **100 folders** with personalized options like descriptions and emojis.  \n- **Seamless management** – Move posts between folders, rename folders, and delete them as needed.  \n- **Collaborate and share** – Share folders with others to collaborate or share valuable resources.",
+      "source_content_hash": "a046732e539880785efddba484602e842f97b712d323942887b869964640339a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **保持条理** – 将已保存帖子分组到文件夹中，便于访问和管理。  \n- **更快定位内容** – 无需滚动冗长列表即可快速找到特定书签。  \n- **通过Plus解锁完整控制权** – 创建多达**100个文件夹**，并支持描述文本和表情符号等个性化设置。  \n- **无缝管理** – 可在文件夹间移动帖子、重命名或删除文件夹。  \n- **协作与共享** – 与他人共享文件夹以协作或分享优质资源。"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## Key Features",
+      "source_content_hash": "9214cf33ff90e03f0531d7f7aa0acc0dc8c37a382092e325d7e26659930e0c52",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心功能"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "### Folder Creation",
+      "source_content_hash": "ed44e2a660f4376dc99df8bf481f75a6bb14d78e7551f11ede0797b530f87431",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 文件夹创建"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "Organize your saved posts into dedicated folders for streamlined access:",
+      "source_content_hash": "cb236944272ae90a4289f07a5077b3b9621c1f28a30380840dab7f1ac29f8095",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将已保存帖子归类到专属文件夹以实现高效访问："
+      }
+    },
+    {
+      "segment_id": "8cf6d045",
+      "source_content": "- **Free users** – Save bookmarks in the default **Quick Saves** folder. You can create **one custom folder** to try the feature.  \n- **Plus subscribers** – Unlock **folder creation** (up to 100 folders) and enjoy full control over your saved content.",
+      "source_content_hash": "b5a9a40262f32361829e78bc608db2ee1f47e73f734b70224fa0235f7d85271d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **免费用户** – 书签默认保存在**快速保存**文件夹中，可创建**一个自定义文件夹**体验功能。  \n- **Plus订阅用户** – 解锁**文件夹创建**权限（最多100个），全面掌控已保存内容。"
+      }
+    },
+    {
+      "segment_id": "fa430ad4",
+      "source_content": "### Add Descriptions and Emojis",
+      "source_content_hash": "a34019be1397ee97bf620f88e49e6e78e729f3fbe89579b3cc122bdbde562fb3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 添加描述与表情符号"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "Customize folders with **descriptions** and **emojis** to make them easier to recognize at a glance.",
+      "source_content_hash": "0f4c07333166c524f621f15692104ac68d063f5c73d8d74d3f67a6e822e4ae87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过**描述文本**和**表情符号**自定义文件夹，实现一目了然的识别效果。"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "### Moving Bookmarks",
+      "source_content_hash": "281489672357bc09734619b17d15ed744ef7d87b942f374834cad5d4810ffc35",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 移动书签"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Quickly reorganize saved content by moving posts between folders using the **ellipsis menu** on each bookmark. A confirmation toast will appear once the move is complete.",
+      "source_content_hash": "fd4a5635286303dd76b9769a6021a89852f9709392cbb4475b71c2e1b417d785",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过书签的**省略号菜单**将帖子快速移动到其他文件夹，操作完成后会显示确认提示。"
+      }
+    },
+    {
+      "segment_id": "0037ff70",
+      "source_content": "### Default Folder Assignment",
+      "source_content_hash": "e88d5a2f20ae1ba7a166c4019fa06b8f82bf5548910126212963917fa3a3c4d4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 默认文件夹分配"
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "- **Plus users** – Bookmarked posts automatically save to your **last-used folder** by default.  \n- **Free users** – Posts are saved to the **Quick Saves** section.",
+      "source_content_hash": "515156da65739e5c12805523d02895998575f32c5ac246dc5295738a9a2c9bfe",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **Plus用户** – 书签帖子默认保存至**上次使用的文件夹**。  \n- **免费用户** – 帖子统一保存在**快速保存**区域。"
+      }
+    },
+    {
+      "segment_id": "3b7478ea",
+      "source_content": "### Folder Management",
+      "source_content_hash": "d4dbcdc4b26f785e7a64683a7c1f06b2a14a54e60b7293d890766fb83005f511",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 文件夹管理"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "Manage your folders directly from the bookmark section:",
+      "source_content_hash": "2e1a5d8d767fea7db4ad06a46968de8418172056bff19232577b6c76637dec8f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过书签页面直接管理文件夹："
+      }
+    },
+    {
+      "segment_id": "33808f76",
+      "source_content": "- **Rename folders** – Update folder names from the **ellipsis menu**.  \n- **Delete folders** – Remove empty folders instantly; for folders with content, confirmation is required before deletion.  \n- **Edit bookmarks** – Rename or move saved posts within folders for better organization.",
+      "source_content_hash": "6942838b467c522a747038dc88acdf28475594b431301866881d75e2d42976c7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **重命名文件夹** – 通过**省略号菜单**更新名称。  \n- **删除文件夹** – 空文件夹可立即删除；含内容的文件夹需确认后删除。  \n- **编辑书签** – 在文件夹内重命名或移动帖子以优化整理。"
+      }
+    },
+    {
+      "segment_id": "06c0f776",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 运作机制"
+      }
+    },
+    {
+      "segment_id": "35a77014",
+      "source_content": "### For Free Users",
+      "source_content_hash": "2708a152f063b847603abc7bd4e3ce20fe9e9d993280f536c18d201c75ea4812",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 免费用户"
+      }
+    },
+    {
+      "segment_id": "824626b3",
+      "source_content": "1. All bookmarks are automatically saved in the **Quick Saves** folder.  \n2. You can create **one custom folder** to try the feature.  \n3. To unlock unlimited folders and advanced options, upgrade to **Plus**.",
+      "source_content_hash": "3da71eae9c015ef41722ddf7618f34dedb42a4c78d8a46fe232e9e1fa9161d55",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 所有书签自动保存在**快速保存**文件夹。  \n2. 可创建**一个自定义文件夹**体验功能。  \n3. 升级至**Plus**可解锁无限文件夹和高级功能。"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "### For Plus Subscribers",
+      "source_content_hash": "6cc4c76f97bd343f2f01bd5f9720081d0ee2ea8ddfffd01f8b0d19871f49146d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Plus订阅用户"
+      }
+    },
+    {
+      "segment_id": "ddd2c7ae",
+      "source_content": "1. Access the **Bookmarks** section from the sidebar.  \n2. Click **“New Folder”** to create a dedicated folder for bookmarks.  \n3. Add **descriptions** and **emojis** to personalize your folders.  \n4. Move bookmarks between folders using the **ellipsis menu**.  \n5. Manage existing folders by renaming, deleting, or reorganizing saved posts.  \n6. Create up to **100 folders** to categorize your content without limitations.",
+      "source_content_hash": "b1a76b6a19514c27b330b32ecb9640750321c229e99a791a69e7495a45c84bb6",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 从侧边栏进入**书签**板块。  \n2. 点击**\"新建文件夹\"**创建专属书签文件夹。  \n3. 添加**描述文本**和**表情符号**个性化设置。  \n4. 通过**省略号菜单**在文件夹间移动书签。  \n5. 通过重命名、删除或重新归类管理现有文件夹。  \n6. 最多创建**100个文件夹**实现无限制内容分类。"
+      }
+    },
+    {
+      "segment_id": "1a316f80",
+      "source_content": "### Managing Folders and Bookmarks",
+      "source_content_hash": "3930a5bece5eb2a2f950564ae5f7c32503c768145eeb2462744593bf8c5360bb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 管理文件夹与书签"
+      }
+    },
+    {
+      "segment_id": "30193704",
+      "source_content": "- **Rename or delete folders** directly from the ellipsis menu on individual bookmark pages.  \n- **Move posts between folders** with the **Move to** option and receive a confirmation toast after completing the action.",
+      "source_content_hash": "1658caf76e3a4ef3ed8e5da7896da1fa54e808f24de68fe0885784f36761fa5b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 通过书签页面的省略号菜单**重命名或删除文件夹**。  \n- 使用**移动到**功能在文件夹间转移帖子，操作完成后会显示确认提示。"
+      }
+    },
+    {
+      "segment_id": "c431704b",
+      "source_content": "## Free vs. Plus Access",
+      "source_content_hash": "8dd3d38886e6b5cf8fe5da428ee1eac840fc197a6612e1fceb5c26b158851c33",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费版 vs Plus版权限"
+      }
+    },
+    {
+      "segment_id": "8dd718bb",
+      "source_content": "| Feature                  | Free Users       | Plus Subscribers |\n|-------------------------|------------------|------------------|\n| Number of Folders       | 1 default folder  | Up to 100 custom folders |\n| Add Descriptions/Emojis | ❌                | ✅               |\n| Move Bookmarks          | ❌                | ✅               |\n| Default Folder Saving   | ❌ (Quick Saves only) | ✅ (Last-used folder) |\n| Read It Later           | ✅                | ✅               |\n| Folder Management       | Basic            | Full control     |",
+      "source_content_hash": "34dbbafd278011c1800117d2d33859e91edd2ec9586255c27a9d4ff502708161",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_8dd718bb"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "**Bookmark Folders** offer a simple, powerful way to keep your saved content organized and easy to access—especially for users with large bookmark collections. Upgrade to **Plus** for the full experience and unlock advanced organizational tools tailored for power users.",
+      "source_content_hash": "0c329f986b4cde1f5f2b070c359b0ccaa147763ff530dc27e73f1148941dbc9f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**书签文件夹**为海量书签收藏者提供了简单高效的内容管理方案。升级至**Plus**即可解锁专为高级用户设计的全套整理工具，获得完整体验。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/bookmark-folders.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.392322+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b25ae96d3ae9abdf65a69df15f4f5502361c8e88b86b84143f799af6ebfc2e68"
+  }
+}

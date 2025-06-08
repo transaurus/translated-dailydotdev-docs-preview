@@ -1,0 +1,422 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/for-content-creators/content-guidelines.md",
+  "source_file_content_hash": "b6e6c2b2e29152e56082cca3ee7abd419a7e0e8a8d788a0b6d5296b48605af00",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Explore daily.dev's content guidelines for quality, ethical standards, and platform policies for creators, developers, and enthusiasts.\"\n---",
+      "source_content_hash": "2fbc16876ac6f25eeab0572dc7beb6afb8acfd929784b5cb0b692417977100c1",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Content Guidelines for daily.dev",
+      "source_content_hash": "c1ef43b45d7accb20258b08a87e0d918ce64db0aabad7a7eb45f55daefe01698",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# daily.dev 内容指南"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Introduction",
+      "source_content_hash": "d753efbab681fa4da82470d9a83b1c202de58f92fd498e77a269c1163bc4714b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 简介"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Welcome to our content guidelines! This document is your comprehensive guide to understanding the core principles and standards that shape content on our platform. Whether you’re a content creator, developer, or enthusiast, these guidelines reflect our commitment to quality, innovation, and ethics. To learn more about how to feature your content on daily.dev, see the [guide on getting featured](../for-content-creators/how-to-get-featured.md).",
+      "source_content_hash": "44c6e8a1fd98795c2346ba0ab858ab79c0fb729f33ade33e3c9393d4a4b84585",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "欢迎阅读我们的内容指南！本文档是您全面了解平台内容核心原则与标准的指南。无论您是内容创作者、开发者还是爱好者，这些准则体现了我们对质量、创新与道德的承诺。欲了解如何在daily.dev上展示您的内容，请参阅[《内容展示指南》](../for-content-creators/how-to-get-featured.md)。"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "In this document, you’ll find detailed guidance on what content we look for, what we prioritize, and the conditions under which we might remove content. These guidelines provide a reference for anyone who creates or submits content to daily.dev and insight into our dedication to a respectful, diverse, and valuable community.",
+      "source_content_hash": "49b79afc0282bcb41333ad7f8c260f8abad5359dff7614bd5db4af11caeb12fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "本文档详细说明了我们寻求的内容类型、优先考虑的条件以及可能移除内容的情形。这些指南为所有向daily.dev提交内容的人员提供了参考依据，也体现了我们致力于打造一个相互尊重、多元且有价值的社区。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Take a moment, dive in, and let's build an inspiring space together!",
+      "source_content_hash": "a3890893f610f083ecac6b0b73ab250d4a3b3752371f3dc3456ff31227f7effd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "请花些时间深入了解，让我们共同构建一个鼓舞人心的空间！"
+      }
+    },
+    {
+      "segment_id": "976d532b",
+      "source_content": ":::tip\nAligning your content with our standards enhances our community’s quality and builds your reputation as a trusted source of knowledge. Non-compliance may lead to reduced reputation points. For more on reputation, see our [reputation guide](../your-profile/reputation.md).\n:::",
+      "source_content_hash": "17f91c79e30226f3a892e6880ca7b7df637233e4847f753381a64e0330442e37",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n您的内容与我们的标准保持一致将提升社区质量，并树立您作为可信知识来源的声誉。未遵守准则可能导致声誉积分降低。更多关于声誉的信息，请参阅[《声誉指南》](../your-profile/reputation.md)。\n:::"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "### What Content Are We Looking For?",
+      "source_content_hash": "e907e782eb2e961b0dcc6f6afdfc87d5c634aa8b70a2ef544e216c53956c6b2c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 我们寻求什么样的内容？"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "✅ Relevant, fresh, and up-to-date content for developers.",
+      "source_content_hash": "6709a8722ce72242ec9216f64d7f650f7c4ba69d6af780e006e075e8fb7f0beb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 与开发者相关的、新鲜且最新的内容"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "✅ Professional and well-produced textual or video content.",
+      "source_content_hash": "001c7d4e6f9b909aa2cc7d51da7ba24e4720720c49b01d371339f81cf185b8d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 专业且制作精良的文本或视频内容"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "✅ Innovative, trending content that inspires developers.",
+      "source_content_hash": "6c187cdc4e80faa6985374d531123526a833485bb4ee746b4ca42296c4fe11fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 能激发开发者灵感的创新及趋势性内容"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "✅ Content adhering to ethical publishing practices.",
+      "source_content_hash": "8fd49cffed12202481ae56b745af7e1a24f9236a1dd0e3848a005c3a85cc54fc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 符合道德出版规范的内容"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "✅ Content from sources that publish regularly.",
+      "source_content_hash": "da39a2e1b6a0c3c8d610d0fa55745240100257850826c19092db0882b9971996",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 来自定期更新发布的来源"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "✅ Content from established sources with substantial published material.",
+      "source_content_hash": "cf5ae5be31c133666a1392d583fea3b4e0398716e46d3f53dd15b379fbef52f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 来自拥有大量已发布内容的成熟来源"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "✅ Clear distinction between sponsored and editorial content.",
+      "source_content_hash": "b12750484b065e070b1e1f0e2c4319ecb7913d96a08ded9ef219655a600af2bd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 赞助内容与编辑内容有明确区分"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "✅ Positive and professional vibes ✌️",
+      "source_content_hash": "e35495fbaa5cf4521357051faa079efecdb1f80e3a3f969f56a03a4aa92de25b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✅ 积极专业的氛围 ✌️"
+      }
+    },
+    {
+      "segment_id": "214ab298",
+      "source_content": ":::info\nTo maintain a balanced content inventory, we’re temporarily prioritizing niche sources. This helps us provide diverse and unique topics for our developer community. Mainstream content may be subject to more rigorous review to ensure a balanced mix.\n:::",
+      "source_content_hash": "755b9382b02a623395cefb75fb4c7e3f132e2014a902ca87041b9d7d2e743dfa",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n为保持内容库的平衡，我们暂时优先考虑小众来源。这有助于为开发者社区提供多样化的独特主题。主流内容可能会接受更严格的审核以确保内容混合的平衡性。\n:::"
+      }
+    },
+    {
+      "segment_id": "8d04259b",
+      "source_content": "### When Will We Reject, Ban, or Remove Content?",
+      "source_content_hash": "ceef7ae605ee031fd41deace9d8fda41ad2619f9d94078c1d291739017cc9908",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 什么情况下我们会拒绝、封禁或移除内容？"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "❌ Content irrelevant to developers.",
+      "source_content_hash": "897a7eed9c9957c9812501520770c8df007d99ef54551addf99391080da76b6e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 与开发者无关的内容"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "❌ Content used primarily for self-promotion.",
+      "source_content_hash": "3702839f85249d38bb2deb6f08f8f43d86674a9a42a66b979d19063632ace4ae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 主要用于自我推广的内容"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "❌ Non-English content.",
+      "source_content_hash": "cfb99f83904153e466554fd7a48d0ca66ce047995113ac86e89b6ef86e0c305e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 非英语内容"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "❌ Content from inactive sources (three months or more without updates).",
+      "source_content_hash": "3ce3dfd2175dc7817ef4c3fe830ac7128537d118d5b26f6e5d73045e1c7c8be2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 来自停更来源的内容（三个月或更久未更新）"
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "❌ Clickbait or misleading content that lacks substantial value.",
+      "source_content_hash": "10b69d5297ffa3b6328fa071f325ed7ee979b27fe8897cbf4b3ead8449afbeb8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 缺乏实质价值的标题党或误导性内容"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "❌ Content from sources without a publicly accessible RSS or Atom feed.",
+      "source_content_hash": "3a011580f54e0e66f89a83bdcb7909b6fcfa98fd1d2f077cd56875370ebbfeec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 来源未提供公开RSS或Atom订阅源的内容"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "❌ Politically-oriented content.",
+      "source_content_hash": "5ccfed452cc00a40e2c1a24297b4b950f554b75f1b8553836157fbf7cc60f4df",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 政治导向的内容"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "❌ Content generated through programmatic SEO or methods that populate content automatically.",
+      "source_content_hash": "305bea921887c17bc4523e65b77b2689d4ca70608725c82899363c318eed10ce",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 通过程序化SEO或自动填充方式生成的内容"
+      }
+    },
+    {
+      "segment_id": "40158b4b",
+      "source_content": "❌ AI-generated content, automated algorithms, or content with characteristics typical of AI-generated material.",
+      "source_content_hash": "b08724144ace3046ed44a603bd936eef13af26bdaf94f33a4830d4615afc8677",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ AI生成内容、自动化算法产出或具有典型AI生成特征的内容"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "❌ Content that is illegal, explicit, offensive, or incites discrimination or violence.",
+      "source_content_hash": "f1ae54d6eb7693410e20a111cf3cef788fe01cbca52d610674ccd1f62d922560",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 非法、露骨、冒犯性或煽动歧视暴力的内容"
+      }
+    },
+    {
+      "segment_id": "79ad944d",
+      "source_content": "❌ Content violating privacy rights or using shortened or redirected URLs.",
+      "source_content_hash": "a92b5dd0605e10277ca4b7da2282cf6b24f7d363ac785ec1c5ba1d98aa91f706",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 侵犯隐私权或使用短链/跳转链接的内容"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "❌ Content unsuitable for daily.dev's business reputation.",
+      "source_content_hash": "0a94d669d882e80d0501e4b1df6fbd314873425339e6ae09783e37802b081637",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 有损daily.dev商业声誉的内容"
+      }
+    },
+    {
+      "segment_id": "06e24cc0",
+      "source_content": "❌ Content infringing third-party rights, including copyright, trademarks, or other IP rights.",
+      "source_content_hash": "458548e98de25fa742af16136ec7ce8ced4e95a454959b098c0ea5d320d91921",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "❌ 侵犯第三方权利（包括版权、商标或其他知识产权）的内容"
+      }
+    },
+    {
+      "segment_id": "7f71ff2a",
+      "source_content": "✋ **For personal or corporate blogs:** Additional terms apply. See below for details.",
+      "source_content_hash": "16649add4dd86d278df577f9e6fbd21ad65a055b6377d91e8e451951870f582d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✋ **个人或企业博客**：需遵守附加条款。详见下文说明。"
+      }
+    },
+    {
+      "segment_id": "047c2395",
+      "source_content": "### Additional Guidelines for Corporate Blogs",
+      "source_content_hash": "a3df247fd0d151948c8242e9ff736afe2d55dab0a85a762788ab3af0e8918fc3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 企业博客附加指南"
+      }
+    },
+    {
+      "segment_id": "07837485",
+      "source_content": ":::info\n[Update January 2024] Corporate blogs are no longer eligible as sources on daily.dev. We encourage corporations to [open a Squad](../squads/creating-your-squad.md) on our platform instead. We will gradually migrate existing corporate blogs to Squads to adhere to these guidelines.\n\nLearn more about [why we're transitioning company sources to Squads](https://daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads).\n:::",
+      "source_content_hash": "1e281321baf4cfd24f7a1e9a15c82c1de50771badd0dee6bfd9a98d1d36a50ea",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n[2024年1月更新] daily.dev不再接受企业博客作为内容来源。我们鼓励企业改为在我们的平台上[创建Squad](../squads/creating-your-squad.md)。我们将逐步将现有企业博客迁移至Squad以符合本指南要求。\n\n了解更多关于[为何我们将企业来源过渡至Squad](https://daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads)。\n:::"
+      }
+    },
+    {
+      "segment_id": "2fd0be2a",
+      "source_content": "### Additional Guidelines for Personal Blogs and Indie Content Creators",
+      "source_content_hash": "916c7f5373d702ff2d9ffa89c97cecf0cd21cf6e05ad0f78e5b4e6c2dbf539fd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 个人博客与独立内容创作者附加指南"
+      }
+    },
+    {
+      "segment_id": "b3463ffb",
+      "source_content": ":::info\n[Update January 2024] Personal blogs are no longer eligible to be added as sources on daily.dev. Instead, personal bloggers and content creators are encouraged to [create a Squad](../squads/creating-your-squad.md) to share content with our community. We’ll transition existing personal blogs to Squads gradually.\n:::",
+      "source_content_hash": "d82847909aab617a2c4bee31dbfdc3b1987bb72ff20deb6ee505146ae236af60",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n[2024年1月更新] 个人博客不再有资格作为内容源添加到daily.dev。我们鼓励个人博主和内容创作者[创建Squad](../squads/creating-your-squad.md)来与社区分享内容。我们将逐步将现有个人博客迁移至Squad模式。\n:::"
+      }
+    },
+    {
+      "segment_id": "1c598ecd",
+      "source_content": "### Update Regarding AI-Generated Content",
+      "source_content_hash": "52ce10dc0e3f5b88768bbf2261daeece39b4674ba28af438503020bffa619888",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 关于AI生成内容的更新说明"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "At daily.dev, we emphasize human insight, expertise, and lived experiences in content creation. We value the unique perspectives and nuanced understanding human authors bring, which strengthens the authenticity and quality of information on our platform. AI-generated content, while advancing in quality, doesn’t meet our standard for human insight, and we prioritize human-created content to maintain genuine engagement.",
+      "source_content_hash": "5b3374a12261887d04329916c8b5d1e4530738fdc8bf2a370b0002165ea5f215",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev，我们强调内容创作中的人类洞察力、专业知识和实际经验。我们重视人类作者带来的独特视角和细致入微的理解，这些特质增强了平台信息的真实性和质量。虽然AI生成内容的质量在不断提高，但无法满足我们对人类洞察力的标准，我们优先考虑人类创作的内容以保持真实的互动体验。"
+      }
+    },
+    {
+      "segment_id": "0750bfa1",
+      "source_content": "We appreciate your understanding and adherence to this policy.",
+      "source_content_hash": "49d8e6dbdb41c52799544e1c11f6c26f1ac9e0cafdd2e93139946366c937c430",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "感谢您对此政策的理解与遵守。"
+      }
+    },
+    {
+      "segment_id": "bd30d33e",
+      "source_content": "## Legal Information",
+      "source_content_hash": "317100d6146bef296ca93472581db4a94597ede19b4333402faff4c177e5fc35",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 法律声明"
+      }
+    },
+    {
+      "segment_id": "6b77b644",
+      "source_content": "Please note that Daily Dev Ltd. does not claim ownership or copyright over any submitted content. Our team reviews all content for guideline compliance. If a claim arises (e.g., copyright infringement or guideline violation), we may remove the content and restrict future submissions from the offending user. Any community found in violation of these guidelines may be suspended or terminated. All platform interactions, including content publication, are governed by our [Privacy Policy](https://daily.dev/privacy) and [Terms of Service](https://daily.dev/tos). You can report content that may infringe on our policies at any time.",
+      "source_content_hash": "2a4578ba6165b6de09afdfef513b6e1d57d2eccb481a41643dd3c2f368d97fe9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "请注意Daily Dev Ltd.不对任何提交的内容主张所有权或版权。我们的团队会审核所有内容是否符合指南规范。若出现侵权投诉（如版权侵犯或违反指南），我们可能会移除相关内容并限制违规用户的后续提交。任何违反这些指南的社区可能会被暂停或终止。平台上的所有互动行为，包括内容发布，均受我们的[隐私政策](https://daily.dev/privacy)和[服务条款](https://daily.dev/tos)约束。您可随时举报可能违反我们政策的内容。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/for-content-creators/content-guidelines.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.384106+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b6e6c2b2e29152e56082cca3ee7abd419a7e0e8a8d788a0b6d5296b48605af00"
+  }
+}

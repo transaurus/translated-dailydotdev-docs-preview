@@ -1,0 +1,262 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/custom-feeds.md",
+  "source_file_content_hash": "4ca36db4226601ab62fd369fe392f6a99cee4cc6b5f775b143bc5fe18b2de01f",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Advanced Custom Feeds on daily.dev give you complete control over your content. Create unlimited feeds, apply powerful filters, block distractions, and personalize your reading experience. Available exclusively for Plus subscribers.\"\n---",
+      "source_content_hash": "77ef29422cf31fce8d79bc3cb4b5c3bac2088d5c9dcf5b100438bf93c1584041",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Advanced Custom Feeds",
+      "source_content_hash": "11d4f904711eb9d726909cdf17c213ab0e4ca33dfbed567c0c62e0013ff9e08b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 高级自定义订阅源"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![custom feeds cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315000/docs/8Y8Q6dhu2.jpg)",
+      "source_content_hash": "0f3f910c2a204b9503f5293f18274e21467718c20ab33de4daa04b81605a45ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![自定义订阅源封面图](https://daily-now-res.cloudinary.com/image/upload/v1740315000/docs/8Y8Q6dhu2.jpg)"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What Are Advanced Custom Feeds?",
+      "source_content_hash": "9de42b380252580f65b562f83cd959871b162711423ee18ca9291ab6e8f5a139",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是高级自定义订阅源？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "**Advanced Custom Feeds** allow you to personalize your daily.dev experience like never before. Create multiple custom feeds, apply advanced filters, and curate content based on your specific interests. Available exclusively for **Plus** subscribers, this feature helps you **filter noise, refine your reading experience, and surface the most relevant content with precision**.",
+      "source_content_hash": "4e2aa415a0fb31f49d7848bff6a8ba54e15e6ecddcf236748073219ba1c37016",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**高级自定义订阅源**让您以前所未有的方式个性化daily.dev体验。创建多个自定义订阅源，应用高级筛选器，并根据您的特定兴趣精选内容。该功能为**Plus订阅用户**专属，帮助您**过滤干扰信息、优化阅读体验，并精准呈现最相关内容**。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Why Use Advanced Custom Feeds?",
+      "source_content_hash": "51754436ad74efa4cb446a6abeb563a813c06c27d74c0aecf1d73136730688c4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为何使用高级自定义订阅源？"
+      }
+    },
+    {
+      "segment_id": "4ddf6ae7",
+      "source_content": "- **Curate your experience** – Build multiple feeds based on topics, tools, or interests.  \n- **Prioritize what matters** – Fine-tune feeds with advanced filtering options.  \n- **Declutter your reading** – Block unwanted content and focus on high-value posts.  \n- **Customize your main feed** – Set a custom feed as your default for quick access.",
+      "source_content_hash": "25bdd96feb4c48aba29aec8e56ae63c2cf928a57baab73506063199633077a8b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **定制专属体验** – 基于主题、工具或兴趣构建多个订阅源  \n- **优先关注重点** – 通过高级筛选选项微调订阅源  \n- **净化阅读内容** – 屏蔽无关内容，聚焦高价值帖子  \n- **自定义主订阅源** – 将任意订阅源设为默认以便快速访问"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "## Key Features",
+      "source_content_hash": "9214cf33ff90e03f0531d7f7aa0acc0dc8c37a382092e325d7e26659930e0c52",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心功能"
+      }
+    },
+    {
+      "segment_id": "40f9552a",
+      "source_content": "### Unlimited Feed Creation",
+      "source_content_hash": "217f59557a87eb5b29ce511cf5880adacf6aae4de933a898519029241f267a54",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 无限订阅源创建"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "**Plus** subscribers can create multiple **custom feeds**, each tailored to a specific interest, technology, or workflow. Free users have access to only one basic feed but can unlock **unlimited feeds** by upgrading.",
+      "source_content_hash": "2a82dc377aefbd9f4162f15404b0364dca2368c6f7277e6a6309a3e74b8e3aca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**Plus订阅用户**可创建多个**自定义订阅源**，每个都针对特定兴趣、技术或工作流定制。免费用户仅能使用一个基础订阅源，但升级后可解锁**无限订阅源**。"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "### Advanced Feed Settings",
+      "source_content_hash": "0aa9bc8185ef9d0d8166b0da20910db8c29d071db07052483486835d5c59992b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 高级订阅源设置"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "Fine-tune your feeds with **powerful filtering options**:",
+      "source_content_hash": "87140fa5c5c11028533e333e5aaaf9aab560651c697ad6f0b641b91694bde2fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过**强大筛选选项**微调您的订阅源："
+      }
+    },
+    {
+      "segment_id": "77bf3ec9",
+      "source_content": "- **Tags Tab** – Add, remove, or explore suggested tags to refine your feed.  \n- **Filters Tab** – Sort posts by **date, popularity, or visibility**.  \n- **AI Tab** – Enable features like **Clickbait Shield** to clean up misleading titles.  \n- **Block Tab** – Remove distractions by **blocking specific sources, tags, or users**.",
+      "source_content_hash": "e2388d03e5473e4ae2a723916f9e249f0f888e74cc6dd946b992c5ab274b81cf",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **标签页** – 添加、移除或探索推荐标签来优化订阅源  \n- **筛选页** – 按**日期、热度或可见性**排序帖子  \n- **AI功能页** – 启用**点击诱饵防护盾**等功能净化误导性标题  \n- **屏蔽页** – 通过**屏蔽特定来源、标签或用户**消除干扰"
+      }
+    },
+    {
+      "segment_id": "a1b3d8cb",
+      "source_content": "### Precision Filtering and Content Control",
+      "source_content_hash": "aa2cb97373da92c4c28f1b79ef78afa253e0d81088e851664a90152042bd0d22",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 精准筛选与内容控制"
+      }
+    },
+    {
+      "segment_id": "fc8eadc3",
+      "source_content": "- **Source Selection** – Include or exclude specific content sources.  \n- **Content Type** – Filter by format (articles, videos, tutorials).  \n- **Time Range** – Filter content by recency (e.g., “last week” or “last month”).  \n- **Blocked Words** – Automatically filter out posts containing unwanted keywords.  \n- **Sorting Options** – Sort feeds by popularity, date, upvotes, or comments.  \n- **Engagement Filter** – Choose whether to **hide or show** previously viewed posts.  \n- **Language Selection** – Set preferred content languages for each feed.  \n- **Author Selection** – Include or exclude posts from specific authors.",
+      "source_content_hash": "c7eba25e06789eea3b097c9260c980831741f046f6316dc22ad85604477bd3b9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **来源选择** – 包含或排除特定内容来源  \n- **内容类型** – 按格式筛选（文章、视频、教程）  \n- **时间范围** – 按新鲜度筛选（如\"上周\"或\"上月\"）  \n- **关键词屏蔽** – 自动过滤含指定关键词的帖子  \n- **排序选项** – 按热度、日期、点赞数或评论数排序  \n- **互动过滤** – 选择**显示或隐藏**已读帖子  \n- **语言选择** – 为每个订阅源设置首选内容语言  \n- **作者选择** – 包含或排除特定作者的帖子"
+      }
+    },
+    {
+      "segment_id": "54268405",
+      "source_content": "### Custom Feed Defaults",
+      "source_content_hash": "24c4021b55ed21ff8984daa45424d0f932e8073f04703f122d72bcda49903c0c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 自定义默认订阅源"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "Set any **custom feed as your default**, ensuring the first thing you see on daily.dev is **exactly what you want to read**.",
+      "source_content_hash": "4f4731d07db725ec4b4f01b309057e30a27aa4261ee5a1aad8a56823d5c04771",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将任意**自定义订阅源设为默认**，确保您在daily.dev首先看到的**正是您想阅读的内容**。"
+      }
+    },
+    {
+      "segment_id": "f44c1398",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用方式"
+      }
+    },
+    {
+      "segment_id": "6f930b2f",
+      "source_content": "### For Free Users",
+      "source_content_hash": "2708a152f063b847603abc7bd4e3ce20fe9e9d993280f536c18d201c75ea4812",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 免费用户"
+      }
+    },
+    {
+      "segment_id": "40251870",
+      "source_content": "1. Open the **Custom Feeds** section in your sidebar.  \n2. Explore available feed settings.  \n3. To create a new feed, upgrade to **Plus**.",
+      "source_content_hash": "fa9bf4bc2604e07607d3d313004e445c5b0dc2583afc85b6a3ab89ca94152c26",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 在侧边栏打开**自定义订阅源**版块  \n2. 浏览可用订阅源设置  \n3. 需升级至**Plus**方可创建新订阅源"
+      }
+    },
+    {
+      "segment_id": "60410af6",
+      "source_content": "### For Plus Subscribers",
+      "source_content_hash": "6cc4c76f97bd343f2f01bd5f9720081d0ee2ea8ddfffd01f8b0d19871f49146d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Plus订阅用户"
+      }
+    },
+    {
+      "segment_id": "c94a9c0e",
+      "source_content": "1. Access the **Custom Feeds** section from your sidebar.  \n2. Click **“+ Custom Feed”** to create a new feed.  \n3. Personalize it with **tags, filters, and AI-driven options**.  \n4. Set your favorite feed as **default** for a **tailored experience**.",
+      "source_content_hash": "0c505e674f954500150fbe654182893d0d1792dc56ce2ecd32540a650e891eee",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 从侧边栏进入**自定义订阅源**版块  \n2. 点击**\"+自定义订阅源\"**创建新订阅源  \n3. 通过**标签、筛选器和AI驱动选项**进行个性化设置  \n4. 将常用订阅源设为**默认**以获得**定制化体验**"
+      }
+    },
+    {
+      "segment_id": "ab5fc5b5",
+      "source_content": "## Free vs. Plus Access",
+      "source_content_hash": "8dd3d38886e6b5cf8fe5da428ee1eac840fc197a6612e1fceb5c26b158851c33",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费版与Plus版对比"
+      }
+    },
+    {
+      "segment_id": "82ac713a",
+      "source_content": "| Feature               | Free Users | Plus Users |\n|----------------------|------------|------------|\n| Number of Feeds  | 1 basic feed (legacy users only) | Unlimited feeds |\n| Advanced Filters | ❌ | ✅ |\n| AI-Driven Enhancements | ❌ | ✅ |\n| Custom Feed as Default | ❌ | ✅ |\n| Block Words, Sources, and Users | ❌ | ✅ |\n| Set Language Preferences | ❌ | ✅ |",
+      "source_content_hash": "c8651b431875a3a247b8bec6b1b65eb963ebf3e2f00c8b0695d9e32a755de5b4",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_82ac713a"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "Advanced Custom Feeds give you **unmatched flexibility and precision**, ensuring you see only the content that **matters most**.",
+      "source_content_hash": "6643608ffc4c412440993cf4602722601f9228824d07549b7432b116b9aa51c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "高级自定义订阅源提供**无与伦比的灵活性和精准度**，确保您只看到**最重要的内容**。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/custom-feeds.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.391867+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "4ca36db4226601ab62fd369fe392f6a99cee4cc6b5f775b143bc5fe18b2de01f"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/squads/slack-integration.md",
+  "source_file_content_hash": "9303c960729bace5dd87ba262d589c31e3698599ed09ca40f78f3379f954c01a",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 5\ndescription: \"Integrate Slack with daily.dev Squads to streamline updates and team communication with instant notifications for new posts.\"\n---",
+      "source_content_hash": "27ef69a376f432fbb483af3178fdb6b14fed3255aaad04bf7f3773de47c14a31",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Slack Integration for Squads",
+      "source_content_hash": "753eb12c22920f2aa9e8ed753adbd88d8fcc5c01165dbfe57754af28c93605dd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 为开发者小组集成Slack"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![Slack integration cover image](https://daily-now-res.cloudinary.com/image/upload/v1723031786/docs/Slack_integration.png)",
+      "source_content_hash": "448cd50e64bd8f482284a859e600aa4d3fdebf89b7d7dde78767faa42e09be3a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![Slack集成封面图](https://daily-now-res.cloudinary.com/image/upload/v1723031786/docs/Slack_integration.png)"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Integrate your Slack workspace with daily.dev Squads to streamline communication and keep your team updated with the latest posts. This integration makes it easier to kickstart your Squad, autofill details during setup, and ensure you never miss important updates.",
+      "source_content_hash": "766fb3b9f0346c0a0ff6bb6f1cc43af8e64f247e8d51ceea9f5df9d3cc7f0a65",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将您的Slack工作区与daily.dev开发者小组集成，可简化沟通流程并确保团队成员及时获取最新动态。该集成能帮助您快速创建小组、自动填充设置信息，并确保重要更新永不遗漏。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Benefits of Slack Integration",
+      "source_content_hash": "522c6b0e7bab97e04e711ec2eb90e67b659b96e5cc9b686f0200202788895756",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## Slack集成优势"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "- **Seamless Setup**: During Squad creation, you can integrate with Slack to automatically populate your Squad’s details like name, description, and profile image.  \n- **Real-time Updates**: Receive instant notifications in Slack whenever new posts are published in your Squad.  \n- **Team Collaboration**: Keep your team engaged and informed without switching platforms.  \n- **Enhanced Productivity**: Focus on meaningful discussions while staying updated on Squad activity.",
+      "source_content_hash": "b0f060fb606ff61de35200b5eae9083ff54cfb672a7a1e430485821ad6c1696e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **无缝设置**：创建小组时选择Slack集成，可自动同步小组名称、描述和头像等信息  \n- **实时更新**：当小组发布新内容时，Slack频道将立即收到通知  \n- **团队协作**：无需切换平台即可保持团队参与度和信息同步  \n- **效率提升**：专注深度讨论的同时掌握小组动态"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## How to Set Up Slack Integration",
+      "source_content_hash": "45ebb44fb37809adbae0082b25c35dca6933569e4d60127e1408acbc47412a47",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何设置Slack集成"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "### During Squad Creation",
+      "source_content_hash": "1a9be70fefb9c89e471688b72aab07ef0a247edb25bbeab630b25ec4db9c0d56",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 创建小组时集成"
+      }
+    },
+    {
+      "segment_id": "1b8c1887",
+      "source_content": "1. **Choose Slack Integration**: When creating a new Squad, select the Slack integration option.  \n2. **Authorize Access**: Grant daily.dev access to your Slack workspace to autofill Squad details.  \n3. **Review and Finalize**: Confirm the Squad’s name, description, and image pre-populated from Slack. Make any additional edits as needed.  \n4. **Start Engaging**: Your Squad is now ready with Slack integration in place.",
+      "source_content_hash": "f7186e11373b49da07a2d257c85ad55ed1a137770bf6df4aad964fe76174eb3f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **选择Slack集成**：新建小组时勾选Slack集成选项  \n2. **授权访问**：允许daily.dev获取Slack工作区数据以自动填充小组信息  \n3. **核对确认**：检查从Slack同步的小组名称、描述和头像，按需修改补充  \n4. **开始运营**：完成集成后即可启动小组运营"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "### Connecting an Existing Squad to Slack",
+      "source_content_hash": "c2fd5fee9f65a4ca2413dd8056ea5fc6ce3138d451939a2abe40771a4b172bc4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 为现有小组添加集成"
+      }
+    },
+    {
+      "segment_id": "5da9e02b",
+      "source_content": "1. **Go to Your Squad**: Navigate to the Squad you want to integrate with Slack.\n2. **Connect to Slack**: In your Squad’s settings, locate the **\"Connect to Slack\"** button and click it.\n3. **Authorize and Choose a Channel**: Authorize daily.dev to access your Slack workspace and select the Slack channel where you’d like to receive notifications.\n4. **Start Receiving Notifications**: Once the integration is complete, you’ll begin receiving notifications in the selected Slack channel for new posts.",
+      "source_content_hash": "0c50512a2d233a7312ac3d907fa84cf9cd6c50a9ba084ce51b8a944e2bc3e45d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **进入目标小组**：导航至需要集成的小组页面  \n2. **连接Slack**：在小组设置中找到**\"连接Slack\"**按钮并点击  \n3. **授权并选择频道**：完成Slack工作区授权后，选择接收通知的Slack频道  \n4. **接收通知**：集成完成后，所选频道将开始接收新内容通知"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "### Connecting a Squad to a Private Channel",
+      "source_content_hash": "27a3eae42055a84c8dbc6b53d41c4ec714f1b22bc5f7bf938c04c49eab0fbd3a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 连接私有Slack频道"
+      }
+    },
+    {
+      "segment_id": "5d66c9dc",
+      "source_content": "1. **Manually Add the Bot to Your Private Channel**:\n   - Open the private Slack channel where you want to receive notifications.\n   - Manually add the daily.dev bot/app by typing `/invite @daily.dev` in the channel.\n\n2. **Refresh Your daily.dev Page**:\n   - After adding the bot, return to daily.dev and refresh the page. The private channel should now appear in the channel selection dropdown.\n\n3. **Connect the Channel**:\n   - Select the private Slack channel from the dropdown in your Squad’s settings.\n   - Complete the connection, and you’ll start receiving notifications in your private channel.",
+      "source_content_hash": "5df3b3d5157d97b7ab8055afcaaf858b69f893e9d28e33c4a6bae9a1b55f7835",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **手动添加机器人**：\n   - 打开目标私有Slack频道  \n   - 输入`/invite @daily.dev`手动添加daily.dev机器人\n\n2. **刷新daily.dev页面**：\n   - 添加机器人后返回daily.dev刷新页面，私有频道将出现在频道选择下拉列表中\n\n3. **完成连接**：\n   - 在小组设置中选择该私有频道  \n   - 完成连接后即可在私有频道接收通知"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "## Managing Notifications",
+      "source_content_hash": "8230e05bee4f591d99422103c6e6f024ab927a90ecf367fa8e2957e8114b7c06",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 通知管理"
+      }
+    },
+    {
+      "segment_id": "40251870",
+      "source_content": "- Notifications include details of new posts shared within your Squad.  \n- Use Slack settings to manage how and when you receive these updates.",
+      "source_content_hash": "2f60a7647a68f3640392eb4b88768434850d2ebbc847a2ed9c06195d00169611",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 通知内容包含小组内发布的新文章详情  \n- 可通过Slack设置管理通知接收方式和频率"
+      }
+    },
+    {
+      "segment_id": "c6cc90a0",
+      "source_content": "## Troubleshooting",
+      "source_content_hash": "659a188b36f9c3262a28539e24c345df4edc9657f59b116b0a1d9887cf2e28e0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 故障排查"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "If you encounter issues during integration, consider the following:",
+      "source_content_hash": "9735c4fda51301bed44525b04949ed530f6a09ed2a0be7238b0b541575a06b41",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若集成过程中遇到问题，请检查："
+      }
+    },
+    {
+      "segment_id": "36ab8340",
+      "source_content": "- Ensure you have admin rights in both the Slack workspace and the Squad.  \n- Verify the correct Slack channel is selected for receiving notifications.  \n- Check for any permission issues or authorization requests in Slack.",
+      "source_content_hash": "37b146b4e33240b174ca7984f18853e2a341ae9cf5089d3c0fca993d4c733161",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 确认您在Slack工作区和daily.dev小组均拥有管理员权限  \n- 检查Slack频道选择是否正确  \n- 查看Slack授权流程是否完整"
+      }
+    },
+    {
+      "segment_id": "e912d935",
+      "source_content": "## Frequently Asked Questions",
+      "source_content_hash": "8ac79955795784ca48016ad46dca860ea42f34c6a8ebe91234df048fec4462dd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 常见问题解答"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "**Q: Can I integrate multiple Squads with the same Slack workspace?**  \nA: Yes, you can connect multiple Squads to the same Slack workspace by following the integration steps for each Squad individually.",
+      "source_content_hash": "f4168a7d16d335f4ff02ea98fb48c6a1ccf47b19b6f79dba73407521ab8cc8ee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**问：能否将多个小组集成到同一Slack工作区？**  \n答：可以，只需为每个小组单独执行集成步骤即可。"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "**Q: What types of notifications will I receive in Slack?**  \nA: You’ll receive notifications for new posts published within your connected Squad.",
+      "source_content_hash": "6ba5cb73eb2ae4cd4797fb952f4970d4fe56d013b52497eea0c13b068152b1f8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**问：Slack频道会收到哪些类型的通知？**  \n答：您将收到关联小组内所有新发布内容的通知。"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "**Q: How do I disconnect my Squad from Slack?**  \nA: To disconnect, go to the Squad page and click the \"Remove integration\" button.",
+      "source_content_hash": "6562a04be34bd6baf515db9d089c2c7e1cf3b481768c214fe03b3134d59e3a58",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**问：如何解除Slack集成？**  \n答：进入小组页面点击\"移除集成\"按钮即可解除。"
+      }
+    },
+    {
+      "segment_id": "147e8550",
+      "source_content": "For further assistance, please contact our support team at [support@daily.dev](mailto:support@daily.dev).",
+      "source_content_hash": "3ec71c86144c2c6990bbba085a328625e86ee78cd406af505f7d9b03c6a17d76",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如需进一步协助，请联系支持团队：[support@daily.dev](mailto:support@daily.dev)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/squads/slack-integration.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.389411+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "9303c960729bace5dd87ba262d589c31e3698599ed09ca40f78f3379f954c01a"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/customize-your-feed/preferences.md",
+  "source_file_content_hash": "b33bde96248feea023de73c39da072bc515fa57afcd815b1ecb34fa5ec448a5e",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Customize your daily.dev experience with preferences like reading streaks, link behavior, and companion widget for a personalized feed.\"\n---",
+      "source_content_hash": "af2c84feb11a2cb2f22660812f4d181afdfeeef4aa7c13655e10ddecca0c5639",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Preferences Settings",
+      "source_content_hash": "67a7d1d51ba7cd99bf07b83f39e94ecadeb11f904d72980e3f13620b55911f6c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 偏好设置"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![\"Preferences\"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)",
+      "source_content_hash": "814e913ec76630179da74f6149851d836f2465ebf7081b249fa96795d6986d24",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![\"偏好设置\"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "The preferences options allow you to fine-tune your **daily.dev** experience by toggling various features on or off. Currently, available options include:",
+      "source_content_hash": "4def7e87806826f3c40d29693c2d3126a83fd4a5e1a9e00f7a7c51c981c82ccc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过偏好设置选项，您可以通过开启或关闭各项功能来微调**daily.dev**的使用体验。当前可配置选项包括："
+      }
+    },
+    {
+      "segment_id": "143e51c1",
+      "source_content": "- Show reading streaks\n- Open links in a new tab\n- Show custom shortcuts\n- Show feed sorting menu\n- Enable companion",
+      "source_content_hash": "2251a28338fe4748d8a5cecaaa4dc914af03f9dc9d3f178a834e9bca1acfdd83",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 显示阅读连续天数\n- 在新标签页打开链接\n- 显示自定义快捷方式\n- 显示内容流排序菜单\n- 启用伴侣组件"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "### Accessibility",
+      "source_content_hash": "321ff451abff7aadf8af30548109eae882e802908be7ec73ab484ea66a8bce6f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 无障碍功能"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "- Automatically dismiss notifications",
+      "source_content_hash": "a2a1d74fd7db5a71ade780ecbe2810d637bbd0462c3a50ea2052de2d6cfc8564",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 自动关闭通知"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "## Show Reading Streaks",
+      "source_content_hash": "f5b0a1dcd4406ef572ecb176c21228b580bcb09c0c4df478ae6171af199f8e99",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 显示阅读连续天数"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "By default, daily.dev displays your reading streaks in the top right corner of your feed. If you’d prefer to hide your reading streaks, set the `Show reading streaks` toggle switch to `off`.",
+      "source_content_hash": "46626aa02331f648f58cbd2e15f1b082d9b5377aed50c321e379883f9773dcb3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "默认情况下，daily.dev会在内容流右上角显示您的阅读连续天数。如需隐藏该数据，请将`显示阅读连续天数`切换开关设为`关闭`状态。"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "## Open Links in a New Tab",
+      "source_content_hash": "ae743611d5310727dd111eb9c7ad88570fbf5e7ea49d5301761e526d3182953d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 在新标签页打开链接"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "When you click a post link on your feed using the `Read post` button, daily.dev will open that post in a new tab by default. To have posts open in the current tab instead, set the `Open links in new tab` toggle switch to `off`.",
+      "source_content_hash": "7946c6327b5e63f7f2fc2761207c2dac97353946cdc85e5a8d42fc7e10186dc6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "当您通过内容流中的`阅读文章`按钮点击链接时，daily.dev默认会在新标签页打开文章。如需在当前标签页打开，请将`在新标签页打开链接`切换开关设为`关闭`状态。"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## Show Custom Shortcuts",
+      "source_content_hash": "d050d8b241cb6572fd756822275810f359ab08940e36f2e5a421c9c1ed7314c6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 显示自定义快捷方式"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Enable this option to access custom shortcuts at the top center of your feed.",
+      "source_content_hash": "17411699814a37716a5a5d4526b1f20f34af167680e6a44ac03a30e4c4a0b709",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "启用此选项后，您可以在内容流顶部中央区域访问自定义快捷方式。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "![Enable custom shortcuts on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724399755/docs-v2/dfd3d9aa-1cec-4d0d-b340-0913c8b9ea6b.png)",
+      "source_content_hash": "5cdae4fb67b759098d38ae95adab9fb912b215ac474c62066c8884012a6297e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![在daily.dev启用自定义快捷方式](https://daily-now-res.cloudinary.com/image/upload/v1724399755/docs-v2/dfd3d9aa-1cec-4d0d-b340-0913c8b9ea6b.png)"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "## Show Feed Sorting Menu",
+      "source_content_hash": "ae3b7f25de7e01f01cc79a3219c1da7e979e5ebffc566492c8d433c68b303237",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 显示内容流排序菜单"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "Turning this toggle switch on adds a dropdown menu to the My Feed and Popular Feed sections, enabling sorting by `Date` or by `Recommended`, as shown below:",
+      "source_content_hash": "5596458568d095ea16421bd39051d29b7a88356a4e3a80d9363bfc6dd69b738b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "开启此切换开关后，\"我的内容流\"和\"热门内容流\"区域将添加下拉菜单，支持按`日期`或`推荐`排序，如下图所示："
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "![Feed sorting menu on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724399859/docs-v2/ea9b06cd-b59c-4ccb-a420-cda7bba7e75e.png)",
+      "source_content_hash": "a8f83caa2ab0e30741148ed4366fd342903307b1afd0b2b3a7e1d61a91850ef9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev的内容流排序菜单](https://daily-now-res.cloudinary.com/image/upload/v1724399859/docs-v2/ea9b06cd-b59c-4ccb-a420-cda7bba7e75e.png)"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "## Enable Companion Widget",
+      "source_content_hash": "b23681f4d274df8027eceae86e8d42827cfcd2d8fb896aadeb4f600ef3a01912",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 启用伴侣组件"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "Switching this toggle to `on` activates the [companion widget for daily.dev](https://docs.daily.dev/docs/key-features/the-companion), while setting it to `off` deactivates the widget.",
+      "source_content_hash": "312f8232b62e1b7505bb97366ed88b5a85a3afa2760c43c33eb4219ec1c1a493",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将此开关切换至`开启`可激活[daily.dev伴侣组件](https://docs.daily.dev/docs/key-features/the-companion)，切换至`关闭`则停用该组件。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "The companion widget enhances your experience by allowing you to bookmark, comment, and upvote directly on the original post. To activate this widget, click on the **companion button** in the top-right corner of the daily.dev menu bar, as seen below:",
+      "source_content_hash": "69cfa2c9b2177aa7007f6e3332b14a9bdcc34cb5a01aa0f8e13ef176c2583ee0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "伴侣组件能增强您的使用体验，支持直接在原文页面进行收藏、评论和点赞操作。要激活该组件，请点击daily.dev菜单栏右上角的**伴侣按钮**，如下图所示："
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "![Companion widget activation icon on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1695752806/docs-v2/Companion-widget-icon.png)",
+      "source_content_hash": "b2d3dff8b58763a3776244e0d11c0ae104e66695bfc3c89d6221038f00452246",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev伴侣组件激活图标](https://daily-now-res.cloudinary.com/image/upload/v1695752806/docs-v2/Companion-widget-icon.png)"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "Then click on the `Activate companion` button in the description box:",
+      "source_content_hash": "813d4dd4671db131704c003cbb257e2e1c06b8ec39513a3937c7e91226b9d4b3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "然后在描述框中点击`激活伴侣`按钮："
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "![Activate companion widget on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)",
+      "source_content_hash": "62667049d6b10ab0201e193d614c23e3cc210238e31ae94596515f117d391b85",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![在daily.dev激活伴侣组件](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "You will then be asked to grant additional permissions to display the companion widget directly on the original post.",
+      "source_content_hash": "9c02b30b0ca1808d5fdbc3107bc8b1bf7c1eb6b032b3b299525e65f615960c08",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "系统随后会要求授予额外权限，以便在原文页面直接显示伴侣组件。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/customize-your-feed/preferences.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.392553+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b33bde96248feea023de73c39da072bc515fa57afcd815b1ecb34fa5ec448a5e"
+  }
+}

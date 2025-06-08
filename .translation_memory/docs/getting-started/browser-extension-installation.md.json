@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/getting-started/browser-extension-installation.md",
+  "source_file_content_hash": "b766fb1f5e051a0231c440e78c9bcb7c5d4c60de47477a2fa1a0b144314aa73c",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\ndescription: \"Install the daily.dev browser extension for a seamless browsing experience. Get daily.dev in your new tab to build a reading habit and explore key features like the companion widget.\"\n---",
+      "source_content_hash": "892ea030b7e0b132e0e3555ffd106fa8447cf8e5aab293e44c8344db02d3a08c",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Browser Extension Installation Guide for daily.dev",
+      "source_content_hash": "d13fdef0d4eba3ed594ee5476da77b3a63c49268921490b89b8ef264cbadca16",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# daily.dev 浏览器扩展安装指南"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. Don't worry, you can easily [pause the new tab behavior on daily.dev](/key-features/pause-new-tab.md) whenever you want! Additionally, the extension provides access to [the companion widget for daily.dev](/key-features/the-companion.md) for added convenience.",
+      "source_content_hash": "c6fa1189c671a6d9a1d3990dfd2b3025a90caa56794fd08de35a1f3df23dddb0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev 浏览器扩展是增强您使用体验的强大工具。它能让 daily.dev 在新标签页中显示，帮助您培养每日阅读习惯。别担心，您可以随时[暂停 daily.dev 的新标签页行为](/key-features/pause-new-tab.md)！此外，该扩展还提供访问[daily.dev 的伴侣小部件](/key-features/the-companion.md)的便捷功能。"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## Supported Browsers for daily.dev",
+      "source_content_hash": "64194100366e106fdd5880e7dba3e2fb019c801c2e1dd7c1dc164155aaabd049",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## daily.dev 支持的浏览器"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "You can install the daily.dev extension on the following browsers:",
+      "source_content_hash": "945941d46a9ded3ca947c47f76c23c75501d4840077b497c47300bd53dd09f10",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以在以下浏览器上安装 daily.dev 扩展："
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "- [Google Chrome Extension](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)\n- [Microsoft Edge Extension](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)",
+      "source_content_hash": "847bcc3e88e406b21bf09b41c2c065134226faef3c7cfedbab0c9bd5e3679bb3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- [谷歌 Chrome 扩展](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)\n- [微软 Edge 扩展](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)"
+      }
+    },
+    {
+      "segment_id": "a7378c68",
+      "source_content": ":::info\n**Note about Firefox Availability:**  \nWe’ve had to temporarily remove the Firefox extension from the store due to the Mozilla review team’s decision to enforce certain terms. These terms include changes that are partially non-feasible and not reasonable for any app developer to implement, affecting our ability to operate and monetize the app. As a result, Mozilla reverted our extension to an outdated version, making it unusable. We are actively working to find a resolution and appreciate your understanding and patience.\n:::",
+      "source_content_hash": "d09cdf4fb2b11c121588111502ebdd2a0ac60b7308cb675d39b505c2ec53017b",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n**关于 Firefox 可用性的说明：**  \n由于 Mozilla 审核团队决定强制执行某些条款，我们不得不暂时从商店中移除 Firefox 扩展。这些条款包括部分不可行且对任何应用开发者来说都不合理的变更，影响了我们运营和变现应用的能力。因此，Mozilla 将我们的扩展回滚到了一个过时的版本，使其无法使用。我们正在积极寻求解决方案，感谢您的理解与耐心。\n:::"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "Just install the extension, open a new tab, and you're all set!",
+      "source_content_hash": "52579a93d529c4f2b9987326f4f0514ea999e47923ba7b0c52dcd66bacdfef32",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "只需安装扩展，打开一个新标签页，即可开始使用！"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "## Using Alternative Browsers?",
+      "source_content_hash": "058c7ecabcfd61755fe7c40e8c84dc1a90c23901a88aadee3165d971c18a2c49",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用其他浏览器？"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "If you’re using **Safari, Firefox, Brave, Opera, Vivaldi, or another browser**, you can try out our [progressive web app for daily.dev](/getting-started/pwa.md), which has all the core functionality you need!",
+      "source_content_hash": "ca873bacf9bdb8e5301e4492cc05db9e9bfc28421ba5ee4c53ce6fa02106915a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您使用的是 **Safari、Firefox、Brave、Opera、Vivaldi 或其他浏览器**，可以尝试我们的[daily.dev 渐进式网页应用](/getting-started/pwa.md)，它具备您所需的所有核心功能！"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "## Troubleshooting Common Issues",
+      "source_content_hash": "eabe2de2f080854a87dedc16213b18295fff975777fd11dd0a992f6f76444a0e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 常见问题排查"
+      }
+    },
+    {
+      "segment_id": "5da9e02b",
+      "source_content": "1. [How to Restore Chrome's Bookmarks Bar](#how-to-restore-chromes-bookmarks-bar)\n2. [Adding Custom Shortcuts to daily.dev](#adding-custom-shortcuts-to-dailydev)",
+      "source_content_hash": "cdb626fdcb3c8d5af3c2067cc8be7e19a257830de20ed055495e9dae5da39ab2",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. [如何恢复 Chrome 的书签栏](#how-to-restore-chromes-bookmarks-bar)\n2. [向 daily.dev 添加自定义快捷方式](#adding-custom-shortcuts-to-dailydev)"
+      }
+    },
+    {
+      "segment_id": "0037ff70",
+      "source_content": "### How to Restore Chrome's Bookmarks Bar",
+      "source_content_hash": "d9682c061cea694b769119d55bcd41f9ae9e44a71e340dc47a69cf2a8bc60b53",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 如何恢复 Chrome 的书签栏"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "To bring back your bookmarks bar in Google Chrome, you can follow these two methods:",
+      "source_content_hash": "644e634b886f926842aaaa393d0e170295117cfedd9f76907e3873a9038d3a48",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要恢复谷歌 Chrome 的书签栏，您可以采用以下两种方法："
+      }
+    },
+    {
+      "segment_id": "3b7478ea",
+      "source_content": "#### Using Keyboard Shortcuts",
+      "source_content_hash": "66dd39b6fed1c1a323f31481749ece7be5016eafbedd4e3eb2db56616735bb46",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 使用键盘快捷键"
+      }
+    },
+    {
+      "segment_id": "33808f76",
+      "source_content": "- **Windows users**: Press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>B</kbd>\n- **Mac users**: Press <kbd>CMD⌘</kbd> + <kbd>SHIFT⇧</kbd> + <kbd>B</kbd>",
+      "source_content_hash": "955e208b8a1a7f1d20764a87252f4b81293687d9e5e367913750b79d24f8340f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **Windows 用户**：按下 <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>B</kbd>\n- **Mac 用户**：按下 <kbd>CMD⌘</kbd> + <kbd>SHIFT⇧</kbd> + <kbd>B</kbd>"
+      }
+    },
+    {
+      "segment_id": "8d04259b",
+      "source_content": "#### Using Chrome's Settings Menu",
+      "source_content_hash": "28780043a710d10aa056ad7fa5cbb989b7c1db54cc278c18e716768461756cb0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 使用 Chrome 的设置菜单"
+      }
+    },
+    {
+      "segment_id": "aa83231c",
+      "source_content": "1. Click on the three dots (⠇) on the top right corner of your Google Chrome browser.\n2. Go to **Bookmarks** > **Show Bookmarks Bar**.",
+      "source_content_hash": "b185614bd83f3e739d2e81168a79bd67c1a9eeeb9544104b5f5456b813ab0932",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击谷歌 Chrome 浏览器右上角的三个点 (⠇)。\n2. 转到 **书签** > **显示书签栏**。"
+      }
+    },
+    {
+      "segment_id": "f44c1398",
+      "source_content": "## Adding Custom Shortcuts to daily.dev",
+      "source_content_hash": "6744b0cc38aba442b87e73a19b6222900034004b7b9a00b8db434de157c46e25",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 向 daily.dev 添加自定义快捷方式"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "If you are using the daily.dev extension, you can add custom shortcuts to easily access your frequently used sites.",
+      "source_content_hash": "c4d879fc27f80da6fc3e5d026d40b8e00436ee5244649fd9c0dca88e86ace4e4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您正在使用 daily.dev 扩展，可以添加自定义快捷方式以轻松访问常用网站。"
+      }
+    },
+    {
+      "segment_id": "ddd2c7ae",
+      "source_content": "1. Click on the **\"Add Shortcuts\"** button (1), located towards the top right of your feed.\n\n   ![Add shortcuts button located towards the top right of your feed](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-1.jpg)\n\n2. A modal will appear with the following options:\n   - **My Shortcuts** (2)\n   - **Most Visited Sites** (3)\n\n   ![Shortcuts modal with \"My Shortcuts\" (2), \"Most Visited Sites\" (3), and a list of shortcuts below (4)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-2.jpg)\n\n   By default, \"My Shortcuts\" will be shown.\n\n3. To configure your own shortcuts, simply add the full URL of each site into the list below (4) and save your changes.",
+      "source_content_hash": "93c617608b68107902f873b59cec61952cd393b93c5f9d86b17e00c554cbe259",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击位于信息流右上角的 **\"添加快捷方式\"** 按钮 (1)。\n\n   ![位于信息流右上角的添加快捷方式按钮](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-1.jpg)\n\n2. 将出现一个包含以下选项的模态框：\n   - **我的快捷方式** (2)\n   - **最常访问的网站** (3)\n\n   ![包含\"我的快捷方式\"(2)、\"最常访问的网站\"(3)及下方快捷方式列表(4)的模态框](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-2.jpg)\n\n   默认会显示\"我的快捷方式\"。\n\n3. 要配置自己的快捷方式，只需在下方列表 (4) 中添加每个网站的完整 URL 并保存更改即可。"
+      }
+    },
+    {
+      "segment_id": "126950d7",
+      "source_content": "### Importing Shortcuts from Chrome to daily.dev",
+      "source_content_hash": "28ca4b423fe82926693f73b24fd940dc2cbb362504c07addf5a415a9faaf943a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 将Chrome快捷方式导入daily.dev"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "You can easily import your most visited sites from Google Chrome to save time creating shortcuts manually. Here's how:",
+      "source_content_hash": "f3eb2e860976c8f035e80d2c1e92fe2fe5b85d696d97b89692a6943d65adb2fa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以轻松从Google Chrome导入最常访问的站点，省去手动创建快捷方式的麻烦。操作步骤如下："
+      }
+    },
+    {
+      "segment_id": "a4bd3cfc",
+      "source_content": "1. Click on **\"Most Visited Sites\"** (3 above).\n2. A modal will appear, informing you that we need additional permissions. Click **\"Next\"** (5) to continue.\n\n   ![Information about extra permissions needed shown in a modal, along with the \"Next\" button (5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-3.jpg)\n\n3. Grant the necessary permissions when prompted.\n4. The list of shortcuts will be automatically populated with your most visited sites.\n5. Save and close the modal to see your selected shortcuts in place of the **\"Add Shortcuts\"** button (6).\n6. You can always modify your shortcuts by clicking on the three dots (⠇) at any time.\n\n   ![Final view of shortcuts after configuration, showing the \"Next\" button (5) and additional permissions](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-4.jpg)",
+      "source_content_hash": "5eba3d7fbe8c4e00ebc032f970ec08f5ae0808bac786ae4b0e90971a14724970",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击上方**\"最常访问站点\"**(3)。\n2. 将弹出提示框告知需要额外权限，点击**\"下一步\"**(5)继续。\n\n   ![显示需要额外权限信息的提示框，包含\"下一步\"按钮(5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-3.jpg)\n\n3. 根据提示授予必要权限。\n4. 快捷方式列表将自动填充您最常访问的站点。\n5. 保存并关闭提示框后，所选快捷方式将替换原**\"添加快捷方式\"**按钮(6)。\n6. 您随时可通过点击三点菜单(⠇)修改快捷方式。\n\n   ![配置完成后的快捷方式最终视图，显示\"下一步\"按钮(5)及额外权限信息](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-4.jpg)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/getting-started/browser-extension-installation.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.383048+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b766fb1f5e051a0231c440e78c9bcb7c5d4c60de47477a2fa1a0b144314aa73c"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/community-picks.md",
+  "source_file_content_hash": "c2e56698e92fb1f5c5aab021235a93de050a9266e64ae60ec4dd388c8b2c642d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 9\ndescription: \"Discover how to submit Community Picks on daily.dev to share impactful content that supports the tech journey of the developer community.\"\n---",
+      "source_content_hash": "4330faa5460c8d9b05c0dc81c02a7d57c03b8c271f3ce96a84c115a4f6aa496c",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Community Picks",
+      "source_content_hash": "4c88fe85c682f90f93e6cb4a4fdb10a1766e8001c863cc97fb5abda0666accb4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 社区精选"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Community Picks are posts that are sourced by the community.",
+      "source_content_hash": "f8e3a26a18e3a9e3fc6fdf51ce8b92921c556ccbdc61fa333ce0ed8ed9a384ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社区精选内容由社区成员共同发掘提交"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers. Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community.",
+      "source_content_hash": "10505b3bf2f1fe3bdbe3b592da575c336320157de17cce9befd1d5b853c92a87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们期待您提交那些真正改变您技术成长轨迹的优质内容。无论是深度技术教程、对技术问题的独特见解，还是面向开发者精心制作的高质量趣味内容。最重要的是，我们希望推荐那些您认为值得更多曝光、来自您钦佩的创作者、且能惠及daily.dev开发者社区的文章。"
+      }
+    },
+    {
+      "segment_id": "0e7eb58c",
+      "source_content": ":::caution\nBefore you embark on submitting your Community Picks, it's crucial to familiarize yourself with our [content guidelines](../for-content-creators/content-guidelines.md). These principles are the cornerstone of our content review process and they ensure that our platform maintains its standard of high-quality, relevant, and ethical content. So, take a moment to read through these guidelines thoroughly. Doing so will increase your understanding of what we look for and improve the likelihood of your content being accepted. Your informed contribution can help make our platform an even more enriching resource for our community.\n:::",
+      "source_content_hash": "07cc5b82ff394376a76b110493decc6c7a8f5fd630528c8af2a26a19bf3bf543",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::caution\n在提交社区精选前，请务必仔细阅读我们的[内容准则](../for-content-creators/content-guidelines.md)。这些原则是我们内容审核流程的基石，确保平台始终保持高质量、相关且符合道德标准的内容。充分理解这些准则将提升您的内容通过率，您的专业贡献将帮助平台成为更丰富的技术资源库。\n:::"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Quick Overview Video",
+      "source_content_hash": "179a79ea5820298317c59e39f20ad4dc456a597edd5025fbe3ad4306fa7c8ed8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 功能概览视频"
+      }
+    },
+    {
+      "segment_id": "440191a5",
+      "source_content": ":::info\nTo get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 5 submissions per day. Learn more about [how to gain reputation points](../your-profile/reputation.md)\n:::",
+      "source_content_hash": "bf72c26079815aecd9e07df79a410bab490898983e6cafb624a928a0d265551e",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n使用该功能需先获得\"侦察兵\"权限（最低250声望值）。仅持此权限的用户可提交链接，每日上限5篇。详细了解[如何获取声望值](../your-profile/reputation.md)\n:::"
+      }
+    },
+    {
+      "segment_id": "5dfba1c3",
+      "source_content": "<iframe width=\"700\" height=\"400\"  src=\"https://www.youtube-nocookie.com/embed/JlBlTIMfrGM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "source_content_hash": "9d07f5ff2323894d28272a21ab557cfdf088c91e856ec465d636cf8fd5d29fdb",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_5dfba1c3"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "## Community Picks in the daily.dev feed",
+      "source_content_hash": "e5f8cb88e6ac1a9e348493a0177f5d9a6864dd8a6bf0ae8fd90992c2ec51f51b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 社区精选在daily.dev信息流中的体现"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "Community Picks are posts that are added to the daily.dev feed by our community members. These posts can be from nearly any website / online publication, not just from our pre-qualified sources.",
+      "source_content_hash": "be024179364a24f8807c4afe47bcf6e73710a259579933de58b3dca3d41ff2f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社区精选是由成员从各类网站/在线出版物提交的内容，不仅限于平台预设的合格来源。"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "### How can I spot a community pick?",
+      "source_content_hash": "d27b320190e71f3ddec989618f8d90badb72fdbbfb9d434dab1ee799bf0f739c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 如何识别社区精选？"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "On a card in the feed there is always an icon showing the source in the top left.",
+      "source_content_hash": "d3bbb9d34fef6398f1e85c0bf6b4f34980431091b19fe0a82143d9104b752387",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "信息流卡片左上角始终显示来源图标"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "![screenshot showing the community picks icon on the top left of a card](https://daily-now-res.cloudinary.com/image/upload/v1724397565/docs-v2/f531e2b3-a052-44d2-8bac-311df72e906d.png)",
+      "source_content_hash": "a559a0b9bee83ff84bfdfda46972266086713dec38d3e4ff68ee050c6d67f6f5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![卡片左上角显示社区精选图标的截图](https://daily-now-res.cloudinary.com/image/upload/v1724397565/docs-v2/f531e2b3-a052-44d2-8bac-311df72e906d.png)"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "Clicking on this icon will take you to the community picks feed.",
+      "source_content_hash": "3d45f2351196b04d036cc891fed8670cd4cb53e7c63ba8d259ae82d51e13e31b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击该图标将跳转至社区精选专属信息流"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "### Community Picks feed",
+      "source_content_hash": "9fa054bb2a114440fc503319a6702169dddd2b5ee43ca8d0b0706d9e5aee238f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 社区精选信息流"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "All of the posts submitted by the community are available in the [Community Picks feed.](https://app.daily.dev/sources/community)",
+      "source_content_hash": "c00ca66591bd02deffede921349acb5518e8d79cf355bc0830c5c0f045f435fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "所有社区提交内容均收录于[社区精选信息流](https://app.daily.dev/sources/community)"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "![community picks page](https://daily-now-res.cloudinary.com/image/upload/v1724397631/docs-v2/03d6da9c-7a30-44aa-9d7d-96e345b5df36.png)",
+      "source_content_hash": "0cc7bd5f6e7e7142b6350fba09fadfd99cb46f367f9eaea932dadff20f0381e5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![社区精选页面](https://daily-now-res.cloudinary.com/image/upload/v1724397631/docs-v2/03d6da9c-7a30-44aa-9d7d-96e345b5df36.png)"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "## Submitting / Scouting a Community Pick",
+      "source_content_hash": "6803b5ef9100da41428aef1862501123352f7a3db6c4b2a6b8c60a76acf60314",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 提交/发掘社区精选"
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "We want you to submit posts that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.",
+      "source_content_hash": "ce38547d37a5ae8621fe65721af68db087f2be8b3fb1e7cf9dd3c078b6d2e080",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们期待您推荐那些深刻影响您技术成长的内容：包括深度教程、技术问题的创新解法，或面向开发者精心制作的高质量趣味文章。"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "Above all, we want posts that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.",
+      "source_content_hash": "d6c558592b9879d26681f97a9d6b89d2d26f3e6522578c18666c085c7218cbe2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "最重要的是那些您认为值得推广、源自优秀创作者、且能造福开发者社区的内容。"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.",
+      "source_content_hash": "3b973862da2cd3f1fa6bee702692725f6785e017a1bd4250ab0748e45f90f2f8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "低质量、低投入及自我推广内容将被移除，以维护平台内容标准。"
+      }
+    },
+    {
+      "segment_id": "fac21652",
+      "source_content": ":::info\nBefore submitting a Community Pick, you should read the [**content guidelines**](../for-content-creators/content-guidelines.md) to ensure your post is suitable for the feed.\n:::",
+      "source_content_hash": "69470433060809caf621a0cd574b0e002e6f3cc728487e2119dfa6e9a0940814",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n提交前请务必阅读[内容准则](../for-content-creators/content-guidelines.md)，确保内容符合要求\n:::"
+      }
+    },
+    {
+      "segment_id": "cb5b269c",
+      "source_content": "### Reputation Requirements",
+      "source_content_hash": "02d802ca7aadcb28cd985b63ee96310c881e9b0bf9ffc70b9bc684e47a5faaf3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 声望要求"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev. Once you reach this threshold you will earn the Scout privilege.",
+      "source_content_hash": "fde44d0cad75e03c1cdedcd5008f3b350f2ac2cb6e057e1f9be62e75407aa334",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "提交社区精选需至少250点声望值，达标后将获得\"侦察兵\"权限"
+      }
+    },
+    {
+      "segment_id": "7fc18c94",
+      "source_content": ":::tip\n[Learn how to gain reputation](../your-profile/reputation.md) and how reputation works.\n:::",
+      "source_content_hash": "cf9786f6e619f5c993549b13be4cc7c826657254274f50124ab2e3d15a10d5d2",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n了解[声望获取方式](../your-profile/reputation.md)及声望系统运作机制\n:::"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "If you do not have enough reputation to submit a link you will see a message telling you that you do not have enough reputation and the submit button will be disabled.",
+      "source_content_hash": "9fd53d8a8ed5d09ead71a515068d5535d9c51d826058c8b2893516716983d0db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若声望不足，系统将提示权限不足并禁用提交按钮"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "![not enough reputation for community links notification](https://github.com/user-attachments/assets/8a132a66-b4f5-4def-b314-a3f6dd999819)",
+      "source_content_hash": "72bee863fa344b27cc1da62e4335fadea6c535461b0ec496319d047fd115e2bc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![社区链接提交所需声望不足提示](https://github.com/user-attachments/assets/8a132a66-b4f5-4def-b314-a3f6dd999819)"
+      }
+    },
+    {
+      "segment_id": "c315c636",
+      "source_content": "### How to submit a link",
+      "source_content_hash": "efb48b5ebd795efd4958f115f37c2dc8c729490fe88beee63b0d1c769ad72adf",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 如何提交链接"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "On the menu on the left you will see a section \"Contribute\" containing a button \"Submit link\".",
+      "source_content_hash": "1f778cf81f430e79882aeedb4a82e67d1116ea3e252cf029024a532fc8dd93ee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在左侧菜单栏中，您会看到\"贡献\"板块下的\"提交链接\"按钮。"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "Clicking on that button will open the \"Submit link\" modal.",
+      "source_content_hash": "3a3751d435be9c38959f36e69d2b0f81cf4b6662cbbda47fa4e36031caa49ff7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击该按钮将打开\"提交链接\"模态窗口。"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "This is how the modal looks like",
+      "source_content_hash": "97195a990c006854b3bdb410932cae95dc3f7771772f885e8cc3250326df2ac2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "模态窗口示例如下："
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "![Submit modal example](https://daily-now-res.cloudinary.com/image/upload/v1724397819/docs-v2/e8d2da79-6da6-47b8-9b1a-d974f512df6b.png)",
+      "source_content_hash": "397a0dc9709d23506dad71f1462d01bcb0625f11ab0221f05d98cabfe0bf4bd1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![提交模态窗口示例](https://daily-now-res.cloudinary.com/image/upload/v1724397819/docs-v2/e8d2da79-6da6-47b8-9b1a-d974f512df6b.png)"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "Here you can paste in the post URL and then press submit.",
+      "source_content_hash": "889e376984f1922429b9ff6d2a2d5e84e917449cd68d10021cc555c9a762d221",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在此处粘贴文章URL后点击提交按钮。"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "You will then see either a success, already exists or error message.",
+      "source_content_hash": "9083ee1a22341380b2c32af1a6c8fe288a9824bb633db987c1ee044e154534a5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "系统将显示提交成功、链接已存在或错误提示信息。"
+      }
+    },
+    {
+      "segment_id": "60a3c146",
+      "source_content": ":::caution\nPlease note that **submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed. If you're looking for ways to post your own content please refer to our [\"How to get featured?\"](../for-content-creators/how-to-get-featured.md) guide.\n:::",
+      "source_content_hash": "a841f381fe25b3292e973890b98d5869299f4e1d2bbfdaf6fa0a37a729b7098d",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::caution\n请注意：**禁止提交您自己撰写的文章**。请分享其他作者创作的优质文章。如需发布个人原创内容，请参阅我们的《[如何获得推荐？](../for-content-creators/how-to-get-featured.md)》指南。\n:::"
+      }
+    },
+    {
+      "segment_id": "b936dd6a",
+      "source_content": "#### Post already exists",
+      "source_content_hash": "1f32e236f5f1cc54372d98df33949a2c6667f7b96a7c073d1b88312826cb5a17",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 文章已存在"
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "If the post already exists in the daily.dev feed you will see a message explaining the post already exists and a link to that post.",
+      "source_content_hash": "d47bda851cc6f8b984ec00c4341198f1191f74b67f94426ed5f3d780576cb719",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若该文章已存在于daily.dev信息流中，系统将提示文章已存在并提供原文链接。"
+      }
+    },
+    {
+      "segment_id": "a4bf4268",
+      "source_content": "### Successful Submissions",
+      "source_content_hash": "33d65307a971a9712236b1a4faa8d25a28ebb497fa0e2ef7f724994b0f673018",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 成功提交"
+      }
+    },
+    {
+      "segment_id": "fbc2db85",
+      "source_content": "If the post you submitted has a valid URL and doesn't already exist you will get a confirmation that you will be notified by an in-app notification and an email about the request status.",
+      "source_content_hash": "61f51808df5fc0fdfb1e37d9cc0d08171a1411342b1d02cf04131d94ea1ed2a3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若您提交的文章URL有效且未被收录，系统将通过站内通知和邮件告知您审核状态。"
+      }
+    },
+    {
+      "segment_id": "759d12dd",
+      "source_content": "### Rejection Scenarios",
+      "source_content_hash": "2eb1bbffdb2243be1b684de93b31aab6d6f2863c140b7bae58cfa3c033e344f5",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 拒绝情形"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "There are multiple reasons why a submission to Community Picks could fail.",
+      "source_content_hash": "06a83e19156aa57741104c2aafadcd1e519aa1a28e15680c145e03d8797febed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社区精选提交可能因多种原因被拒绝。"
+      }
+    },
+    {
+      "segment_id": "90d35b51",
+      "source_content": "#### Before submission",
+      "source_content_hash": "9fb2cb3d4e8beb39ca370ce5c105531e90f38e502e8ad185affd84e980bd54c0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 提交前检查"
+      }
+    },
+    {
+      "segment_id": "9be2808c",
+      "source_content": "| Message | Notes |\n| --- | --- |\n| You do not have sufficient permissions and or reputation to submit a link to Community Picks yet. | You need 250 reputation and to have not received a ban from posting Community Picks in order to be able to submit a link |\n| You can only submit 3 links per day and have reached your limit. Please try again tomorrow. | None |\n| The URL you submitted is not valid, please check and try again. | Please include the full url including \"https://\" etc. when submitting a link |\n| This post has previously appeared in the daily.dev feed but was deleted and cannot be added to the feed again. | We may delete posts that do not meet our content guidelines. Once a post has been deleted it cannot be added to the daily.dev feed again |",
+      "source_content_hash": "de69a5b25dd66fe21a38abdcadcafa374cfa943598eae6e813e8d449373ae9ce",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_9be2808c"
+      }
+    },
+    {
+      "segment_id": "f8edb6d2",
+      "source_content": "#### After submission (via email)",
+      "source_content_hash": "3ebfe23aead771cd53d8980cc67dcc8dca523059ca259d09c4cea099a14d75d8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 提交后反馈（通过邮件）"
+      }
+    },
+    {
+      "segment_id": "99ff7312",
+      "source_content": "| Failure reason | Notes |\n| --- | --- |\n| We ran into a problem adding this post, our team is looking into it. | This is a generic fallback which normally displays when our crawler could not extract some key information such as the title of the post | \n| This post is already on daily.dev! | If you manage to submit a post at the same time as someone else it may be possible that the post will exist once we come to process it and so you will receive this message |\n| The post you submitted is written by an author who violated our community guidelines and is banned. We no longer accept submissions from this author. | It is rare we ban authors, but occasionally they consistently post spammy or NSFW content that is not suitable for daily.dev. We will not accept any posts written by these authors. |\n| You can’t submit your own posts as community picks, please suggest posts by other people. | Community Picks are not designed for self promotion, instead try submitting posts written by others that you think will benefit the community. |\n| The post you submitted is behind a paywall, so we cannot add it to the daily.dev feed. | We try our best to make sure all posts shared are free for the community. If we detect a paywall then a post will not be accepted for the feed. |\n| There was an error and we were unable to gather the required information from the URL submitted to add it to our feed. | If a site has an unusual structure our crawler may not be able to parse the page correctly to create the tags and TLDR. |",
+      "source_content_hash": "8c195e415c7d92af899f51ed204861e208ad6ccb0a99b1fc19dc386e66d38060",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_99ff7312"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/community-picks.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.384707+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "c2e56698e92fb1f5c5aab021235a93de050a9266e64ae60ec4dd388c8b2c642d"
+  }
+}

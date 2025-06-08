@@ -1,0 +1,142 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/getting-started/pwa.md",
+  "source_file_content_hash": "a7fe33df9e179c4cf0c0d72ad13381f889430024e05a6c8887c7a4fbdfaa35c3",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Explore the daily.dev Progressive Web App (PWA) for a seamless, cross-platform developer news experience. Learn to add daily.dev to your home screen on iOS and Android.\"\n---",
+      "source_content_hash": "62fdfd5febbf344f460eb833e4eecbd9b7c992293b13af9f68a66528977756d6",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Progressive Web App (PWA) for daily.dev",
+      "source_content_hash": "678e64470b9c2db5408a71f4c32eb3ef30956e4eb0ef2d676573ee6c9c723189",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# daily.dev 渐进式网页应用 (PWA)"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Experience daily.dev like never before with our fully responsive and user-friendly **progressive web app (PWA)**! Stay up-to-date with the latest developer news, tips, and insights on any device, anytime, anywhere. Read on to learn how you can add a shortcut to your home screen on iOS and Android for quick access to the daily.dev PWA!",
+      "source_content_hash": "0de516c4cc174753ab28f1b831f902d03f37c119cea47c5f3d47f8ba96dc2bf5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过我们完全响应式且用户友好的**渐进式网页应用 (PWA)**，以前所未有的方式体验 daily.dev！随时随地通过任何设备获取最新的开发者新闻、技巧和洞见。继续阅读了解如何在 iOS 和 Android 设备的主屏幕上添加快捷方式，快速访问 daily.dev PWA！"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "All you need to do is visit [this URL to access daily.dev on any device](https://app.daily.dev).",
+      "source_content_hash": "614fd1bbcfa9e84aa273b2cb9e2dd16cb0973284e44b1fba8d51261eb0a99047",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您只需访问[此链接即可在任何设备上使用 daily.dev](https://app.daily.dev)。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Key Advantages of Using the daily.dev PWA",
+      "source_content_hash": "54eda8cb1cc6caeb3162c49b3c0749db793efc2a0e58618137a3b23e8f165693",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用 daily.dev PWA 的主要优势"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "- **Cross-Platform Compatibility**: Access daily.dev on any device with a web browser, including desktops, laptops, smartphones, and tablets.\n- **App-Like Experience**: Enjoy a responsive, app-like experience with smooth performance and easy navigation on the daily.dev PWA.\n- **Easy Installation**: Adding the daily.dev PWA to your home screen on iOS and Android is quick and simple, offering one-tap access to your developer news.\n- **Regular Updates**: The daily.dev PWA continuously receives updates with new features and improvements, ensuring a top-notch experience every time.",
+      "source_content_hash": "a6ceacb41eaf3091845cc50178c7e33788a1cc64857caea15d71aee74fa00b5b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **跨平台兼容性**：通过任何带有浏览器的设备访问 daily.dev，包括台式机、笔记本电脑、智能手机和平板电脑。\n- **类应用体验**：享受响应迅速、性能流畅且易于导航的类应用体验。\n- **轻松安装**：在 iOS 和 Android 设备的主屏幕上添加 daily.dev PWA 快捷方式既快速又简单，一键即可访问开发者新闻。\n- **定期更新**：daily.dev PWA 持续获得新功能和改进的更新，确保每次都能获得一流的体验。"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## Adding daily.dev to Your Home Screen on iPhone, iPad, and Mac",
+      "source_content_hash": "7b53d1a84d57d15f77a807e783306c0ffa4da9d154835330023a3b767e838db6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 在 iPhone、iPad 和 Mac 上将 daily.dev 添加到主屏幕"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "To add a shortcut to the daily.dev PWA on iOS, iPadOS, or macOS:",
+      "source_content_hash": "4a2b97583cccd5de8b0c7f16e2feadacb6595fa98d592399561028c96b1aa84d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要在 iOS、iPadOS 或 macOS 上添加 daily.dev PWA 的快捷方式："
+      }
+    },
+    {
+      "segment_id": "1b8c1887",
+      "source_content": "1. Open the daily.dev web app on the Safari browser.\n2. Tap the **Share** button, then select **Add to Home Screen**.\n3. Follow the prompts to add the shortcut to your device's home screen for quick access.",
+      "source_content_hash": "920e8a8512e9e5d0e3b7b066c6db2540331853fa2b2f77327ab4f362a8de5eda",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 在 Safari 浏览器中打开 daily.dev 网页应用。\n2. 点击**分享**按钮，然后选择**添加到主屏幕**。\n3. 按照提示将快捷方式添加到设备的主屏幕以便快速访问。"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "For more information, refer to the [official Apple guide on adding shortcuts to your home screen](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios).",
+      "source_content_hash": "e60d4cc6af6c96b32f14581289ca1f03b629127fd435ef65453af569f0cf0ac1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "更多信息，请参考[苹果官方关于添加主屏幕快捷方式的指南](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios)。"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## Adding daily.dev to Your Home Screen on Android",
+      "source_content_hash": "18e245a52a1e87ec86f8c3132a6b767aad4809b54899cbc87001a319545d59ac",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 在 Android 上将 daily.dev 添加到主屏幕"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "On Android, there are two options to add daily.dev to your mobile home screen:",
+      "source_content_hash": "1e0803b3d52701e68562c7017a56ef560ba933cff3b69dc8fe444e12284063cd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在 Android 上，有两种方法可以将 daily.dev 添加到移动设备的主屏幕："
+      }
+    },
+    {
+      "segment_id": "cd471e4e",
+      "source_content": "1. **Install the daily.dev Android App**: Get it directly from [Google Play](https://play.google.com/store/apps/details?id=dev.daily).\n2. **Manually Add the PWA to Your Home Screen**: Follow the [Google guide for adding web apps to Android home screens](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid).",
+      "source_content_hash": "70fea89c93fd3dd0e4ad5158d996ca4e6a7abac47a675c8319a581eef0069973",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **安装 daily.dev Android 应用**：直接从[Google Play](https://play.google.com/store/apps/details?id=dev.daily)获取。\n2. **手动将 PWA 添加到主屏幕**：按照[Google 关于将网页应用添加到 Android 主屏幕的指南](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid)操作。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/getting-started/pwa.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.388050+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "a7fe33df9e179c4cf0c0d72ad13381f889430024e05a6c8887c7a4fbdfaa35c3"
+  }
+}

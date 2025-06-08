@@ -1,0 +1,202 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/community.md",
+  "source_file_content_hash": "d8d301b713ecdf9f7500b26c4df90fbabee63fd5d54aebf8a3507e99c791263d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 100\n---",
+      "source_content_hash": "0dfbd9613ffc5e1202f539ff1cae12d6b7b599c9768cd4ff6a35b5dc2f5c88d5",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "4dbcc3b4",
+      "source_content": "# Community",
+      "source_content_hash": "c61804d590fd0a268f1192da412a8b6d48feb20d2da06e8db143af376404b0b4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 社区"
+      }
+    },
+    {
+      "segment_id": "e7ec8f99",
+      "source_content": "Welcome to the daily.dev community! Join us on our various social media channels to stay updated with the latest news, events, educational content, giveaways, and more related to daily.dev.",
+      "source_content_hash": "89a64e7b10ef2914141ac426a607164bc511ab90ccf2af85d2d782de5d60c5b8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "欢迎加入daily.dev开发者社区！通过我们的各类社交媒体渠道，获取最新资讯、活动动态、教育内容、赠品福利等与daily.dev相关的内容。"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## Changelog",
+      "source_content_hash": "b19341c564ce8caf76779b9574c99650bb86ae4eba85baf79fe4d53fad32ade3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 更新日志"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Stay up-to-date with the latest changes and updates on daily.dev by checking out our [changelog](https://app.daily.dev/squads/daily_updates) .",
+      "source_content_hash": "cd9d785d6c738e271d57ea6bbd940252d8b9647aba6b0ab39c618b835cbdf517",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过查阅我们的[更新日志](https://app.daily.dev/squads/daily_updates)，随时掌握daily.dev的最新变更与功能更新。"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## Twitter",
+      "source_content_hash": "24b9823affe905a54b2dfade3db563ddb53fad8f022369fcf489f7283fd85693",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## Twitter"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "Follow us on Twitter [@dailydotdev](https://twitter.com/dailydotdev) for the latest news, updates, educational content, giveaways, and engaging discussions related to daily.dev.",
+      "source_content_hash": "c3b92b9394a8ec4c51ddccf11a6ace56d61977d3cb34d2fb93e528ffe66ca898",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "关注我们的Twitter账号[@dailydotdev](https://twitter.com/dailydotdev)，获取daily.dev的最新动态、更新通知、技术教育内容、福利活动以及深度讨论。"
+      }
+    },
+    {
+      "segment_id": "ba4f48ff",
+      "source_content": "## YouTube",
+      "source_content_hash": "2db07a12655d7a6ee1b41fec5d049a2ae06bce89bf083efb018bb071636ffa9e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## YouTube"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Subscribe to our official [YouTube channel](https://www.youtube.com/c/dailydev) for a wealth of content, including Monthly Dev events with world-class talks, cool intro videos, tutorials, and more! Stay updated with new releases, educational content, giveaways, and behind-the-scenes glimpses.",
+      "source_content_hash": "e2b4510e5a9a354f7bebaf9288407dd97d7d944ea9835bc7e84e0fd542f85407",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "订阅官方[YouTube频道](https://www.youtube.com/c/dailydev)，观看包括月度开发者大会（含世界级技术演讲）、产品介绍视频、教程指南等丰富内容。第一时间获取版本发布、教育课程、福利活动及幕后花絮。"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## LinkedIn",
+      "source_content_hash": "8b8a6c56f551f969b9fe7fad720b81f8ed899d99a1a84833f2e1c12f7b8a6be5",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## LinkedIn"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "Connect with us on LinkedIn at [daily.dev](https://www.linkedin.com/company/dailydotdev) to stay in the loop with our latest updates, announcements, and educational content, as well as engage with our community.",
+      "source_content_hash": "ab055efc3e90c6abb4e5a8cf8137b64eb330b8ce855b7650723aad46a974c4d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在LinkedIn上关注[daily.dev](https://www.linkedin.com/company/dailydotdev)，了解最新公告、教育资讯并与社区成员互动交流。"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## TikTok",
+      "source_content_hash": "71e2f36bf7a39bdc317a2e7e70c7c1bd4ef848574a635f3aae10066c7d3566ac",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## TikTok"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Join us on TikTok [@daily.dev](https://www.tiktok.com/@dailydotdev) for fun and engaging content related to daily.dev, including coding tips, behind-the-scenes glimpses, updates, and giveaways.",
+      "source_content_hash": "3fa1a1ae0f7c0f2cde6d66ab6c4eb2d82cc06e8d1e0b9e0665359c6a35a65492",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在TikTok上关注[@daily.dev](https://www.tiktok.com/@dailydotdev)，观看编程技巧分享、幕后花絮、产品更新和福利活动等趣味内容。"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "## Instagram",
+      "source_content_hash": "92fd8d8b7d901a46643352eb802ede1c26fd1b6fdc76b119dd857e96fdd87669",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## Instagram"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "In case you're into short-form videos make sure you don't miss our [Instagram profile](https://www.instagram.com/dailydotdev)!",
+      "source_content_hash": "ba7df517094861807c7e3c8813bfe5eae8b6497bd872b6c28dfaba85c940c870",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您喜欢短视频内容，请务必关注我们的[Instagram主页](https://www.instagram.com/dailydotdev)！"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "## Meetup",
+      "source_content_hash": "13789ca1ec81c0d108cc079d2b6c4bdd32ca9ad3424532511d6d457d559e8f2f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## Meetup"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "Join our meetup group to stay informed about our monthly events featuring inspiring talks from expert developers, and updates on new releases, educational content, and giveaways. [Join here](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)",
+      "source_content_hash": "ce84e4ede02f9dffb9d584ac5272d179f017c92538f140f5b1cfeb756c5aba00",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "加入我们的Meetup小组，获取每月开发者活动的通知（含专家技术演讲），以及新版本发布、教育内容和福利活动信息。[立即加入](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "## Feedback",
+      "source_content_hash": "f41c558fab87698ff12a3a060acc389a1e92a656e03d5b899da4713bd92bdb09",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 意见反馈"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "Have feedback, questions, or feature requests? [Submit it here](https://daily.dev/feedback) and let us know how we can improve your daily.dev experience!",
+      "source_content_hash": "94a95814965f428bec76d4e4f4fac89ca21636dfb05490f3864ab9ea0e97711c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "有任何建议、疑问或功能需求？[点击提交](https://daily.dev/feedback)，帮助我们优化您的daily.dev使用体验！"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/community.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.386834+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d8d301b713ecdf9f7500b26c4df90fbabee63fd5d54aebf8a3507e99c791263d"
+  }
+}

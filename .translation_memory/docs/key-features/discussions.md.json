@@ -1,0 +1,612 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/discussions.md",
+  "source_file_content_hash": "7e169c840820fba1e108961129aa193a5898f63a0a2b5c85ca435445d1ad8189",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 4\ndescription: \"Engage in discussions on daily.dev to share insights, connect with other developers, and enhance your professional network.\"\n---",
+      "source_content_hash": "7cc308a4951fc577c79d3add7bf3bd211f6397c158f9ca8b74e5adbb9ddd89ef",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Discussions",
+      "source_content_hash": "ee4a06aeaa669ba584b9b834d39a821acbdc8cd036af0e8b6306928e48801adf",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 讨论功能"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What is a discussion?",
+      "source_content_hash": "c98541b5a69dfa659d55ea9e51e0ea6d2860167c7361dd515c46391ae1dfdc46",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是讨论？"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Discussions are a valuable way to engage with the professional developer community on daily.dev and share insights on various topics!",
+      "source_content_hash": "aa70ba55501d29a7ffd36ba0253268f851bdb0c10343b273b7ec164aa29d1014",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "讨论是与daily.dev专业开发者社区互动并分享各类话题见解的宝贵方式！"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic and contribute to the community's collective knowledge.",
+      "source_content_hash": "b63fe9577d75eef7e2a220a1a64da687405d697658d442e62a20352dd6908a9d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "作为开发者的专业社交网络，我们高度重视社区成员参与公开讨论的机会。讨论功能让您可以分享对文章或话题的思考、见解和经验，为社区集体知识库做出贡献。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Participating in discussions can benefit you in several ways:",
+      "source_content_hash": "1f4ed659da2c4f9cee93ee69311233b7e3ff7f222cfc8f351dc1aaad3a215cac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "参与讨论能为您带来多重收益："
+      }
+    },
+    {
+      "segment_id": "4269e691",
+      "source_content": "1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the post. You can gain additional insights, perspectives, and tips to enhance your understanding of the topic.\n\n2. Share your expertise: If you have expertise in a particular area, participating in discussions allows you to share your knowledge and contribute to the community. Your insights and experiences can provide valuable information to others and help foster meaningful discussions.\n3. Build your professional network: Engaging in discussions can help you connect with like-minded professionals in your industry. You can build relationships, expand your network, and establish your reputation as a knowledgeable and engaged community member.\n4. Enhance your profile: By actively participating in discussions, you can showcase your expertise and build your professional brand. Your comments and insights can be viewed by other community members, including potential employers or collaborators, which can help you establish yourself as a thought leader in your field.\n5. Stay up-to-date with industry trends: Discussions often revolve around current trends, technologies, and best practices. By participating in discussions, you can stay updated with the latest industry developments, learn from others' experiences, and stay ahead in your professional journey.",
+      "source_content_hash": "d1c0b9f6226927458b072de8eebc95bc343fcf44b808f63f6bed3a9922856d08",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 获取他人洞见：通过讨论可以向阅读过文章的资深开发者学习，获得补充观点、多维视角和实用技巧，深化对主题的理解。\n\n2. 分享专业经验：若您在某领域具备专长，参与讨论能展示您的知识储备。您的见解和实践经验将为他人提供有价值的信息，推动有意义的对话。\n\n3. 拓展职业人脉：积极参与讨论有助于连接行业内的志同道合者。您可以建立关系、扩展人脉圈，树立知识渊博的活跃社区成员形象。\n\n4. 提升个人形象：通过持续参与讨论，您能展示专业能力并打造职业品牌。其他社区成员（包括潜在雇主或合作伙伴）都能看到您的评论和见解，助您成为所在领域的意见领袖。\n\n5. 追踪行业趋势：讨论常围绕当前趋势、技术和最佳实践展开。参与其中可让您及时了解最新行业动态，借鉴他人经验，保持职业竞争力。"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "## How to participate in a discussion?",
+      "source_content_hash": "75bdcc8e4e821a508197caa706d2ba83af50dc3793cd52d06e9547da129c5d19",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何参与讨论？"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "Click on any post in the feed to see the post modal.",
+      "source_content_hash": "da40e6ae7cf311e9898193b873f59a373589bc7760e8a61eced27915a22f8b7a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击信息流中的任意文章即可打开文章弹窗。"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "Beneath the title, TLDR (Now powered by Open AI!), and post image, you can see all the comments on the post.",
+      "source_content_hash": "d01649ab26e1617523fc3d0d5b6a9ce17d4a89da26e4c473110fe21d37c0402d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在标题、AI摘要（现由OpenAI驱动！）和文章图片下方，您可以看到所有评论。"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "You can upvote, downvote, comment, bookmark, and copy the link.",
+      "source_content_hash": "bc71d16c7e8658422f177e317fd86e454f95fd60802a634cab0312dff4258a85",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以进行点赞、点踩、评论、收藏和复制链接操作。"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "You can also see the current number of upvotes and comments.",
+      "source_content_hash": "f64adac812d7a465e917a7ee1e8ca4a21f6e917c5ef5ab3d362a00799c9c2226",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "还能查看当前点赞数和评论数。"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "![Discussion example](https://github.com/user-attachments/assets/a4ce905a-bbaf-42f0-800b-50035386a161)",
+      "source_content_hash": "b12a1884f885019d132bdbb05266cfdd7893220c73820e4498e4f3ceb120e8ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![讨论示例](https://github.com/user-attachments/assets/a4ce905a-bbaf-42f0-800b-50035386a161)"
+      }
+    },
+    {
+      "segment_id": "a1b3d8cb",
+      "source_content": "## Add a comment",
+      "source_content_hash": "a7434c3fd1154e332af2cb3383080d5445361910296cbe4a86a1c157f897d0eb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 添加评论"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "There are two options to start/join a discussion:",
+      "source_content_hash": "5b03c4fa4f1c524688ff3b21674fedae92e67975b2f52257bf7f48d662cf64d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "有两种方式开启/加入讨论："
+      }
+    },
+    {
+      "segment_id": "5d66c9dc",
+      "source_content": "1. Click on the comment button in the post modal.\n2. Use the [Companion widget](/docs/key-features/the-companion).",
+      "source_content_hash": "b1433d5f41ec8e0d32efb08e0c39558cc845db109321c06f6eacb28b4dd6c729",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击文章弹窗中的评论按钮\n2. 使用[侧边栏小工具](/docs/key-features/the-companion)"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "The easiest way to start or join a discussion is to click on the comment icon at the middle-bottom of a post:",
+      "source_content_hash": "fbf4ba7102d927e2d0bacd028b7f47f7e292f293d835baaf6180bbc0230f0e62",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "最简便的方式是点击文章底部中央的评论图标："
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "Once you click on the comment button, you will see the comment modal.",
+      "source_content_hash": "24c5453fdc42f3764aac535bb7a5f1593ea7b008d48fe8061a77b2cea6569dee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击评论按钮后，将出现评论弹窗。"
+      }
+    },
+    {
+      "segment_id": "e2ae1ac7",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-2.jpg\" alt='Comment modal highlighting the comment textbox (5)' width=\"960\" height=\"540\" />",
+      "source_content_hash": "4ae1ed13dcdacb085c1bc0282adad1e753e9091901b5a4acbbefdc95a218e0d5",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_e2ae1ac7"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "You can then leave a comment [using markdown](#writing-comments-in-markdown) in the comment box (5).",
+      "source_content_hash": "a533c1f2d40b6fd9f89b13927efce5b7463df6541994bf7150e7b0a7eabfbe8e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以在评论框(5)中[使用Markdown语法](#writing-comments-in-markdown)留言。"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "### Writing comments in markdown",
+      "source_content_hash": "70068eb4084abeb76b68425f16bb1b5fddcda72583b3719331f05b45e4b18711",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 使用Markdown撰写评论"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "You can [use markdown](https://www.markdownguide.org/cheat-sheet/) when commenting on posts 🎉",
+      "source_content_hash": "42d89b26343bc5fa12873f9566f5e02b9b78edbace35d42bba69a3e5fe51cecf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "评论文章时您可以[使用Markdown语法](https://www.markdownguide.org/cheat-sheet/) 🎉"
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "Including:",
+      "source_content_hash": "983078e3bfc7d22b9183428b4706dd10b313880f0cc01421aed76c313a3d3273",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "包括："
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "* Headings (using `#` for a h1 through to `######` for a h6 ) \n* Text formatting like <b>`**bold**`</b> and <i>`*Italic*`</i>\n* Lists (using `- item`) \n* Links (using `[link text](https://YourFullURL)`)\n* Images and animated GIFs (using `![alt text](https://fullImageURL)`)\n* `inline code` (using <code>\\`backticks around your code\\`</code>)\n* Blockquotes (using `> your quote`)   \n* Code snippets (using <code>\\`\\`\\` triple backticks on the lines before and after your snippet \\`\\`\\`</code>)\n* and more, check out [the markdown guide](https://www.markdownguide.org/cheat-sheet/) for more ways you can use markdown (not all features are supported).",
+      "source_content_hash": "5c985cb6525bf84e9b9be8401aecdc1d33548c807a55b2e799c82cb840a3c981",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* 标题（使用`#`表示h1到`######`表示h6）\n* 文本格式如<b>`**加粗**`</b>和<i>`*斜体*`</i>\n* 列表（使用`- 项目`）\n* 链接（使用`[链接文字](https://完整URL)`)\n* 图片和GIF动图（使用`![替代文本](https://完整图片URL)`)\n* `行内代码`（用<code>\\`反引号包裹代码\\`</code>）\n* 引用块（使用`> 引用内容`）\n* 代码片段（用<code>\\`\\`\\`在代码段前后各加三个反引号\\`\\`\\`</code>）\n* 更多功能请参考[Markdown指南](https://www.markdownguide.org/cheat-sheet/)（并非所有特性都受支持）"
+      }
+    },
+    {
+      "segment_id": "3a4225d7",
+      "source_content": ":::info\nWe only support pure markdown in comments, HTML will be converted to plain text.\n:::",
+      "source_content_hash": "d8eccec3ae5d6fd35f52f0c8ef021914ced533981cbdd4e90875e9d22153185b",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n我们仅支持纯Markdown格式的评论，HTML将被转换为纯文本。\n:::"
+      }
+    },
+    {
+      "segment_id": "a5a4323e",
+      "source_content": "## Comment sorting (Enjoy comments periodically)",
+      "source_content_hash": "0004b034100e3687b87d0d9069cae2b3c5555995508d55e171226da48b6a5111",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 评论排序（定期享受评论）"
+      }
+    },
+    {
+      "segment_id": "06e24cc0",
+      "source_content": "![Sorting](https://res.cloudinary.com/daily-now/image/upload/s--iBD2ASDp--/f_auto/v1728388274/posts/GmJxoDsta)",
+      "source_content_hash": "63bf585384c5539d057329c4c3d8f987e0d406dc9e3ef7a6e703c7c26644f458",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![排序](https://res.cloudinary.com/daily-now/image/upload/s--iBD2ASDp--/f_auto/v1728388274/posts/GmJxoDsta)"
+      }
+    },
+    {
+      "segment_id": "3ef18741",
+      "source_content": "### See latest and oldest comments easily.",
+      "source_content_hash": "7482da065cf05513f8cd8dff4619e8c934b2eaf5e67e24cd129cadbad0d7ad2e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 轻松查看最新和最旧评论"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "Now it becomes easier to see which comment is the oldest and which are the newest to check the hotness of the discussion topic.",
+      "source_content_hash": "20b7fbb573ad1f67da015def31327141f6fcc8715e9f8b0d137f0fb61b31ef16",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "现在可以更轻松地查看哪些评论是最旧的，哪些是最新的，以了解讨论话题的热度。"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "daily.dev has introduced a new feature of sorting comments so that people can easily read any news easily.",
+      "source_content_hash": "0b94b4eb506cf4f0047badf46db3acc4ac840f26fad9d771fb88c5090cacf1c7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev 引入了评论排序新功能，让人们可以更轻松地阅读任何新闻。"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "As going into the comment section and sorting comments as mentioned below.",
+      "source_content_hash": "38f87123a273d03c23f9b0a78c9aeaefa9de72a7cc5897f010c9ed736b68c230",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "进入评论区并按以下方式排序评论。"
+      }
+    },
+    {
+      "segment_id": "93028a4e",
+      "source_content": "#### Sort by going to following button-",
+      "source_content_hash": "06cfc8147acb8d98b3f62bfe17c0ca5d7c8c6d8ccf4ccf54e315d381347ea13c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "#### 通过以下按钮进行排序-"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "![Sorting-comments](https://res.cloudinary.com/daily-now/image/upload/s--V2cVQiPx--/f_auto/v1728387391/ugc/content_6d1cce98-bfa4-463a-bd0a-738581fb534c)",
+      "source_content_hash": "9a4b40c4c6d1bb2dbb2dfe009a15997077d0d34f729c70e787e62b934b6e138f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![评论排序](https://res.cloudinary.com/daily-now/image/upload/s--V2cVQiPx--/f_auto/v1728387391/ugc/content_6d1cce98-bfa4-463a-bd0a-738581fb534c)"
+      }
+    },
+    {
+      "segment_id": "58ed925f",
+      "source_content": "### See the newest or latest comment-",
+      "source_content_hash": "21180b1ad3f722fb7e679a5579dcf565c168d304f421a54cf44903be6d9c3c3a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 查看最新评论-"
+      }
+    },
+    {
+      "segment_id": "7736989b",
+      "source_content": "![Newest-Comment-after-sorting](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123621/Screenshot_2024-10-28_192132_xdeo7y.png)",
+      "source_content_hash": "f1d1b8a15ebf4e24dc1e76fb59488dcdce03b3cb022b7fb2fb85cb890eba80e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![排序后的最新评论](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123621/Screenshot_2024-10-28_192132_xdeo7y.png)"
+      }
+    },
+    {
+      "segment_id": "8a9b6c26",
+      "source_content": "### For oldest comment just click on the button again:",
+      "source_content_hash": "03e863f8633d0c6e30f91f67a00f7284ecc24da561d5f1ad2ab6c2548cdb83a6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 查看最旧评论只需再次点击按钮："
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "![Oldest-Comment](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123622/Screenshot_2024-10-28_192121_jgewkq.png)",
+      "source_content_hash": "47759033b678327993cdb9735eaa5b7f5351fed3d9353551de2fa9a1df3dd664",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![最旧评论](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123622/Screenshot_2024-10-28_192121_jgewkq.png)"
+      }
+    },
+    {
+      "segment_id": "759d12dd",
+      "source_content": "### @Mention people!",
+      "source_content_hash": "36f87f51e7969a9f22a752d438cf4805156df119cb36a1b5a0b2e8cf51ce973a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### @提及他人！"
+      }
+    },
+    {
+      "segment_id": "74dd7937",
+      "source_content": "You can @mention people in the comments! Simply type the <kbd>@</kbd> character and start writing the first few characters of their name.",
+      "source_content_hash": "992d9bff7a42c2c7c5aa333353768ddba930f8eeb44916177d7e926635eb2231",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "你可以在评论中@提及他人！只需输入 <kbd>@</kbd> 字符并开始输入对方名字的前几个字母。"
+      }
+    },
+    {
+      "segment_id": "3ca4b8b0",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-3.jpg\" alt='Comment modal highlighting the @mention drop-down (6)' width=\"960\" height=\"540\" />",
+      "source_content_hash": "bbd953e0700cc4887b2fecdd12705aa79d1456bb7c9a8061883a608225c3ebab",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_3ca4b8b0"
+      }
+    },
+    {
+      "segment_id": "51867d16",
+      "source_content": "A list of matches will appear based on what you write, select the person you want to mention (6) and it will auto-complete their name for you.",
+      "source_content_hash": "a38cff0aa2bb50bf2ef0b01bc5a9b114f2a6453ddbfba9f9b766e2f3d4aadecb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "系统会根据你输入的内容显示匹配列表，选择你想提及的人（6），系统会自动补全他们的名字。"
+      }
+    },
+    {
+      "segment_id": "785750ac",
+      "source_content": "Once you post the comment, they will be notified that you mentioned them (if they have notifications switched on)",
+      "source_content_hash": "eef385df2c1619aa62a7cc4f31831e0f6fa74ba8830027b782be6446cffbc0aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "一旦你发布评论，被提及的人会收到通知（如果他们开启了通知功能）。"
+      }
+    },
+    {
+      "segment_id": "b10963d7",
+      "source_content": "### Preview your comment",
+      "source_content_hash": "4599d9b9081e5221af74b1c43d6b40f822ed219ab62eeadda06ff44ee418346b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 预览你的评论"
+      }
+    },
+    {
+      "segment_id": "2822251a",
+      "source_content": "When writing a comment, you can click on the \"Preview\" button at the top of the modal to check your comment looks great before posting!",
+      "source_content_hash": "74cb8f45e63b78bc545b8f0d283b2b6913d697c5b148ebc25e779518b59e6aa1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在撰写评论时，你可以点击模态窗口顶部的“预览”按钮，在发布前检查评论的显示效果！"
+      }
+    },
+    {
+      "segment_id": "99d0dd9b",
+      "source_content": "## Additional features",
+      "source_content_hash": "700375fbe34286653bb96a57f7bc8061cb22c5a0fef97fb57c3d9b48e979395e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 附加功能"
+      }
+    },
+    {
+      "segment_id": "d79a4831",
+      "source_content": "We built some great and informative quality-of-life items into the post-modal, such as:",
+      "source_content_hash": "5d4631dcbed931f940e1f5e7a2753d31f4955f362c5931dc8811928f5b70faf5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们在文章模态窗口中内置了一些实用且信息丰富的功能，例如："
+      }
+    },
+    {
+      "segment_id": "54bafb10",
+      "source_content": "### post meta data",
+      "source_content_hash": "86a8a74d1b7299a04f6b065b497e2baefe00878bca530efa48a6eac81045d1d4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 文章元数据"
+      }
+    },
+    {
+      "segment_id": "4be28ed1",
+      "source_content": "All the details about this post, including the title (a), TLDR (b), tags (c), published date (d), reading time (e) and cover image (f).",
+      "source_content_hash": "e4e99429f0c3f021319e69c599288768f9f36090e15c20fe40fac79774cf4bd9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "关于这篇文章的所有详细信息，包括标题（a）、TLDR（b）、标签（c）、发布日期（d）、阅读时间（e）和封面图片（f）。"
+      }
+    },
+    {
+      "segment_id": "8850c5e2",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-4.jpg\" alt='post modal showing the main section at the top containing the title (a), with the TLDR below (b), the posts tags below the TLDR (c), the published date (d) and reading time (e) below that and finally the post image at the bottom (f)' width=\"960\" height=\"960\" />",
+      "source_content_hash": "f6d6eba213c4eca42909f5d450caa09b3e085a6e3d380732f900b6953de56623",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_8850c5e2"
+      }
+    },
+    {
+      "segment_id": "d1f76d04",
+      "source_content": "### Table of contents",
+      "source_content_hash": "6a0f4ede23d0fc6d6498e8884c048a96c0ce6314752acbe023471407ded53625",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 目录"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "daily.dev uses the headings in each post to build an automatic table of contents (7).",
+      "source_content_hash": "609bed83e897ea886ca3d5700a9713a43518c93ea710d4f018fcde874f10cecc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev 使用每篇文章的标题自动生成目录（7）。"
+      }
+    },
+    {
+      "segment_id": "e9313fef",
+      "source_content": "A great way to get a snapshot of the post and understand what it's about, in addition to the TLDR.",
+      "source_content_hash": "698cfecceab531c9f2efaa639f864d2f36da56e709dc1f8ec90e3fb2ac144fac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "这是获取文章概览并理解其内容的绝佳方式，此外还有TLDR。"
+      }
+    },
+    {
+      "segment_id": "ebbb7828",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-5.jpg\" alt='The right sidebar / aside on the post modal highlighting the table on contents (7), the reading recommendations (8) and posts with interesting discussions (9)' width=\"960\" height=\"1600\" />",
+      "source_content_hash": "93481df0ac8b99aee08c00e16245f46f3a938aa70ad8a09d5a9768b81e1c1a1e",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_ebbb7828"
+      }
+    },
+    {
+      "segment_id": "37fca32e",
+      "source_content": "### Suggested similar posts",
+      "source_content_hash": "df4f90b864053df099256352c7425d8a90cfd95dd08d31395d2ce5b6e7b9aed8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 推荐的相似文章"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "Based on the post's data, daily.dev will also recommend further reading recommendations (8).",
+      "source_content_hash": "d5378588ba0800922a34cfa3128172058af0bf263317b7f9632379285bb01591",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "根据文章数据，daily.dev 还会推荐进一步的阅读建议（8）。"
+      }
+    },
+    {
+      "segment_id": "b9b8694c",
+      "source_content": "### Best discussions",
+      "source_content_hash": "7ca23bdff8eb994b555f0d686eea48ba3a384ab6292715d6a307ae0efe945a9e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 最佳讨论"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "Additionally, we feature some of the most interesting discussions (9) currently available on the platform.",
+      "source_content_hash": "75b4183bddabd779bcf7c3aba5c30b507add6073067b8d891323c189012f59f5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "此外，我们还精选了平台上当前最有趣的讨论（9）。"
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "That way, you can engage with the community on the hottest topics without going back to the feed.",
+      "source_content_hash": "cd76710b286ab74e56b2fb6d2e11eb4b94a0fb1201dd322750ca66a9bada28e6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "这样，你无需返回信息流即可参与社区中最热门话题的讨论。"
+      }
+    },
+    {
+      "segment_id": "c424756f",
+      "source_content": ":::tip\n* Clicking on a particular row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the post on that specific heading. \n* Clicking on the number of upvotes on a comment will display a list of the users who upvoted the post or comment (10).\n:::",
+      "source_content_hash": "bc1dcaf877d67d685cbcfe8633717ef3feb723d16049e9aad602ab324f254772",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n* 点击[目录](https://app.daily.dev/posts/dfK6hCNTe)中的特定行将打开该标题对应的文章部分。\n* 点击评论的点赞数将显示点赞该帖子或评论的用户列表（10）。\n:::"
+      }
+    },
+    {
+      "segment_id": "2974c396",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-6.jpg\" alt='top left shows the number of upvotes button (4) and below and to the right the list of users who upvoted are shown (10)' width=\"960\" height=\"1600\" />",
+      "source_content_hash": "ceb958f04fd65060ed9d8bf3c9cb9b288ecbebf52e95f135f5b60a29257cbb85",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_2974c396"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/discussions.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.391578+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "7e169c840820fba1e108961129aa193a5898f63a0a2b5c85ca435445d1ad8189"
+  }
+}

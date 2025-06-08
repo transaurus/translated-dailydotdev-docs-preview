@@ -1,0 +1,182 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/upvotes.md",
+  "source_file_content_hash": "345fc747420aac73e2df9626adf1f0ec071f695ba66f4666ab7656f4f387cc2d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Learn about the Upvote and Downvote system on daily.dev, designed to enhance content quality and optimize your experience on the platform.\"\n---",
+      "source_content_hash": "13df9af152d25b536701598772739e84664b33e8539db32111230887897c624a",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Upvotes & Downvotes",
+      "source_content_hash": "1408064d6d2ad603c5bf99f2b13a9bdc0ede67a3ec0de57cb80d983bcf33f0a7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 赞同与反对"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Upvotes and downvotes are essential tools in community-driven products, allowing users to express approval or disapproval for a post. This voting system promotes quality content, pushing the best to the forefront, while helping daily.dev refine its recommendation engine to serve users better.",
+      "source_content_hash": "c7907da1f7c3b2b4f14b9f3f76e1fc622954746eea061b2b1bba2cb55ff11998",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在社区驱动的产品中，赞同和反对是用户对帖子表达认可与否的重要工具。该投票机制能提升内容质量，将优质内容推向前列，同时帮助daily.dev优化推荐算法以更好地服务用户。"
+      }
+    },
+    {
+      "segment_id": "6cae1da3",
+      "source_content": ":::info\nKeep in mind that you can only select either upvote or downvote for a post—not both. This ensures the integrity and accuracy of our voting system.\n:::",
+      "source_content_hash": "d88327c983f2ac753f7ce7cf0ae045659382e3a793c4d1a2994d608ee991155c",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n请注意，每个帖子只能选择赞同或反对其中一种操作——不可同时进行。这确保了投票系统的完整性和准确性。\n:::"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Upvoting in daily.dev 👍",
+      "source_content_hash": "2bbb55a9fac9174135b241cc4924b56d5437925d898d9da55010be5d48366777",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 在daily.dev中点赞 👍"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "On daily.dev, upvotes are a fantastic way to acknowledge the quality of posts, show support, and express appreciation for the work of others. Here’s why upvoting is highly encouraged:",
+      "source_content_hash": "d6c3402356b3756567294283bd253d12b21c3b2f7e2b42e270dc6c38d29fd48e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev上，点赞是认可帖子质量、表示支持及赞赏他人工作的绝佳方式。以下是鼓励点赞的原因："
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "1. It helps the feed algorithm understand community-approved content, enabling us to show the most interesting posts to our community.\n2. It gives recognition to content creators for their hard work.\n3. It signals to other community members that a post is engaging, saving them time in finding valuable content.",
+      "source_content_hash": "06034d482b7293d8964ab211fba44954a335fa6bae1c515b176d86621eb4a475",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 它帮助feed算法理解社区认可的内容，使我们能向社区展示最有趣的帖子。\n2. 它让内容创作者的努力得到认可。\n3. 它向其他社区成员传递该帖子值得关注的信号，帮助他们高效发现有价值的内容。"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "## Downvoting in daily.dev 👎",
+      "source_content_hash": "8f2df433211661fe128d14ddcfabf5151e6ed201d040fa9a079693215098e378",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 在daily.dev中点踩 👎"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "Downvotes indicate that you didn’t find a post helpful or interesting. Here’s why downvoting is important:",
+      "source_content_hash": "c5c5f2cda98e8d69b4b70ccf4ac58586364e25df37dd362f3c8fe5ba1619148a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点踩表示你认为某个帖子无益或无趣。以下是点踩的重要性："
+      }
+    },
+    {
+      "segment_id": "0cc488ed",
+      "source_content": "1. It provides feedback that enhances our recommendation engine, improving your experience on daily.dev.\n2. Although downvote counts are private and not visible to others, each downvote impacts the post’s ranking in the feed.\n3. After downvoting, you can take follow-up actions, such as [blocking the source or tags](../setting-up-your-feed/blocking-tags-sources.md) associated with the post or reporting it if you find it inappropriate or irrelevant.",
+      "source_content_hash": "49b969c7b89c063e5811ddfa197b8c4f02a9053ca4c0806ddf45da9c7bccb8f6",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 它提供的反馈能优化我们的推荐算法，提升你在daily.dev的体验。\n2. 虽然点踩计数对他人不可见，但每次点踩都会影响帖子在feed中的排序。\n3. 点踩后，你可以采取后续操作，例如[屏蔽相关来源或标签](../setting-up-your-feed/blocking-tags-sources.md)，或举报你认为不当或无关的内容。"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "## How to Upvote",
+      "source_content_hash": "afcce8f96a0d76069177cc6b422a956e18327387c7e188db0715ceb377baaad0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何点赞"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "To upvote a post in daily.dev, click the bottom-left button (1) on the post card. Your upvote will contribute to the community’s feedback, showing appreciation for quality content.",
+      "source_content_hash": "d85af6eb688679114fd9e7887602f0460184e1255a6d9b6dea685e00be8eae2e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev中点赞帖子，请点击帖子卡片左下角的按钮(1)。你的点赞将作为社区反馈的一部分，表达对优质内容的赞赏。"
+      }
+    },
+    {
+      "segment_id": "a1b3d8cb",
+      "source_content": "## How to Downvote",
+      "source_content_hash": "20f2defab603a8dcaf060afc949d2c0259828faca6d3eae2ec476fa4c233b967",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何点踩"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "To downvote a post, you can do so either on the post page itself or in the feed. Click on the more options menu for each card, then select \"downvote.\" Note that once you downvote a post, you won’t be able to upvote it.",
+      "source_content_hash": "5748592b19183599ed1136b81d6049a257bca7dcf706bf44e334760e5fe80158",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点踩操作可在帖子页面或feed中进行。点击每张卡片的更多选项菜单，选择\"点踩\"。请注意，点踩后你将无法再对该帖子点赞。"
+      }
+    },
+    {
+      "segment_id": "720d606f",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png\" alt='Example of upvote and downvote options on a post card in daily.dev' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "bf7e767a6cc14827c439df99a7930ad89e2cde9e3ffa88e63d28dcc74b626989",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_720d606f"
+      }
+    },
+    {
+      "segment_id": "782c902a",
+      "source_content": "## How to share a link",
+      "source_content_hash": "bb588b7e45f37d2a126f91a98500ce59b80d1a183a83a5edf81d20188e337f14",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何分享链接"
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "Just click on the bottom on the left, with the 🔗 icon, and you will have the link in your clipboard!",
+      "source_content_hash": "ec2df1d40d8ba4f2f39561200b082a763180d0f6aea80723699d8067d11cad84",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "只需点击底部左侧带有🔗图标的按钮，链接就会自动复制到剪贴板！"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/upvotes.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.385509+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "345fc747420aac73e2df9626adf1f0ec071f695ba66f4666ab7656f4f387cc2d"
+  }
+}

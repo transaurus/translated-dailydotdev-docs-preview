@@ -1,0 +1,232 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/intro.md",
+  "source_file_content_hash": "b1c7e5e4e81cb6e2e1b878d7f32335bb99413bd768baabe1f20eba74bb6c1f2d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\nsidebar_label: Introduction\ndescription: \"daily.dev brings the latest tech news and articles to developers, curated from over 1300 sources with a customizable feed to stay ahead in tech.\"\n---",
+      "source_content_hash": "e48dd6d5ecec33cbfc78a2ba6f83290daf96ebcba0018a33df56ab1439a9ff57",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "# Introduction",
+      "source_content_hash": "1cfabb9fbf64272210f460dda2e83849fc87153cd78f2a983507fc8c332e19fd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 简介"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "daily.dev is a professional network for developers that provides the latest tech news and articles all in one place.",
+      "source_content_hash": "7386a0ac66818752fd59eebced2d95f17d5f4c370505bcba346ecbe4b08e9287",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev 是一个面向开发者的专业网络平台，汇聚最新技术资讯与文章。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.",
+      "source_content_hash": "d7b0ef83c1717b37e23ebe986ee3a6e137dfc8b8b3b695ac212deb45b416b624",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们从1300多个技术新闻源精选内容，通过标签系统为您定制专属信息流。平台能高效筛选优质内容，助您保持技术前沿，在开发者领域持续领先。"
+      }
+    },
+    {
+      "segment_id": "5da3670c",
+      "source_content": "<iframe width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/igZCEr3HwCg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Introduction video for daily.dev\"></iframe>",
+      "source_content_hash": "eba355d6e86853f98f81a8a168b5a63e853caaa7d43edfcda29941cd4e1c6c20",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_5da3670c"
+      }
+    },
+    {
+      "segment_id": "e14c9928",
+      "source_content": "## Quick start guide",
+      "source_content_hash": "83dc20f5512cdd15163251007aad0fa940caa650e1a1ac0ae95230a9e038a550",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 快速入门指南"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "We want you to get the most out of daily.dev, so we've put together this quick start guide to help you make the most of our platform and our community.",
+      "source_content_hash": "31e9876d646e643ffacb18ccd89db684e6d50a5e8142307f7ae932a6fd370aec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "为了让您充分发挥daily.dev的价值，我们准备了这份快速指南，助您高效使用平台功能并融入开发者社区。"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "### Step 1: Install 🚀",
+      "source_content_hash": "4b717d1cdc583125cad07579409279414336751b427811e476548b1a9a35102b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 第一步：安装 🚀"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md).",
+      "source_content_hash": "7f8db674f86093193938597c5b36f01fa011178d59ddbb8e7acfc3e4de10b906",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可通过[浏览器扩展](/getting-started/browser-extension-installation.md)或[渐进式网页应用(PWA)](/getting-started/pwa.md)使用daily.dev。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily).",
+      "source_content_hash": "81b2b6ef7ad6a617959f68df22e0c91a90e84dc8368338768931e6695336e014",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "亦可在Google Play商店下载[安卓版应用](https://play.google.com/store/apps/details?id=dev.daily)。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!",
+      "source_content_hash": "9487b31a4eaee8305975f4a739923e10549b83918e3926a3da2b058ede97eeb7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "推荐使用浏览器扩展——它会将新标签页设为daily.dev，帮助培养阅读习惯。当然，需要专注时您随时可以暂停新标签页功能！"
+      }
+    },
+    {
+      "segment_id": "fa430ad4",
+      "source_content": "### Step 2: Set up your feed 🎯",
+      "source_content_hash": "bdfe2405fb1636d77e04ea8ff7cd66905d08547a60025fdfd19ce53173f2134c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 第二步：配置信息流 🎯"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "Once you've installed the extension or accessed the web app, the next step is to [create your personal feed](/setting-up-your-feed/filtering-content-feed.md). This allows you to customize daily.dev to your preferences and interests, providing you with the most relevant tech and developer news.",
+      "source_content_hash": "b359dced23a8bc615e888abb2d4098ee9e1053fabba1509d987c1b2e01d39c36",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "安装扩展或访问网页应用后，请立即[创建个人定制信息流](/setting-up-your-feed/filtering-content-feed.md)。这将根据您的偏好推送最相关的技术资讯。"
+      }
+    },
+    {
+      "segment_id": "48847fd4",
+      "source_content": "### Step 3: Engage with other developers 👏",
+      "source_content_hash": "3792f0ce2b81012586af5a5b1c4db676f6e831ea63ca5472ed75c486810518fc",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 第三步：开发者互动 👏"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "Check out some of our [key features](/key-features/feeds.md) and start engaging with other developers on our platform to help grow your professional network and make new connections.",
+      "source_content_hash": "7abad1a2ece0a06a21d70f9209c7a2024b0d7d162f3353903ec2cc79693cfbc9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "探索我们的[核心功能](/key-features/feeds.md)，开始与平台开发者互动，拓展您的专业人脉网络。"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "### Step 4: Build your presence 🦸",
+      "source_content_hash": "687d662b60c3ca2b6d97667f95911c0ed6920f2e5997a8dbe59c37b75eb7a51d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 第四步：建立个人形象 🦸"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "On daily.dev, you can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!",
+      "source_content_hash": "23c053de9fcf85814d149558300a7a6737a3cb72f3b3b60998edd87b00011905",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev上您可以[创建个人资料](/your-profile/activity.md)。拥有资料后即可评论帖子、点赞、收藏有用内容，还能通过DevCard展示阅读轨迹等！"
+      }
+    },
+    {
+      "segment_id": "62a6890b",
+      "source_content": "### Step 5: Customize the look and feel 🌈",
+      "source_content_hash": "f3af78489b9a67b73c4d46d91da58c596c085d7bdda96f9af8e62ec437a079d9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 第五步：界面定制 🌈"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.",
+      "source_content_hash": "b2905df73874f9bef311e197b4df1fff7c5ce14fdbb5c2a345be8c4d25eba440",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "按您喜好[自定义](/customize-your-feed/layout.md)主题、布局、卡片密度等参数，打造个性化体验。"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md).",
+      "source_content_hash": "7f8db674f86093193938597c5b36f01fa011178d59ddbb8e7acfc3e4de10b906",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可通过[浏览器扩展](/getting-started/browser-extension-installation.md)或[渐进式网页应用(PWA)](/getting-started/pwa.md)使用daily.dev。"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)",
+      "source_content_hash": "0e558f0cae8b9ea6787ad84242adffb0adfdd62b0fbb34f20b1f87dac5b7ebe6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "亦可在Google Play商店下载[安卓版应用](https://play.google.com/store/apps/details?id=dev.daily)"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!",
+      "source_content_hash": "9487b31a4eaee8305975f4a739923e10549b83918e3926a3da2b058ede97eeb7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "推荐使用浏览器扩展——它会将新标签页设为daily.dev，帮助培养阅读习惯。需要专注时您随时可以暂停该功能！"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/intro.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.389622+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "b1c7e5e4e81cb6e2e1b878d7f32335bb99413bd768baabe1f20eba74bb6c1f2d"
+  }
+}

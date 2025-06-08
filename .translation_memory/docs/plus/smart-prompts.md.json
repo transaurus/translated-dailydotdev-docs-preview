@@ -1,0 +1,282 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/smart-prompts.md",
+  "source_file_content_hash": "7c0ae6e5d9ce63793c2f3546c6df9d47862e44fa6021eca93c79b048b81aafa4",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Smart Prompts on daily.dev let you chat with posts using AI. Summarize, challenge, compare, or customize insights instantly. Upgrade to Plus for unlimited access and a more interactive reading experience.\"\n---",
+      "source_content_hash": "87d7cbd1b3a20d6cb75b2152b6a2c0a0d4d2573a2b0a388e667189668d23d7b5",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Smart Prompts",
+      "source_content_hash": "d71bf3efbf9905eaa99e463d30e0874f09aedf2c6090b26183e1ab578dfac9f2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 智能提示"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![Smart Prompts cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315025/docs/IBaUq4yee.webp)",
+      "source_content_hash": "af47de99a06b3df68b3b22c5c894b52c431e7d074210cd8bac79fef8d740bbec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![智能提示封面图](https://daily-now-res.cloudinary.com/image/upload/v1740315025/docs/IBaUq4yee.webp)"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What Are Smart Prompts?",
+      "source_content_hash": "010c0b0a7e9c7346f816ce37908413cdcc5dc8ba0a2fb51cd5b03054a8285294",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是智能提示？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "**Smart Prompts** let you interact with posts using AI to extract insights, challenge ideas, and break down complex topics. Whether you need a **summary, practical steps, a comparison**, or want to **run your own custom prompt**, Smart Prompts help you **consume content more efficiently**.",
+      "source_content_hash": "7b7342e8c1f19b0adca1906c371866cfbc18ebb11ba99fc1cc167a2e51151bb9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**智能提示**允许您通过AI与帖子互动，提取见解、质疑观点并解析复杂主题。无论是需要**摘要、实操步骤、对比分析**，还是想**运行自定义提示**，智能提示都能帮助您**更高效地消化内容**。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Why Use Smart Prompts?",
+      "source_content_hash": "d6bf7840435bd2323df63a628e9a121fe76f016f548d2ee9756f386b045dab45",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为何使用智能提示？"
+      }
+    },
+    {
+      "segment_id": "4ddf6ae7",
+      "source_content": "- **Summarize faster** – Get instant key takeaways without skimming.  \n- **Go deeper** – Challenge ideas, compare alternatives, or get actionable steps.  \n- **Customize interactions** – Ask AI specific questions tailored to your needs.",
+      "source_content_hash": "099dbfdb823d08b555e1e2d7c0737753ac56a357ca9cc2dbee6a985f73b6f1b4",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **快速总结** – 即时获取核心要点，无需略读  \n- **深度挖掘** – 质疑论点、对比方案或获取可操作步骤  \n- **定制交互** – 根据需求向AI提出特定问题"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## Key Features",
+      "source_content_hash": "9214cf33ff90e03f0531d7f7aa0acc0dc8c37a382092e325d7e26659930e0c52",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心功能"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "### Pre-Filled Prompts",
+      "source_content_hash": "0cc4177b9f752b7e0a2b25fd429fab0dab40a7a2352be339d633af2cb181bde4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 预设提示"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "Smart Prompts offer **ready-made AI interactions** to help you engage with content effectively. Just hover over a prompt to see what it does, then click to run it.",
+      "source_content_hash": "7c381b46ce2625004b713a247a690554c3a484dc872d94e40faaf33b7ba2bbda",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "智能提示提供**预制AI交互模板**帮助高效处理内容。悬停查看提示功能说明，点击即可运行。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "Available prompts include:",
+      "source_content_hash": "6e4164943d679467782dde523c38eab28514e2d3c2575be6905194f54176fd45",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "可用提示包括："
+      }
+    },
+    {
+      "segment_id": "0cc488ed",
+      "source_content": "- **Simplify It** – Break down complex ideas into simple terms.  \n- **Remove Fluff** – Get a concise version of the post.  \n- **Challenge This** – Ask AI to critique the post’s argument.  \n- **Practical Examples** – See real-world applications of the content.  \n- **Actionable Steps** – Turn insights into steps you can take.  \n- **Skills Needed** – Identify the skills relevant to the topic.  \n- **Compare Alternatives** – See how the topic stacks up against similar concepts.  \n- ⚡️ **Run Your Own Prompt** – Type your own custom AI query.",
+      "source_content_hash": "0856d27981c446a20de3cf2c54efb0347d7e454e08011e5685e7bf5db19ce173",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **简化表述** – 将复杂概念转化为浅显语言  \n- **去除冗余** – 获取文章精简版  \n- **质疑观点** – 要求AI批判性分析文章论点  \n- **实例演示** – 查看内容在实际场景中的应用  \n- **行动步骤** – 将见解转化为可执行方案  \n- **所需技能** – 识别主题相关技能  \n- **方案对比** – 评估与其他概念的优劣  \n- ⚡️ **自定义提示** – 输入专属AI指令"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "![snippet](https://daily-now-res.cloudinary.com/image/upload/v1740315075/docs/content_e70d7a0b-fedc-491e-9aa1-91763f8077c6.webp)",
+      "source_content_hash": "a2ec8500374a607f8bc2ca720dbda33f6fabea8fc66a48f17b0dad05ed2877c0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![功能片段](https://daily-now-res.cloudinary.com/image/upload/v1740315075/docs/content_e70d7a0b-fedc-491e-9aa1-91763f8077c6.webp)"
+      }
+    },
+    {
+      "segment_id": "3b7478ea",
+      "source_content": "### Custom Prompts",
+      "source_content_hash": "ec67f93ebeffcdc3e5bba3d8207cbc34568a263b7b3812f60498957e1ec7b156",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 自定义提示"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "For more control, create **custom AI prompts** tailored to your needs.  \nExamples:",
+      "source_content_hash": "a1c445a65f01cf012bc8b1b88d705e169a051659dbbd01da3de08d3723c09439",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过**定制AI提示**获得更高控制权。  \n示例："
+      }
+    },
+    {
+      "segment_id": "e7bc8c38",
+      "source_content": "- *“Explain this to me like I’m five.”*  \n- *“Describe this from a product manager’s perspective.”*",
+      "source_content_hash": "31c349c3869cde99c5989a864c124dee3d5f2617e8e91c1332cbb2d3c5339d83",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- *\"用五岁小孩能懂的话解释这个\"*  \n- *\"从产品经理角度描述这个内容\"*"
+      }
+    },
+    {
+      "segment_id": "06c0f776",
+      "source_content": "### AI-Powered Chat With Posts",
+      "source_content_hash": "d7a73a5bea06058b75bc463d32c5afc87d05443c578cf2928fe07a246f4b306d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 基于AI的帖子对话"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "Beyond just a **TL;DR summary**, Smart Prompts now allow you to **chat with posts using AI** and interact with content in a conversational way. Ask **follow-up questions**, challenge the material, or request a breakdown in a way that suits you best.",
+      "source_content_hash": "b4d6d7624b3cc178a27a66c41709786e995e7ee95d937690adc170036a9845c3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "超越**简单摘要**，智能提示现支持**通过AI与帖子对话**，以聊天形式互动。提出**后续问题**、质疑内容或要求按需解析。"
+      }
+    },
+    {
+      "segment_id": "8bddee80",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用方式"
+      }
+    },
+    {
+      "segment_id": "cef3cb03",
+      "source_content": "1. Open any post.  \n2. Find the **Smart Prompts** below the content.  \n3. Hover over a prompt to see what it does.  \n4. Click to run it.  \n5. For **custom prompts**, click **\"+\"** and type your request.",
+      "source_content_hash": "c7fcb0e2ef0fed518f3f22782dcb0246c3cd875d4d8db7bab80115fbfcb2f3e3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 打开任意帖子  \n2. 在内容下方找到**智能提示**  \n3. 悬停查看提示说明  \n4. 点击运行  \n5. 使用**自定义提示**时点击**\"+\"**并输入需求"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "Responses are **saved even if you reload the page**, so you won’t lose generated content.",
+      "source_content_hash": "fb983d7a44ffca7636de2f666af65f246a8dad868ebacc6b49d2b7a58a45ba50",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "生成内容**刷新页面也不会丢失**，确保信息持久保存。"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "![Example of how smart prompts look like inside a post page](https://daily-now-res.cloudinary.com/image/upload/v1740315076/docs/content_df37719d-03a8-4f1e-90e1-0355cd8d2ae6.webp)",
+      "source_content_hash": "3c0d1510f3ff4a8b083695a4614932e4af5454cdec96b614893f004b71f1762e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![智能提示在帖子页面的实际效果示例](https://daily-now-res.cloudinary.com/image/upload/v1740315076/docs/content_df37719d-03a8-4f1e-90e1-0355cd8d2ae6.webp)"
+      }
+    },
+    {
+      "segment_id": "1a316f80",
+      "source_content": "## Free vs. Plus Access",
+      "source_content_hash": "8dd3d38886e6b5cf8fe5da428ee1eac840fc197a6612e1fceb5c26b158851c33",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费版与Plus版权限"
+      }
+    },
+    {
+      "segment_id": "b6aaba5e",
+      "source_content": "| Feature               | Free Users | Plus Users |\n|----------------------|------------|------------|\n| Pre-Filled Prompts  | One free try per prompt | Unlimited access |\n| Custom Prompts      | One free try | Unlimited access |\n| Last Used Prompt Saved | ❌ | ✅ |\n| Toggle Individual Prompts | ❌ | ✅ (Under “AI Super Powers” in Settings) |\n| Automatic TL;DR    | ✅ | ✅ |",
+      "source_content_hash": "7144a17391e22b1e537ffa6371914f953480867d49ba6dd5d620a98faa98b741",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_b6aaba5e"
+      }
+    },
+    {
+      "segment_id": "bd92edfc",
+      "source_content": "## Who Can Benefit?",
+      "source_content_hash": "b0148055b1151ecb210114989b5be27d7bc505e92d7bb78e8db2e7e5c204382a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 适用人群"
+      }
+    },
+    {
+      "segment_id": "af7d8a35",
+      "source_content": "- **Fast Learners** – Get key insights in seconds.  \n- **Critical Thinkers** – Challenge arguments and explore different viewpoints.  \n- **Decision Makers** – Compare alternatives and get practical recommendations.",
+      "source_content_hash": "6f78bcaf364bf2eb2536de4a84488400d7460d447f24a10957218e797ce92dbb",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **高效学习者** – 秒速获取核心洞见  \n- **批判思考者** – 质疑论证并探索多元视角  \n- **决策制定者** – 对比方案获取实用建议"
+      }
+    },
+    {
+      "segment_id": "883231d4",
+      "source_content": "Smart Prompts take **AI-driven learning to the next level**, making your reading experience more **efficient, interactive, and tailored to your needs**.",
+      "source_content_hash": "57c2329b8e5ade1b60d12bb47bd0ab31a2c4405b3fbb9e7278304456f57d95d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "智能提示将**AI驱动学习提升至新高度**，使阅读体验更**高效、互动且量身定制**。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/smart-prompts.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.393223+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "7c0ae6e5d9ce63793c2f3546c6df9d47862e44fa6021eca93c79b048b81aafa4"
+  }
+}

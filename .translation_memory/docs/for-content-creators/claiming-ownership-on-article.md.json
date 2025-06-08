@@ -1,0 +1,342 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/for-content-creators/claiming-ownership-on-article.md",
+  "source_file_content_hash": "12706aa50e8e6f966f740c0a171a5c7d7ee0e2d745c8d1a36de8057c6de8a6bb",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Discover special features for content creators on daily.dev, including post ownership, analytics, author badges, and reputation points.\"\n---",
+      "source_content_hash": "6163077d7ce5d577f77ecbe06bddb4ed96aaef8d0a8ea06b674d0457179ac85d",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Special Features for Content Creators on daily.dev",
+      "source_content_hash": "3d04778d7229017d2505b746489173d277f5cec996ec2f2d615cd71b52e1137b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# daily.dev 内容创作者专属功能"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Who is This Guide For?",
+      "source_content_hash": "2302e8621d5e668482145f8dbcca95eb7a7ad9ff6581c3ba9a8b136b4b03f568",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 本指南适合谁？"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "✏️ Do you write blog posts for developers?",
+      "source_content_hash": "da231efa09f12d7ad4403ca983ca41b099e550b00637f83d24546ceb97e344ff",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✏️ 您是否为开发者撰写技术博客？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "🔭 Have you seen your blog post picked up by the daily.dev feed?",
+      "source_content_hash": "8a37cb5bf214c9cacf42193e30d2a21e54e29883da4ee485c682baa854e3dcd8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "🔭 您的文章是否被 daily.dev 资讯流收录过？"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "🚗 Are you curious about how much traffic your post received through daily.dev?",
+      "source_content_hash": "56f022dc321976cea116959dce87d9523ddacf2bd70c5386e90c4867c4466ec1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "🚗 您是否好奇文章通过 daily.dev 获得了多少流量？"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "👽 Do you believe in UFOs? Just kidding.",
+      "source_content_hash": "6c0d0da8828eec50258147f27de420561769b814d78e15ce0024be116afc41e1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👽 您相信UFO存在吗？（开个玩笑）"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "If you answered yes to the first three questions, this guide is for you!",
+      "source_content_hash": "a445e909029f503053cfae277ae2fd034fb567e1ca8410a53b7311e24dace356",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若前三个问题的答案为\"是\"，本指南正适合您！"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## Introducing New Features for Content Creators",
+      "source_content_hash": "64ffea46e97fe19751237f63bd1fee8b432c823c0bb12c9edb2b436341db17c2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 内容创作者新功能速览"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "In this guide, we will cover:",
+      "source_content_hash": "e9203b9ccd000dd63673712c5a19c9fad026122d57e554baa2056a22e4ce1313",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "本指南将涵盖："
+      }
+    },
+    {
+      "segment_id": "8cf6d045",
+      "source_content": "1. Why claim ownership of posts you’ve written?\n2. How to claim ownership of your posts.\n3. How to get your content featured on daily.dev.",
+      "source_content_hash": "d1567b16c620efa186cb223b84c55661a023b3a4e9ec16f6dce0c1ca7fa9f0d0",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 为何要认领原创文章\n2. 如何认领您的文章\n3. 如何让内容被 daily.dev 推荐"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "Let’s get started! 🚀",
+      "source_content_hash": "0a1f66c5765bd42672baa86b2908fdd1210e57f979c8b48d530efc337e33fc96",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "让我们开始吧！🚀"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "## Why Claim Ownership of a Post You Wrote?",
+      "source_content_hash": "800e1b9c572d96a367118dbc314bf445fbd6f3c2676175d59b534a1be619c727",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为何要认领原创文章？"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "### Get Notified When Your Post is Listed on daily.dev",
+      "source_content_hash": "3555d702f39a3c60f542e165436d8f4942743be3490032bdc46874ca228d2a38",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 实时获取文章收录通知"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "Writing for an audience is all about engagement. Getting notified in real-time when your post is listed allows you to interact with readers and foster discussions about your content. This helps you increase readership and build stronger relationships with your audience.",
+      "source_content_hash": "77a232409649690484323a6726761fe7a0d97bab30ebc0cc079536684ce5c4ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "写作的核心在于读者互动。当文章被收录时获得实时通知，使您能及时与读者交流、开展讨论。这不仅能提升阅读量，更能建立稳固的读者关系。"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "![Notification of post listing on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1635256424/docs/5f8ee3a31f47664ff3a9a0db_M2PRpVJTd6XhahQuDouhGspwO9GR01_l_SbwAe44q_CbxUf3nT6VdDnmclolwyw9Wsb4VAwyDBj3KYNbANu8tlX8JdhVwD2qWoH8Avpsafa_kBGtPDVIF7R9YuVK-H69ct_IzhSG.gif)",
+      "source_content_hash": "62113b48da7be996fb4c42ceac66251aaf1464ed6e319aa0471bced09483a323",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev文章收录通知](https://daily-now-res.cloudinary.com/image/upload/v1635256424/docs/5f8ee3a31f47664ff3a9a0db_M2PRpVJTd6XhahQuDouhGspwO9GR01_l_SbwAe44q_CbxUf3nT6VdDnmclolwyw9Wsb4VAwyDBj3KYNbANu8tlX8JdhVwD2qWoH8Avpsafa_kBGtPDVIF7R9YuVK-H69ct_IzhSG.gif)"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "### Get an Exclusive Author Badge",
+      "source_content_hash": "536e50baed9bfb67262526951fd9331b6e86f7c57db5154ee6860ad6b726071e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 获取专属作者徽章"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "When you comment on a post you wrote, your exclusive author badge will appear next to your name—a small but impactful way to recognize your contribution.",
+      "source_content_hash": "09fe4404c0e53f05c1fb3fc10ffadb86e65c050effae9009c1252605d2d95643",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "当您评论自己创作的文章时，用户名旁将显示专属作者徽章——这是对您贡献的独特认可。"
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "![Author badge for post creators on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1635256512/docs/5f8ee3a27a7b84389bc4b4cd_CzmUQxV9KULWBuzPx3i85AA8lJCksb5xBaoJ8t4CF9i-o-CIARaANz7t4Z8iW0MQIC2tITPDls40g8JP_5QK_2xFUNLYNIDZwM5bmttIXBzou1ZyzkcAcAN7RXN6P3eYYCO06pop.png)",
+      "source_content_hash": "715db833e6ccfe83910832f3bac5171ad27f7fa3cab7f130f555a3fb76828475",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev创作者徽章](https://daily-now-res.cloudinary.com/image/upload/v1635256512/docs/5f8ee3a27a7b84389bc4b4cd_CzmUQxV9KULWBuzPx3i85AA8lJCksb5xBaoJ8t4CF9i-o-CIARaANz7t4Z8iW0MQIC2tITPDls40g8JP_5QK_2xFUNLYNIDZwM5bmttIXBzou1ZyzkcAcAN7RXN6P3eYYCO06pop.png)"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "See it in action:",
+      "source_content_hash": "fcb1ad81e696b0443eda397696149d3f184d2e699085ec1f4791ec750bffd7e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "实际效果展示："
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "![Author badge in action on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1635256556/docs/5f8ee3a55f89924d52959f10_gqjufILdNpmls81_Me95dj4M8d1QJFyptPBTEjHrkKr1FJUWYZZ9WN7TNB0cF8zYyi1f86Pa-7zR9ouUuxEv_zebisDEbxVQMFAj0DkxpIgGwHYN7toJ73g4G6ajtb6yUALX7at7.gif)",
+      "source_content_hash": "06f518e83846ca4cedc189c5d967a8cafab5b9a039377ed2ccadf6e9ea3875c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev作者徽章实际应用](https://daily-now-res.cloudinary.com/image/upload/v1635256556/docs/5f8ee3a55f89924d52959f10_gqjufILdNpmls81_Me95dj4M8d1QJFyptPBTEjHrkKr1FJUWYZZ9WN7TNB0cF8zYyi1f86Pa-7zR9ouUuxEv_zebisDEbxVQMFAj0DkxpIgGwHYN7toJ73g4G6ajtb6yUALX7at7.gif)"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "### Get an Analytics Report for Every Listed Post",
+      "source_content_hash": "1288ab46690abf1120cbae3832e8ff33e6c60fc9d8310c617bc329a817b8d02f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 获取每篇收录文章的详细分析报告"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "Curious about your blog post’s stats? Posts picked up by daily.dev come with a complete analytics report, typically provided within 24 hours.",
+      "source_content_hash": "62222acc61d547ad94d1d8d2a448af42192d1626f0257e1d2677fcd4abc6561c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "想了解文章表现？被 daily.dev 收录的文章将获得完整数据分析报告，通常在24小时内生成。"
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "![Analytics report for daily.dev post](https://daily-now-res.cloudinary.com/image/upload/v1635256584/docs/5f8ee3a40afdcad2ea9b1cd5_UOUpf1FCZMJPa2EAbyO9h0LbFpFFb1z44gpcVQ5tEC9Ggxaj9SizlTxYtiAIVvtu-8NJ_YET37Xz8Np3ZCKIixvhgYfC561MZ-i1M5uoCMlAXiKp-vQ45iKcs3MRZc7cA0J2dXyA.gif)",
+      "source_content_hash": "63cc5f8c01ffd02ced145529655f46b1c3a58ee810d6a0527c4fb4aa8cfd5bfd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 文章分析报告](https://daily-now-res.cloudinary.com/image/upload/v1635256584/docs/5f8ee3a40afdcad2ea9b1cd5_UOUpf1FCZMJPa2EAbyO9h0LbFpFFb1z44gpcVQ5tEC9Ggxaj9SizlTxYtiAIVvtu-8NJ_YET37Xz8Np3ZCKIixvhgYfC561MZ-i1M5uoCMlAXiKp-vQ45iKcs3MRZc7cA0J2dXyA.gif)"
+      }
+    },
+    {
+      "segment_id": "60410af6",
+      "source_content": "### Gain Reputation Points and Build Your Profile",
+      "source_content_hash": "7844bc05ba9fc2a9723289c43da14edceef19eb8fee5ef02ec06b9e0e51ac353",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 获取声望积分并完善个人资料"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "As mentioned in our previous announcements, here’s a quick reminder about [What is reputation? How do I earn it?](../your-profile/reputation.md)",
+      "source_content_hash": "7c9efe4af16ddd7f3d4c02f41f90a82fa87a2fe045fef2f0dab434fbaf79612a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "正如我们之前公告中提到的，这里快速回顾一下[什么是声望？如何获取？](../your-profile/reputation.md)"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "We’ve redesigned the profile to feature a special section for your posts. For every upvote your post earns, you’ll receive a +1 reputation point, which helps build your reputation on daily.dev.",
+      "source_content_hash": "28065c9dbdf52eac394ae6a931cb4b6565eb12411e6d049cde8c699d35a0bb3f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们重新设计了个人资料页面，专门设置了展示您文章的版块。文章每获得一个点赞，您将得到+1声望积分，这有助于提升您在daily.dev上的声誉。"
+      }
+    },
+    {
+      "segment_id": "40158b4b",
+      "source_content": "![Reputation points on daily.dev profile](https://daily-now-res.cloudinary.com/image/upload/v1635256617/docs/5f8ee3a319135745f302c017_Nu6I3OBdqhgcFHDNc-r569okaI700t5hFOjsTLvUCM4SeY9wzCxWeYinbNVUHK5W0f8rNQi_0zeEsZHUfdNoJqth8S0IST49uJSyV3j1K6QZpXWThFLpgJ7PprQixE5C09hk6Opc.gif)",
+      "source_content_hash": "759fe34ef8d2618f7d7c5cb12ae91a3ed7c77dea9843d5faf8ce306d02861020",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev个人资料中的声望积分](https://daily-now-res.cloudinary.com/image/upload/v1635256617/docs/5f8ee3a319135745f302c017_Nu6I3OBdqhgcFHDNc-r569okaI700t5hFOjsTLvUCM4SeY9wzCxWeYinbNVUHK5W0f8rNQi_0zeEsZHUfdNoJqth8S0IST49uJSyV3j1K6QZpXWThFLpgJ7PprQixE5C09hk6Opc.gif)"
+      }
+    },
+    {
+      "segment_id": "c431704b",
+      "source_content": "## How to Claim Ownership of Posts You Write",
+      "source_content_hash": "65d0355850393ed4182c50926519d91b9a6a72727be30d0c2ddf07ffc136f28b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何认领您撰写的文章"
+      }
+    },
+    {
+      "segment_id": "f695969b",
+      "source_content": ":::note\nNote: We can only add posts that have been picked up by daily.dev. Not sure if your post appeared in our feed? Try [searching its headline](https://app.daily.dev/search).\n:::",
+      "source_content_hash": "81fd33a65098be2c136253ad52cdcfa8088a42a63a547035f5817347067bb396",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::note\n注意：我们只能添加已被daily.dev收录的文章。不确定您的文章是否出现在我们的信息流中？请尝试[搜索文章标题](https://app.daily.dev/search)。\n:::"
+      }
+    },
+    {
+      "segment_id": "645e08e3",
+      "source_content": "1. Ensure your post’s HTML contains the `twitter:creator` meta tag within the `<head>` section, e.g., `<meta name=\"twitter:creator\" content=\"@username\" />` where `@username` is your Twitter username.\n2. Go to your profile on daily.dev.\n3. Click **Account details**.\n4. Add your Twitter handle.\n5. [Contact us](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch).",
+      "source_content_hash": "a6cdcbf94ecd59a3e93f1a885ffaa70eb1457d8ba00baeae74ba5611eab62ba5",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 确保您文章的HTML代码在`<head>`部分包含`twitter:creator`元标签，例如`<meta name=\"twitter:creator\" content=\"@username\" />`，其中`@username`是您的Twitter用户名。\n2. 访问您在daily.dev上的个人资料。\n3. 点击**账户详情**。\n4. 添加您的Twitter账号。\n5. [联系我们](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)或发送邮件至[support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)。"
+      }
+    },
+    {
+      "segment_id": "daed5acb",
+      "source_content": "## How to Get Your Content Featured on daily.dev",
+      "source_content_hash": "ab47d88b4464c6c3cca1e9bbf54c0336f0780519d172769cc112eaedf4010dd4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何让您的内容在 daily.dev 上获得推荐"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "For a step-by-step guide, check out our [how to get featured on daily.dev guide](/for-content-creators/how-to-get-featured.md).",
+      "source_content_hash": "9ba80732329e1c0c362b4e5cdd6cffb0134b2c3fbed50c9159a2d67fb052fa41",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如需分步指南，请查阅我们的《[如何在 daily.dev 上获得推荐指南](/for-content-creators/how-to-get-featured.md)》。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/for-content-creators/claiming-ownership-on-article.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.379850+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "12706aa50e8e6f966f740c0a171a5c7d7ee0e2d745c8d1a36de8057c6de8a6bb"
+  }
+}

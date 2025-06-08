@@ -1,0 +1,162 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/customize-your-feed/density.md",
+  "source_file_content_hash": "8fc5b64dc91cd1d88483d0cfb038f763d8e9ee84463fac29aa1796e4e7d21021",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Learn how to adjust content density on the daily.dev feed with Eco, Roomy, and Cozy settings for a personalized reading experience.\"\n---",
+      "source_content_hash": "3ec42f47d640ad8b602d6883736917b3024d0baaef58c406348bdc257b75f633",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Density Settings",
+      "source_content_hash": "0ac730f2ab1e69dd644e369a9a1693c6e9bff6e56f7a79a7d7b0feb602eaf066",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 内容密度设置"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "The density option enables you to set the density of content on the **daily.dev feed**. Choose from **Eco**, **Roomy**, and **Cozy** options to personalize your reading experience.",
+      "source_content_hash": "1c242a75c28da1c96ee30b1a9917224d049c88892122225a3c1cd4f73b68e643",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "密度选项允许您设置 **daily.dev 信息流** 的内容显示密度。从 **精简**、**宽松** 和 **紧凑** 三种模式中选择，以个性化您的阅读体验。"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## Eco Density Setting",
+      "source_content_hash": "0444a4d6615486caae787cd05297d141348a6760d690b17ca50e6c1fe71f97ef",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 精简密度设置"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "![Eco density setting preview on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400282/docs-v2/3bb874f9-c920-4717-b606-07c697f431a0.png)",
+      "source_content_hash": "c5015eee31e12b46858753f996a12ed931ac0623f8d7429bd5b126ea8c2df8b1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 精简密度设置预览](https://daily-now-res.cloudinary.com/image/upload/v1724400282/docs-v2/3bb874f9-c920-4717-b606-07c697f431a0.png)"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Set the density of your feed to Eco, as shown below:",
+      "source_content_hash": "261320a50d05d1357bb605e7cc13b1d8dfafb240cb401a2b05316ce81e2c00b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如下图所示设置信息流为精简密度："
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "![How to set Eco density from menu on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400351/docs-v2/245139c1-9435-4433-aae6-779461ea8c50.png)",
+      "source_content_hash": "cba0572716b3d4cb23515b5ce3431e7c4f1a768a469b58e818783a2c5d3b045f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![如何在 daily.dev 菜单中设置精简密度](https://daily-now-res.cloudinary.com/image/upload/v1724400351/docs-v2/245139c1-9435-4433-aae6-779461ea8c50.png)"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "## Roomy Density Setting",
+      "source_content_hash": "c87b03e040672239305bb31da0679402a331217fb99728c347dd27f3ef166d55",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 宽松密度设置"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "![Roomy density setting preview on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400462/docs-v2/bea54acf-ecf4-4c9a-93d0-1962c8694706.png)",
+      "source_content_hash": "8fbcfa34854f33e86cafefd44f3250a7f9e7f00c835380fc3a9085a5bb9cd332",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 宽松密度设置预览](https://daily-now-res.cloudinary.com/image/upload/v1724400462/docs-v2/bea54acf-ecf4-4c9a-93d0-1962c8694706.png)"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "Set the density of your feed to Roomy, as shown below:",
+      "source_content_hash": "75cccfa1ef6f921394607e05b2df1a74a27571fc3e9b5f6f9dddcfc15df0a215",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如下图所示设置信息流为宽松密度："
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "![How to set Roomy density from menu on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400407/docs-v2/928ceb27-1a44-43a2-9c56-245d43e29ac1.png)",
+      "source_content_hash": "76ffe5440a81125c74741d38d2603d8741c4fff1dec77edf009393d288c3d2c7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![如何在 daily.dev 菜单中设置宽松密度](https://daily-now-res.cloudinary.com/image/upload/v1724400407/docs-v2/928ceb27-1a44-43a2-9c56-245d43e29ac1.png)"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "## Cozy Density Setting",
+      "source_content_hash": "32a929e33090c6a0e214f2f4f65b8b499bc4b0d08a37bd471439a9abe6e33202",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 紧凑密度设置"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "![Cozy density setting preview on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400566/docs-v2/3eb0e893-cb8a-48c5-9543-c29179a8fcd3.png)",
+      "source_content_hash": "318c81ba97b08836332db8e867cd7a8a04bc754a8333bbe304c26449efb12c82",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev 紧凑密度设置预览](https://daily-now-res.cloudinary.com/image/upload/v1724400566/docs-v2/3eb0e893-cb8a-48c5-9543-c29179a8fcd3.png)"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "Set the density of your feed to Cozy, as shown below:",
+      "source_content_hash": "25abf9065c9cae9a5282cb12b80aa8b803fd4a613589a02930e927e382e55aff",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如下图所示设置信息流为紧凑密度："
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "![How to set Cozy density from menu on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400531/docs-v2/c90ae104-6c65-4e70-aac3-caaf06bba48d.png)",
+      "source_content_hash": "29c109dae95acb56f4d4ab7d5f5e578f8ff7e08c494600d491ca1e4ee9400269",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![如何在 daily.dev 菜单中设置紧凑密度](https://daily-now-res.cloudinary.com/image/upload/v1724400531/docs-v2/c90ae104-6c65-4e70-aac3-caaf06bba48d.png)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/customize-your-feed/density.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.387529+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "8fc5b64dc91cd1d88483d0cfb038f763d8e9ee84463fac29aa1796e4e7d21021"
+  }
+}

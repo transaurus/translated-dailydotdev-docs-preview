@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/search.md",
+  "source_file_content_hash": "d1a971ab37dba73b46088b83dbf75dac427754bc41880c11a4703ee5e3072b46",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Learn how to search for content, users, tags, squads, and sources across the daily.dev ecosystem.\"\n---",
+      "source_content_hash": "cd157d015c1c0e7779c59fc09845e0058b2114692f4cf92d460c6373334884e6",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Search",
+      "source_content_hash": "4cc4b9442bff697f6f3ed607f11143e0e168b8e246bdf1b51992cdf7e1ed6c39",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 搜索功能"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "daily.dev’s search is your go-to way to explore the platform. Whether you’re looking for a specific post, a trusted source, trending tags, or other developers — it’s all just a few keystrokes away.",
+      "source_content_hash": "4b3a3bbc2081ea8edfd6d75fbd98055aee6de7b6887d90b3af4991434f378b61",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev的搜索功能是您探索平台的核心工具。无论是查找特定文章、可信来源、热门标签还是其他开发者，只需输入几个关键词即可获取结果。"
+      }
+    },
+    {
+      "segment_id": "6cae1da3",
+      "source_content": ":::info\nWe’ve sunset our AI-powered search due to low adoption. Like any good startup experiment, it taught us a lot. We're using those learnings to build even better experiences ahead — stay tuned.\n:::",
+      "source_content_hash": "e851da1599e3c30d5e9c776dd5c9e432e1e80cef37a9776117ff2aa98cc413b5",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n由于使用率较低，我们已停止AI驱动的搜索功能。正如任何优秀的创业实验，它为我们提供了宝贵经验。我们将运用这些洞见构建更优质的功能——敬请期待。\n:::"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## What you can search for",
+      "source_content_hash": "96737adc7f94c1c73e36b010a2e4d2620d114b645a8f79b0f246a85a812ab41f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 可搜索内容类型"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "Here’s what you can search for using the search bar at the top of the page or via <kbd>Cmd</kbd>+<kbd>K</kbd> / <kbd>Ctrl</kbd>+<kbd>K</kbd>:",
+      "source_content_hash": "3eb3fa59e49ee9345fb0502c578f9fc2d07aed39ac5caee8a58e393b7001ed62",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以通过页面顶部的搜索栏或快捷键<kbd>Cmd</kbd>+<kbd>K</kbd>/<kbd>Ctrl</kbd>+<kbd>K</kbd>搜索以下内容："
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "### Content (posts)",
+      "source_content_hash": "771602c562d006ea58fdff3675a618f8bc2191ccf6e83162856cf729259ca398",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 内容（文章）"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "- Instantly search for posts matching your query.\n- Results are sorted by relevance, helping you discover tutorials, news, comparisons, product launches, and more.",
+      "source_content_hash": "ba1b8a0348a805678614e7f77bfd6a9f23a840f7f0462eba6ac1d0c1cf5795e8",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 即时搜索匹配查询的文章\n- 结果按相关性排序，助您发现教程、新闻、对比评测、产品发布等内容"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "### Tags",
+      "source_content_hash": "6518afe373ff19591fc1a0f2e11a79e2334cf2eddb46df3750e459ec227cd20f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 标签"
+      }
+    },
+    {
+      "segment_id": "1b8c1887",
+      "source_content": "- If your search term matches a tag, it’ll appear with a hashtag (e.g. `#react`).\n- Clicking it takes you to a dedicated tag page sorted by:\n  1. Top-voted posts  \n  2. Best discussions  \n  3. Everything else",
+      "source_content_hash": "076ed8078bb750564ce2454d636a332af94cc1f6ccb6b79bcfde932f2ee76f2a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 若搜索词匹配标签，将显示带井号标记（如`#react`）\n- 点击标签可进入专属页面，内容按以下顺序排列：\n  1. 高票文章  \n  2. 优质讨论  \n  3. 其他内容"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "### Sources",
+      "source_content_hash": "6a69d38edf943be7408f2984d1170da3d91cbd12ac659142a1174690c133378f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 来源"
+      }
+    },
+    {
+      "segment_id": "5da9e02b",
+      "source_content": "- Looking for content from a specific blog, newsletter, or YouTube channel? Search for the source name.\n- Sources appear with a custom icon. Clicking opens the source page with the latest posts, ordered by engagement.",
+      "source_content_hash": "48cc18aa3f2f3958dd7d74bbbfea95b3bc9374d4975dfb17aeb8b5a9cfd2e82a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 查找特定博客、新闻通讯或YouTube频道的内容？直接搜索来源名称\n- 来源显示自定义图标，点击可查看按互动排序的最新文章"
+      }
+    },
+    {
+      "segment_id": "0037ff70",
+      "source_content": "### Users",
+      "source_content_hash": "fe3a573d47c35afbfba5ce4b6f769daece24772fcb58ccf7a6f71e7c849dfb09",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 用户"
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "- Search by handle or name to find developers on daily.dev.\n- Discover their activity, Squads, reading streaks, and shared posts.",
+      "source_content_hash": "0f21a85541a256edfb140686cdb238d81210ac74bf57c6fa903fb06ae8e0ed94",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 通过用户名或昵称搜索开发者\n- 查看其动态、Squads社群、阅读连续记录及分享文章"
+      }
+    },
+    {
+      "segment_id": "3b7478ea",
+      "source_content": "### Squads",
+      "source_content_hash": "e94e76a11a45495850bdc01920235c1f23d56d162f545a5e1827976df8cc8ef0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Squads社群"
+      }
+    },
+    {
+      "segment_id": "157151e9",
+      "source_content": "- Search for Squads by name or topic.\n- Join and engage with communities that match your interests.",
+      "source_content_hash": "54fdd5935ac996290c0c0effb1b8ac8a5e09831d9f02dfa47942ce6550b621f7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 按名称或主题搜索Squads\n- 加入与您兴趣相符的社群并参与互动"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "## Search results view",
+      "source_content_hash": "1ebd21c4722e1275e180bde78f3bc63125e36bc2c1d9d6737163e56986b92f0b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 搜索结果界面"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "We’ve revamped the search interface to give you a cleaner, faster way to find what matters. When you search, you’ll see:",
+      "source_content_hash": "d9aa5979d32775d1390af8bdb3160bd49142e3cb3549dc9b55897a4cd35dd0d8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们重新设计了搜索界面，为您提供更清晰高效的检索体验。搜索结果包含："
+      }
+    },
+    {
+      "segment_id": "4c077b92",
+      "source_content": "- **Main column:** Relevant posts\n- **Right sidebar:** Matching tags, sources, and Squads\n- **Lower section:** Developers who have mentioned the term",
+      "source_content_hash": "3b7ac7c6027a2272a3c3d8591e3440120c26fae03a226b5d264463b1b03d7b0c",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **主栏**：相关文章\n- **右侧边栏**：匹配标签、来源和Squads\n- **底部区域**：提及该关键词的开发者"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "Everything is just a scroll away — no extra clicks needed.",
+      "source_content_hash": "2fdb97fba0edf424d7dc50a36414e86c3737276f7696eef9bdfb159040ba7b72",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "所有内容无需额外点击，滚动即可浏览。"
+      }
+    },
+    {
+      "segment_id": "11c76fcc",
+      "source_content": "## Tips for better results",
+      "source_content_hash": "185c5c7c67660230bcc38463fbec178635c7b83756be42b356389486b5fa5745",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 优化搜索技巧"
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "- Use specific keywords (e.g. `vite vs webpack`, not just `bundler`)\n- Try searching by tag (e.g. `#typescript`) for broader discovery\n- Looking for people? Use their handle or full name",
+      "source_content_hash": "110ec4ac5af8ee1f75ada814b068e4a46039efba066c25f623ed47710629cc59",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 使用具体关键词（如`vite对比webpack`而非仅`打包工具`）\n- 尝试标签搜索（如`#typescript`）拓宽发现范围\n- 找人时使用用户ID或全名"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "## What’s next",
+      "source_content_hash": "7ec48ac3c2809153d70dd3f5e0c5fba0aca5c7dea6cea975620ed36e955bcfa7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 未来计划"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "We’re not done. Search is a core pillar of the daily.dev experience, and we’re constantly evolving it. Future updates will bring smarter filtering, better personalization, and even deeper integration into your developer journey.",
+      "source_content_hash": "2243c4483d2d841a8e6ba069f6fc217297b7482ca86fc7719e9da6f8fdfdfe14",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们仍在持续改进。搜索功能是daily.dev体验的核心支柱，未来更新将包含：\n- 更智能的筛选\n- 更强的个性化\n- 更深度的开发者旅程集成"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/search.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.388287+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d1a971ab37dba73b46088b83dbf75dac427754bc41880c11a4703ee5e3072b46"
+  }
+}

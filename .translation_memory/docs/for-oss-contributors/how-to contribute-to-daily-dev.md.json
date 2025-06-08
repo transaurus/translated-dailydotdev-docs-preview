@@ -1,0 +1,122 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/for-oss-contributors/how-to contribute-to-daily-dev.md",
+  "source_file_content_hash": "1a5941d104365bb6561fa068c58cd37d15a5c40b8c99e53a54b4f8a0d4963f2d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Learn how to contribute to daily.dev’s open-source project, explore the GitHub repository, and set up locally with Docker.\"\n---",
+      "source_content_hash": "c8b2b334d08aa280b00c1be35c888273bec734f0ab61a937ca04e6efffb15fe6",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# How to Contribute to daily.dev",
+      "source_content_hash": "8b3d71a57eee917efa715c6b480b5b3c28564c237c405c642cd24f5405c710ea",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 如何为 daily.dev 贡献代码"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "daily.dev is an **open-source project**, and we’re thrilled to welcome contributors! We believe in transparency and community collaboration, so we’ve published our source code on GitHub. You can suggest features, report bugs, or contribute code—everyone is welcome!",
+      "source_content_hash": "1ec51cc418372e7b9ef33fc6e96bf98fc82445694b25777e4bdb220e217786fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev 是一个**开源项目**，我们非常欢迎开发者参与贡献！我们秉持透明化和社区协作的理念，已将源代码发布在 GitHub 上。您可以提议新功能、提交错误报告或贡献代码——每个人都能参与其中！"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## Why Open Source?",
+      "source_content_hash": "e1324369f765c579bd22e61471c501f188194f8e14f8278f7c981ed3c28d8c03",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为什么选择开源？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Contributing to open source can be transformative for a developer’s career. Open source allows developers to build their portfolios, experiment with new technologies, and learn in public. Many leading companies and innovative startups are embracing open-source projects, making this a fantastic opportunity to learn, grow, and enhance your skills.",
+      "source_content_hash": "a47ea27e33e9c9b5454605fcc283447a29026a44d59e92cf97580e9bb4432fa2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "参与开源项目能对开发者的职业生涯产生深远影响。开源让开发者能够构建作品集、尝试新技术并在公开环境中学习。许多领先企业和创新初创公司都在拥抱开源项目，这将成为您提升技能的绝佳机会。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## daily.dev’s GitHub Repository",
+      "source_content_hash": "5b45672d52fb71dfb7ba4d42e3467866b0b62db19dda723321b6ee1e3c4ca0d4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## daily.dev 的 GitHub 代码库"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "Explore our GitHub repository to level up your coding skills and contribute to daily.dev’s development: [daily.dev GitHub Repository](https://github.com/dailydotdev/daily).",
+      "source_content_hash": "ac7d8fc8362f43378a472da435750ef5f594a749abb81fe403f574c40f77a5d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "访问我们的 GitHub 代码库提升编程技能并参与 daily.dev 的开发：[daily.dev GitHub 代码库](https://github.com/dailydotdev/daily)"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "If you’re already visiting our GitHub repo, don’t forget to give us a star ⭐ to show your support!",
+      "source_content_hash": "b99a92154723cbce72cd727cc65d26441679b1eec6081f4a6c0c4e0d6f777a9e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您已访问过我们的 GitHub 代码库，别忘了给我们点个星标 ⭐ 以示支持！"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## Running daily.dev Locally with Docker",
+      "source_content_hash": "c060f2e7e3629e2ab88376b33efd3805a3487412734e62bbac368e266bfd34aa",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用 Docker 本地运行 daily.dev"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "Here’s a [video tutorial on running daily.dev locally with Docker](https://youtu.be/sNUpOJaL_B8) to help you get started quickly:",
+      "source_content_hash": "0b6421c46d7d62d859eccd97de16f727eebf9e027925565e8cbc8c5ff138cc82",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "这里提供一段[使用 Docker 本地运行 daily.dev 的视频教程](https://youtu.be/sNUpOJaL_B8)，助您快速上手："
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "[![Video tutorial for running daily.dev locally with Docker](https://daily-now-res.cloudinary.com/image/upload/v1636468644/docs/Running_daily.dev_locally_with_Docker.jpg)](https://youtu.be/sNUpOJaL_B8)",
+      "source_content_hash": "4216150e39980b402400340914ba9970c77c2fef5ca991e25ac83ab09e3d53c3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "[![使用 Docker 本地运行 daily.dev 的视频教程](https://daily-now-res.cloudinary.com/image/upload/v1636468644/docs/Running_daily.dev_locally_with_Docker.jpg)](https://youtu.be/sNUpOJaL_B8)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/for-oss-contributors/how-to contribute-to-daily-dev.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.384335+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "1a5941d104365bb6561fa068c58cd37d15a5c40b8c99e53a54b4f8a0d4963f2d"
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/the-companion.md",
+  "source_file_content_hash": "1c4ffb6bd8eb7c726d5691e4f827ddf3f10f345e2ce03a5fe9b988b69f40bfd7",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 8\ndescription: \"Learn about the daily.dev Companion Widget, its features, activation process, and how it enhances user engagement directly on post pages.\"\n---",
+      "source_content_hash": "0e6be91d8e2c4efb87377d1e1f30bf5183d4df05cb840890c55a65938203a442",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Companion Widget",
+      "source_content_hash": "35e8af227992a3ef03079932587b76214c43f58fd0a896373706755c287bcf64",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 伴侣小部件"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![Companion Widget Cover Image](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/chagelog_cover.png)",
+      "source_content_hash": "b5592d32a2b33b38ae5b40cb402eed5361aa060c2c397d5578838b6c54d9d87b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![伴侣小部件封面图](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/chagelog_cover.png)"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "The companion widget allows you to [upvote](https://docs.daily.dev/docs/key-features/upvotes), [comment](https://docs.daily.dev/docs/key-features/discussions), and [bookmark](https://docs.daily.dev/docs/key-features/bookmarks) posts directly on the post page itself!",
+      "source_content_hash": "cc730a84195f867f77de4037a6edd8a5068f5fc0d5116d6a5a99df34c4229a71",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "伴侣小部件允许您直接在文章页面上进行[点赞](https://docs.daily.dev/docs/key-features/upvotes)、[评论](https://docs.daily.dev/docs/key-features/discussions)和[收藏](https://docs.daily.dev/docs/key-features/bookmarks)操作！"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Companion Widget Overview Video",
+      "source_content_hash": "511be663637ea6b0450c0e1dd7ee927d4d6cfac5d8720d323e1ed39fb01d47de",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 伴侣小部件功能概览视频"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Give the companion widget overview video a watch if you haven't already and see what new superpowers it gives you!",
+      "source_content_hash": "5b028e5ca0fc0fcf7698bfef1cadbcb9aebb8dea2e0e70f8e49afdee95253b6e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如果您还未观看过伴侣小部件的功能概览视频，请立即观看，了解它为您带来的全新超能力！"
+      }
+    },
+    {
+      "segment_id": "cc3676fa",
+      "source_content": "<iframe width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/7lfUzdkG03E\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "source_content_hash": "6e6ff7455621c6fa384f691a3ca3d12b4a443f300b46af891e682b636138b047",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_cc3676fa"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "## Activating the Companion",
+      "source_content_hash": "fcc8301ee76a793f1cc522d021339b3fa9d0b5e13f11b9bc2eb9235c61671198",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 激活伴侣小部件"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Getting started with the companion widget is easy!",
+      "source_content_hash": "dc1f92c5c92fc1450502641a1b23e3ca69b7c77e7db06b749c1057d954b3f961",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "启用伴侣小部件非常简单！"
+      }
+    },
+    {
+      "segment_id": "da23c906",
+      "source_content": "1. On the daily.dev extension, open a new tab and look for the purple button in the top right next to your profile picture.\n2. If you don't see the purple button, go to the [extension store](https://api.daily.dev/get?_ga=2.220083545.157894557.1655794404-623033389.1647175282) and download the latest version of the daily.dev extension.\n3. Click on the purple button located at the top right of your screen next to your profile picture to add the companion.\n4. You will be asked for additional permissions. These permissions are only required so we can check the page that you are on is in our feed and so we can inject the companion widget into the page. \n5. Once you accept the permissions, you should be redirected to a [page about the companion](https://daily.dev/blog/companion).",
+      "source_content_hash": "505acce4a92535c269d98a653b07c65a7c47b4673e69fa62fec4d845f29e0372",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 在daily.dev扩展中打开新标签页，在个人资料图片右侧寻找紫色按钮。\n2. 若未显示紫色按钮，请前往[扩展商店](https://api.daily.dev/get?_ga=2.220083545.157894557.1655794404-623033389.1647175282)下载最新版daily.dev扩展。\n3. 点击屏幕右上角个人资料图片旁的紫色按钮添加伴侣小部件。\n4. 系统将请求额外权限。这些权限仅用于检测当前页面是否存在于我们的内容库，并注入伴侣小部件至页面。\n5. 接受权限后，您将被重定向至[伴侣小部件介绍页面](https://daily.dev/blog/companion)。"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "## Features",
+      "source_content_hash": "9eb55e137a031f4b4d166f425f9b2d9183ca01a0ab9de3d390966dacb1e6a038",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 功能特性"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "All of the features you are used to seeing in daily.dev are now available directly within a post!",
+      "source_content_hash": "8074d3ae3683aa468b06b3f5ba7c812de8bbe0c7f7b5db14dc19de942f0869e4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您熟悉的所有daily.dev功能现在可直接在文章页面使用！"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "![Companion Widget Feature Buttons](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/Companion_-_Pointers.png)",
+      "source_content_hash": "3a062f8476f6727fd14dac5f2e773becf9e1ff25bf2631db9b893c1c858c9f3a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![伴侣小部件功能按钮](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/Companion_-_Pointers.png)"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "On the left of the companion widget you will see 5 buttons:",
+      "source_content_hash": "c75fa76e82e76e250b74f40fb3ab45be04caa4d4b8beb52dceb1d6d48332d3c2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "伴侣小部件左侧显示5个按钮："
+      }
+    },
+    {
+      "segment_id": "7a2e981c",
+      "source_content": "1. **Collapse / Open** - Collapse the companion or open it again to read the TLDR, view the comments, etc.\n2. **Upvote** - Let people know that you loved this post and help more people discover it in the feed.\n3. **Comment** - Share your thoughts with the daily.dev community, add any interesting information, or even point out any issues with the post (politely).\n4. **Bookmark** - Add this post to your bookmarks so you can find it easily in the future!\n5. **Options** - This opens a dropdown where you can view the discussion on daily.dev, share the post, report it, give us feedback, or disable the widget entirely!",
+      "source_content_hash": "4dd460dfd6d2d9236e25f19b6954bd7448519ad7d25317c000434188b9e28c9e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **折叠/展开** - 收起小部件或展开阅读摘要、查看评论等。\n2. **点赞** - 表达对文章的喜爱，帮助更多用户在信息流中发现优质内容。\n3. **评论** - 与daily.dev社区分享见解，补充有趣信息或礼貌指出文章问题。\n4. **收藏** - 将文章加入书签以便后续快速查找！\n5. **选项** - 展开下拉菜单可查看站内讨论、分享文章、举报内容、提交反馈或完全关闭小部件！"
+      }
+    },
+    {
+      "segment_id": "8d04259b",
+      "source_content": "### 1. Collapse / Open and TLDR Screen",
+      "source_content_hash": "a0d3404e71c06a6c6ba2a755c640c4925aa507f9595f7f9f74716af3dc02448e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 1. 折叠/展开与摘要界面"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "Clicking on the collapse/open button will minimize and restore the companion widget.",
+      "source_content_hash": "c74a913ea28f56ccc951e1c8b334efeb53907ae48e9e0e88e422a5f0ad64f71f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击折叠/展开按钮可最小化或恢复伴侣小部件。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "When the companion is open, you will see the TLDR for the post (C) for a quick overview, the number of upvotes (D), and comments (E) on the post.",
+      "source_content_hash": "0a65c404cc1140c113de3ac8e166fb61eef02c39b3e7a8d5408ea1f57b89853a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "展开状态下，您将看到文章摘要(C)快速概览、点赞数(D)和评论数(E)。"
+      }
+    },
+    {
+      "segment_id": "f44c1398",
+      "source_content": "### 2. Upvote",
+      "source_content_hash": "b086dbed45afb37c2112064d7eeb33869438d825b3c6ec40c95af4a2dc2eddd5",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 2. 点赞"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "Clicking on the upvote button will add your vote for the post on daily.dev, helping the best posts rise to the top of the feed.",
+      "source_content_hash": "9081dbe1cc013b31536c72271a436cb71e38c1156228de500b74fc03635a4c47",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击点赞按钮即为文章投票，助力优质内容在信息流中脱颖而出。"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "### 3. Comment",
+      "source_content_hash": "ac2511dbdc389846227997dafdd8609c1a712193d676bacbc91b0a50c4557055",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 3. 评论"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "Clicking on the comment button will open the comment modal.",
+      "source_content_hash": "7fce89ef74ecb08e9e4b8396f8fb563f9ddfaa9cfd89f49acac86e8893f38dc0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击评论按钮将打开评论弹窗。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "![Comment Modal with Options Highlighted](https://daily-now-res.cloudinary.com/image/upload/v1655796448/companion/Comment_popup_-_Pointers.png)",
+      "source_content_hash": "08e40dbfa85586bf50b5547c9f0fcfd2dc063b196c6c5bd0de6e8213f1949a72",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![标注选项的评论弹窗](https://daily-now-res.cloudinary.com/image/upload/v1655796448/companion/Comment_popup_-_Pointers.png)"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "Overview:",
+      "source_content_hash": "fbbcb1eea065b74be87cf04b04f041335b2b180f8b63300dc93cf04ea97dc4d2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "功能说明："
+      }
+    },
+    {
+      "segment_id": "9b797309",
+      "source_content": "1. Switch between writing and previewing your comment.\n2. Enter your comment in the text box (supports markdown).\n3. Tag other daily.dev users in your comment using the @mention feature.\n4. Preview your comment to ensure it looks great.\n5. Click on \"Comment\" to share your thoughts with the community.",
+      "source_content_hash": "08d851ebd8ca23d215fd693d6276fd7bcb7a82c0358346e03bdbeb648be37a65",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 在撰写与预览评论模式间切换。\n2. 在文本框输入评论内容（支持Markdown语法）。\n3. 使用@提及功能标记其他daily.dev用户。\n4. 预览评论确保格式正确。\n5. 点击\"评论\"按钮将观点分享至社区。"
+      }
+    },
+    {
+      "segment_id": "c431704b",
+      "source_content": "### 4. Bookmark",
+      "source_content_hash": "293932879b0c170e2b562f6b10adc9e725cc1c73c28d7be864eaea6136d9dff7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 4. 收藏"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "Clicking on the bookmark button will add this post to your daily.dev bookmarks for easy access later.",
+      "source_content_hash": "84edde233a80e4d97ecb57d492d269920ede795874cee149fdf82d72fd57f52c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击书签按钮可将该文章添加至您的daily.dev书签列表，便于后续快速访问。"
+      }
+    },
+    {
+      "segment_id": "126950d7",
+      "source_content": "### 5. Options",
+      "source_content_hash": "3102f55e31b127bc8e5ba240498641490b6f779aef0759d9473bfa0c53d4f221",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 5. 选项菜单"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "The options dropdown offers:",
+      "source_content_hash": "8835534f78a8aa48e941d1250b7709aed3464f14ee3480ae730b32ba399ef3bb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "选项下拉菜单提供以下功能："
+      }
+    },
+    {
+      "segment_id": "180e9ce9",
+      "source_content": "- **View Discussion** - View the discussion on the daily.dev web app.\n- **Share the Post** - Share the post via social media, email, WhatsApp, etc.\n- **Report** - Report posts that are NSFW, problematic, or spam.\n- **Give Us Feedback** - Let us know what you think about daily.dev.\n- **Disable Widget** - Disable the companion if you prefer not to use it.",
+      "source_content_hash": "3d669afc61619f96e6a4ba17559f58ea208d063872b443530d599741b5a7d483",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **查看讨论** - 在daily.dev网页应用中查看讨论内容\n- **分享文章** - 通过社交媒体、电子邮件、WhatsApp等渠道分享\n- **举报** - 举报包含NSFW内容、问题或垃圾信息的文章\n- **提交反馈** - 向我们反馈您对daily.dev的使用体验\n- **禁用小组件** - 若您不希望使用该功能可在此关闭"
+      }
+    },
+    {
+      "segment_id": "d422fb13",
+      "source_content": "## Privacy and Data Usage",
+      "source_content_hash": "e9c11d404667b1a5c1a02792795bfc9f3fe27f96867bfa148e1632e6fcae38d4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 隐私与数据使用"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "We collect minimal data and no personal data when using the companion widget. Here’s how it works:",
+      "source_content_hash": "2cfa96d7315c1d9a2cb483522743234fa70a561c403a7abd54de30d5abfb9726",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们仅收集最小化数据且不涉及个人隐私信息，具体机制如下："
+      }
+    },
+    {
+      "segment_id": "4fe53981",
+      "source_content": "- For every page you visit, we dispatch a request containing the URL only to check if it's in the daily.dev database.\n- If the URL is in the database, the companion is activated, and we track actions like upvotes, comments, and bookmarks linked to your user ID.\n- Requests are only dispatched on page load, so the companion will not affect page performance.",
+      "source_content_hash": "1636723ea5abf21d248c907e74193544cee4f8faf558c5ad3b1fd1c14cce8488",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 对您访问的每个页面，我们仅发送URL请求以验证是否存在于daily.dev数据库\n- 若URL存在于数据库，则激活伴侣组件并记录与您用户ID关联的点赞、评论和书签行为\n- 请求仅在页面加载时触发，不会影响页面性能表现"
+      }
+    },
+    {
+      "segment_id": "2fd0be2a",
+      "source_content": "## What to Do If You Don’t See the Companion Widget",
+      "source_content_hash": "c140a77f644ec1b067d030ce6cfbcbe9fecddaf8c2df106ae4fc60575b008149",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 伴侣组件未显示的解决方案"
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "Possible issues:",
+      "source_content_hash": "3be01bf4e7bd68f298364ebffc0569f3dfceff2b09b334e2bfa16784df8c7a82",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "可能存在的问题："
+      }
+    },
+    {
+      "segment_id": "536b7b6b",
+      "source_content": "1. **Outdated Extension Version**: Make sure your extension is at least version v3.16.4. [Download the latest version.](https://api.daily.dev/get?_ga=2.190141803.157894557.1655794404-623033389.1647175282)\n2. **Check Your Settings**: Ensure \"Enable companion\" is toggled on under \"Preferences\" in the \"Customize\" menu.\n![Enable Companion Setting in Customize Menu](https://daily-now-res.cloudinary.com/image/upload/v1655797803/companion/Screen_Shot_21-06-2022_at_08.49.png)\n3. **Contact Support**: If you still encounter issues, report a bug using [our form](https://it057218.typeform.com/to/zN8B5Vog?typeform-source=daily.dev) with your contact email.",
+      "source_content_hash": "35e395cdd0d21bc87fcb4cbdf8c90a5450d54c4fbb7e6812fa0f2135e9fcbe0c",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **扩展版本过旧**：确保您的扩展版本不低于v3.16.4。[下载最新版本](https://api.daily.dev/get?_ga=2.190141803.157894557.1655794404-623033389.1647175282)\n2. **检查设置项**：在\"自定义\"菜单的\"偏好设置\"中确认已开启\"启用伴侣组件\"选项\n![自定义菜单中的伴侣组件启用设置](https://daily-now-res.cloudinary.com/image/upload/v1655797803/companion/Screen_Shot_21-06-2022_at_08.49.png)\n3. **联系技术支持**：若问题仍未解决，请通过[反馈表单](https://it057218.typeform.com/to/zN8B5Vog?typeform-source=daily.dev)提交包含联系邮箱的故障报告"
+      }
+    },
+    {
+      "segment_id": "2e771fd0",
+      "source_content": "## Reporting Bugs",
+      "source_content_hash": "add4dfcc811f0b494857bc6d162e1da9dc2306358bd70aa0ae639ff51b0972d2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 故障报告"
+      }
+    },
+    {
+      "segment_id": "0750bfa1",
+      "source_content": "In case of a bug, use our [bug report template on GitHub](https://github.com/dailydotdev/daily/issues/new?assignees=&labels=Type%3A+Bug&template=---bug-report.md&title=%F0%9F%90%9B+BUG%3A+).",
+      "source_content_hash": "d74e1e3f6c3898376c2fa3a31ff8d35f20914a8f8b28ddb78144f559595ac611",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如遇系统故障，请使用我们在GitHub上的[故障报告模板](https://github.com/dailydotdev/daily/issues/new?assignees=&labels=Type%3A+Bug&template=---bug-report.md&title=%F0%9F%90%9B+BUG%3A+)提交问题。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/the-companion.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.385922+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "1c4ffb6bd8eb7c726d5691e4f827ddf3f10f345e2ce03a5fe9b988b69f40bfd7"
+  }
+}

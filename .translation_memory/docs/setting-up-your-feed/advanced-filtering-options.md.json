@@ -1,0 +1,252 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/setting-up-your-feed/advanced-filtering-options.md",
+  "source_file_content_hash": "f616e7978822add5327437ffd810af5dc53d155f54bb77788349d7957a0ed653",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Explore advanced filtering options on daily.dev to personalize and optimize your feed based on content categories, language, and blocked items.\"\n---",
+      "source_content_hash": "39df16b6d37e1e9c30883b66e3ea0eb0742686389f5fd32ae6853e0cdb03c988",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Advanced Filtering",
+      "source_content_hash": "9ca38cd94f4f882856bdd941b2f0c3e360cab64cd4be8c0d65d740f71b165bda",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 高级筛选"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "Unlock the full potential of your daily.dev feed with advanced content filtering options based on content categories.",
+      "source_content_hash": "4b7d1b9ab8e3b2ba404f0adb74bdc14a7e8faf5099b06432865e614a705f89b2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过基于内容类别的高级筛选选项，充分释放您的daily.dev信息流潜力。"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What are the Advanced Filtering Options?",
+      "source_content_hash": "08a15dc9a0eb9e7a99df3be3eebed57c3ca5b0c458e39a1ac4e26df113645dbd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是高级筛选选项？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Why settle for basic filtering based on tags when you can have more control over your feed? Sometimes, posts may contain tags you follow, but the content might not be exactly what you're looking for. Configuring your feed based on content categories can help, as these categories are treated separately from the tags you follow.",
+      "source_content_hash": "310e4b377c8763e76a33a0f7eb0c9480a8f68889e59b5daf12738e1f8c7b2083",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "当您能对信息流拥有更多控制权时，为何要满足于基于标签的基础筛选？有时，帖子可能包含您关注的标签，但内容却并非您真正所需。基于内容类别配置您的信息流会有所帮助，因为这些类别与您关注的标签是分开处理的。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Configure Your Tags",
+      "source_content_hash": "b9709cdb93422b4d0024f39701e9b18dec0e58b7464384ca3d72b760e46cafca",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 配置您的标签"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "To configure your tags, click on the \"Feed Settings\" button to open the feed options menu, as shown below:",
+      "source_content_hash": "e99f9b726b8ca17ad6be677ddd08c9aa3c5616ae66af16257c0ed656b901d3f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要配置标签，请点击\"信息流设置\"按钮打开选项菜单，如下图所示："
+      }
+    },
+    {
+      "segment_id": "21c93b79",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724401463/docs-v2/fdece24a-719d-41c5-8356-e81a1930b1ef.png\" alt='Feed settings menu showing options for tag configuration' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "be451f44cfdb22d4db0156b99bc2e20b3e9c3910a433893860655cb9f8d27871",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_21c93b79"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "You can choose to follow all tags or only specific tags you're interested in. To do this, click on the \"Follow all\" button to follow all tags or expand the section by clicking the > icon next to the Tag group to follow only the tags you're interested in.",
+      "source_content_hash": "9387e8bdc7969c43be5da5a68dee645cf8c36f38e99828b89ef183c1a6455917",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "您可以选择关注所有标签，或仅关注感兴趣的特定标签。点击\"全部关注\"按钮可关注所有标签，或点击标签组旁的>图标展开该部分，仅关注您感兴趣的标签。"
+      }
+    },
+    {
+      "segment_id": "5dfba1c3",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724401583/docs-v2/b1ad34fe-622d-4284-b73a-0a47dbb080aa.png\" alt='Expanded tags section for detailed tag selection' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "55ed8bace2db95cb4f03f320be3a9e1c7b77e70d25807d264e2eb0eca17882b7",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_5dfba1c3"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "## Configure Your Content Categories",
+      "source_content_hash": "f0afbf10fe99dea0b956a9f0bee60fd2e67a934eac6b2b36cc2a18d066112f61",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 配置您的内容类别"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "Click on the \"Feed Settings\" button to open the feed options menu:",
+      "source_content_hash": "46bee2ef32ba3650ef631d84e04241583a3e48a8eee3634b66e7cf027888905c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点击\"信息流设置\"按钮打开选项菜单："
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "Choose \"Manage Categories\" from the feed filters menu, as illustrated below:",
+      "source_content_hash": "2c04b87f8586cf0fde46710e58f54f9d11d3a0c289cf075874f896f28437d584",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "从信息流筛选菜单中选择\"管理类别\"，如下图所示："
+      }
+    },
+    {
+      "segment_id": "599822a5",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724401655/docs-v2/0382f5d7-b4eb-447a-b766-b3da8ae7722a.png\" alt='Manage categories option in feed settings menu' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "59e5da1bffa4bd9af20e15e09aec89b2748b570d4b548757b8fa5e2fa670fb69",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_599822a5"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "Once in the menu, you’ll find several on/off toggle switches that let you fine-tune your feed based on your preferences. These options include:",
+      "source_content_hash": "d61462bb57d5d1554b9200605b17a3a9509c19786dcb25652566acd4fa906d8a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "进入菜单后，您会看到多个开关切换选项，可根据个人偏好微调信息流。这些选项包括："
+      }
+    },
+    {
+      "segment_id": "6c3c2cc2",
+      "source_content": "| Category            | Description                                                                                                                                                                                                                                   |\n|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Community Picks     | Community-sourced posts that are often high-quality or entertaining. [Learn more](/docs/key-features/community-picks)                                                                                   |\n| Comparisons         | Posts comparing libraries or tools to aid decision-making.                                                                                                                                             |\n| Listicles           | Posts containing lists, such as \"10 best libraries for X\" or \"5 ways to improve Y\".                                                                                                                    |\n| Memes               | Humorous posts or memes.                                                                                                                                                                               |\n| News                | Tech industry news.                                                                                                                                                                                    |\n| Opinions            | Posts with opinions or personal experiences.                                                                                                                                                           |\n| Releases            | Posts with release notes or announcements.                                                                                                                                                             |\n| Stories             | Posts with stories or personal experiences.                                                                                                                                                            |\n| Tutorials           | Step-by-step guides or how-to posts.                                                                                                                                                                   |",
+      "source_content_hash": "2c8963d40cec497af5b97ef22985461b0e04c1c712669612661af93dd206b0d2",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_6c3c2cc2"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "Use these toggle switches to easily configure your content categories and personalize your daily.dev feed.",
+      "source_content_hash": "8c22c0e1512f1bbb38f9b2c62bfccb00ebc1b815ef3f5dba4e5744507f159cda",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "使用这些切换开关可轻松配置内容类别，个性化您的daily.dev信息流。"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "## Content and Language Filtering",
+      "source_content_hash": "b8635c1616da9833c6f0596e7c93394a4193639eac5ef203fe0b99ca0da74a7a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 内容与语言筛选"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "Filter your feed based on content language by clicking on the \"Feed Settings\" button to open the feed options menu:",
+      "source_content_hash": "565535e399ed088550313ee8c9979597fe0c945731345b1d80413924b86ce8f9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过点击\"信息流设置\"按钮打开选项菜单，按内容语言筛选信息流："
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "![Content and language filtering settings in feed options](https://github.com/user-attachments/assets/e888e32f-3869-4116-9223-2041d2df0e0f)",
+      "source_content_hash": "fd70548b823d19ca3503450da279bd237bcdd998c3dd5664d7a77d3f61b19036",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![信息流选项中的内容与语言筛选设置](https://github.com/user-attachments/assets/e888e32f-3869-4116-9223-2041d2df0e0f)"
+      }
+    },
+    {
+      "segment_id": "60410af6",
+      "source_content": "## Blocked Items",
+      "source_content_hash": "a4a25ca15988a830417a1e602117ef5eeef7bb9c09dab4a08650175205aea709",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 已屏蔽项目"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "In the Feed Settings menu, access the \"Blocked Items\" section to see all sources and tags you have blocked.",
+      "source_content_hash": "ad2a7e14a386b8d660b22cbd10086feb1d819084c88c47d45f3492382d4fc3cb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在信息流设置菜单中，访问\"已屏蔽项目\"部分可查看所有被屏蔽的来源和标签。"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "If you want to block a specific source or tag, refer to our [guide on blocking sources or tags](/setting-up-your-feed/blocking-tags-sources.md).",
+      "source_content_hash": "5482e82eea4bc3d3435c9d565b59265da7c262799e8e40831b3d64c6231fe29b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如需屏蔽特定来源或标签，请参阅我们的[屏蔽来源或标签指南](/setting-up-your-feed/blocking-tags-sources.md)。"
+      }
+    },
+    {
+      "segment_id": "60e88cae",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724401936/docs-v2/449a920d-85d5-45a4-98b8-3aff75ffc4f4.png\" alt='Blocked items section displaying blocked sources and tags' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "e8bbc55b00e0d77dc1be33a635e8dc27d22cb32b0c5d1f7b93b197ced1812e67",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_60e88cae"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/setting-up-your-feed/advanced-filtering-options.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.387300+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "f616e7978822add5327437ffd810af5dc53d155f54bb77788349d7957a0ed653"
+  }
+}

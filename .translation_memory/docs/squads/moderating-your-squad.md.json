@@ -1,0 +1,372 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/squads/moderating-your-squad.md",
+  "source_file_content_hash": "d137c82cf583c80d47a247841cbefb97a21e03720ea6d282dbb1373e44d88c25",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Learn essential moderation tools and permissions management to effectively run and grow your Squad on daily.dev.\"\n---",
+      "source_content_hash": "63349a0d11ab30a73d86d9e157ad6a488c89a8eebbca555407e1f622b2a9d96d",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Moderating Your Squad",
+      "source_content_hash": "48a6434f556a70d10d82a45d6614782853b3c066327e6781feaf85251e380633",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 管理您的技术社群"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Admin, Moderation, and Privacy Settings",
+      "source_content_hash": "3f787d5f129c10b57b6d8ebe0ef40de8c14e8e736a67405ae940e1872ca5d883",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 管理员、审核与隐私设置"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "As a Squad admin, you have various tools and settings to help manage your Squad effectively. These tools enable you to foster a respectful and engaging environment for your members.",
+      "source_content_hash": "37cb4c36d258fe949fb45ea569c1830352ae928814d9c95ecba304e5fa72cb33",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "作为社群管理员，您拥有多种工具和设置来有效管理社群。这些工具能帮助您为成员营造尊重且活跃的交流环境。"
+      }
+    },
+    {
+      "segment_id": "0e7eb58c",
+      "source_content": ":::info\nNote: The tools described here are foundational for Squad management. We’re actively developing advanced moderation options to support even more effective community management.\n:::",
+      "source_content_hash": "537b8894db23c5c02430435a758e66972b8ceacea251f1548fe4405eff4225de",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n注意：此处描述的工具是社群管理的基础功能。我们正在开发更高级的审核选项以支持更高效的社区管理。\n:::"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Key Moderation Features",
+      "source_content_hash": "f458ca66f9cb0cd0d9e64566274321dd6e5b8cad76cd95a4b28ad3ad15b825e7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心审核功能"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "✨ **Post Approval**: Public Squads allow all members to post by default, but admins and moderators must approve posts before they go live. This ensures content aligns with your Squad’s code of conduct and quality expectations.",
+      "source_content_hash": "7f711b06aca809b37225b71b0541fdb635fb9a52b8733329b81bc2cff8935bee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **内容预审**：公开社群默认允许所有成员发帖，但需管理员或版主审核通过后才能发布。这确保内容符合社群行为准则和质量标准。"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "✨ **Content Moderation**: Admins can delete posts and comments that violate guidelines to maintain a healthy discussion environment.",
+      "source_content_hash": "af69eab21afeffa7e757369ba557da2608d5782eb1248f057668d6d1302d2e36",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **内容管理**：管理员可删除违反指南的帖子和评论，维护健康的讨论环境。"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "✨ **User Management**: Block users who repeatedly violate guidelines, and reverse the action if necessary.",
+      "source_content_hash": "b24d0104c20aa4d5a59a2afdb5d054974ad6700f6128fc77caeffdc7520602a1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **用户管理**：可封禁多次违规的成员，必要时可撤销封禁。"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "✨ **Role Assignments**: Assign roles such as moderators or admins to trusted members to distribute management responsibilities.",
+      "source_content_hash": "a41a66350b97ac16619bfe264a1b74190c664c19aa3b6660e8f43d8c9eadd6af",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **角色分配**：将版主或管理员等角色分配给可信成员，分担管理职责。"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "✨ **Reporting and Feedback**: Members can now report inappropriate Squads or posts. Reported content is reviewed by the daily.dev moderation team to maintain a safe and inclusive platform.",
+      "source_content_hash": "e859a0a803df707ff4cd0c5aab582b47f746e3d0bbb9bf689184871e2ae2d9a2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "✨ **举报与反馈**：成员现在可以举报不当社群或内容。被举报内容将由daily.dev审核团队处理，确保平台安全包容。"
+      }
+    },
+    {
+      "segment_id": "3c36424c",
+      "source_content": "## Managing Posts",
+      "source_content_hash": "8ed1eb9795cb641684879504c4b31b265d025549fd110c65f7337e23cac0ada0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 内容管理"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "### Approving and Declining Posts",
+      "source_content_hash": "0a9f7b2807cf89d75d62a355c4463ee10798ef3a5739815722a189156a13e402",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 审核与驳回帖子"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "Public Squads have default settings where all members can post, but posts require admin or moderator approval.",
+      "source_content_hash": "9181d8566ff05f00bcefedc5ad404ebe3bd52123f5eca28106b227cbcea80cc3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开社群默认设置为所有成员可发帖，但需管理员或版主审核。"
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "1. **Approve or Decline Posts**: Review posts in the approval queue.\n2. **Decline with Feedback**: Provide a reason for declining posts to help the author improve.  \n3. **Re-approval for Edits**: Posts must be re-approved after edits to prevent bypassing the moderation process.",
+      "source_content_hash": "7fdd14a828dbc7bb75c8979899b1f0fae08e5da65c46b78a81b9cacdcb19b870",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **审核帖子**：在待审队列中查看帖子  \n2. **驳回时提供反馈**：说明驳回原因帮助作者改进  \n3. **编辑后重新审核**：修改后的帖子需重新审核以防绕过审核流程"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "### Deleting Posts and Comments",
+      "source_content_hash": "f742aa15dccf510177a6a9da49b2a004fa0b4d7980e803fa1ed9aed4bee5ae15",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 删除帖子与评论"
+      }
+    },
+    {
+      "segment_id": "e7bc8c38",
+      "source_content": "1. **Navigate to the Content**: Find the post or comment you need to delete.\n2. **Select \"Delete\"**: Use the options menu to remove the content permanently. Confirm the action in the pop-up window.",
+      "source_content_hash": "063884ee73b639c19a46f407d2d2833ffbebc50cf73f7fefd9b0a49236f20905",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **定位内容**：找到需要删除的帖子或评论  \n2. **选择\"删除\"**：通过选项菜单永久移除内容，并在弹窗中确认操作"
+      }
+    },
+    {
+      "segment_id": "06c0f776",
+      "source_content": "### Blocking Users",
+      "source_content_hash": "9a46ed8bac42853c596060881d8c868d821b570854fea0f84ec2a6a097e08ed9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 封禁用户"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "If a member repeatedly violates guidelines:",
+      "source_content_hash": "bc7c44392d4445647749f287e40026832d1498b330c96e8dcb74c9cf2658843d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若成员多次违反指南："
+      }
+    },
+    {
+      "segment_id": "824626b3",
+      "source_content": "1. **Find the User**: Locate the user in the member list.  \n2. **Select \"Block\"**: This removes them from the Squad and prevents rejoining.  \n3. **Unblock if Necessary**: You can reverse this action through the member list.",
+      "source_content_hash": "fd4240cd90dd888110d23d55e2dd6c4950fd9db9b008cde66413391f10a8331f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **查找用户**：在成员列表定位该用户  \n2. **选择\"封禁\"**：将其移出社群并禁止重新加入  \n3. **必要时解封**：可通过成员列表撤销此操作"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "## Managing Permissions",
+      "source_content_hash": "91c7d99da9e80fecc919b7c4802a300ac443e1f18baed88b42260d56977a5d71",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 权限管理"
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "Control member actions through the \"Permissions\" section in your Squad settings:",
+      "source_content_hash": "4086003df5fd6da1977418430b19eafc5ae7030d0e0b1117b4fbfd177233228b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过社群设置的\"权限\"模块控制成员行为："
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "- **Posting Permissions**: Decide who can post and whether post approval is required (default for Public Squads).  \n- **Invitation Permissions**: By default, all members can invite others to join the Squad. Adjust this if needed.  \n- **Group Guidelines**: Create a pinned welcome post outlining the rules and expectations for members.",
+      "source_content_hash": "405a3a087ff285e8ec9fac23ff1581733329f8da05a0bbdd6b02b79a9f80b18f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **发帖权限**：设置发帖权限及是否需预审（公开社群默认开启）  \n- **邀请权限**：默认所有成员可邀请他人加入，可按需调整  \n- **社群指南**：创建置顶欢迎帖说明成员规则与期望"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "## Member Roles",
+      "source_content_hash": "cc9806b96dc4766dad8115dba747a660a0ca36f1797c8fa15e8fe898d6e862fb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 成员角色"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "Squad members can have different roles with distinct permissions:",
+      "source_content_hash": "054eb7f121c6cc734fe87cf7bb78130bd2fa81997a7457bdd7ad280d1216847d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社群成员拥有不同权限的角色："
+      }
+    },
+    {
+      "segment_id": "3df4f066",
+      "source_content": "- **Member**: Can read and write posts and comments, as allowed by permissions.  \n- **Moderator**: Can manage posts, comments, and members following the rules set.  \n- **Admin**: Full control over posts, comments, members, and Squad settings, including privacy and permissions.",
+      "source_content_hash": "cc05548910c58a4c1010d164d73396ce0845f47bb100d644cdf453d382770eb9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **普通成员**：根据权限可读写帖子和评论  \n- **版主**：按规则管理帖子、评论和成员  \n- **管理员**：完全控制内容、成员及社群设置（包括隐私和权限）"
+      }
+    },
+    {
+      "segment_id": "126950d7",
+      "source_content": "### Managing Roles",
+      "source_content_hash": "1e0ad793b6c62e47c59d89b9bec8815e362ffb9ec5a5f215f600f53ffe4a8802",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 角色管理"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "![Promote to moderator cover image](https://daily-now-res.cloudinary.com/image/upload/v1690470250/docs/Update%20July%202023/promotomod.png)",
+      "source_content_hash": "7e237aa1955476c95b056d52f23d9897320cef7fd759f09bebec3950187dba68",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![晋升版主封面图](https://daily-now-res.cloudinary.com/image/upload/v1690470250/docs/Update%20July%202023/promotomod.png)"
+      }
+    },
+    {
+      "segment_id": "a4bd3cfc",
+      "source_content": "1. **Promoting to Moderator or Admin**: Find a member in the list and select \"Promote to Moderator\" or \"Make an Admin.\"  \n2. **Demoting Moderators**: Demote a moderator back to a member if they fail to meet responsibilities by selecting \"Demote to Member.\"",
+      "source_content_hash": "eaf55b5d906e24b3ff882a5727349d9a71d74f7e01aa9eaa5bef8e850b8b6e19",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **晋升为版主/管理员**：在成员列表选择\"晋升为版主\"或\"设为管理员\"  \n2. **撤销版主权限**：若版主未履行职责，选择\"降为普通成员\""
+      }
+    },
+    {
+      "segment_id": "047c2395",
+      "source_content": "## Privacy Settings",
+      "source_content_hash": "b55e714c820b34ec97d78a9650f2541b911ce5ea8d2e1691a7d0cf22b440e1b3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 隐私设置"
+      }
+    },
+    {
+      "segment_id": "883231d4",
+      "source_content": "Decide whether your Squad is Public or Private:",
+      "source_content_hash": "c11507d40b9b4022758a7382fd3c0e6d30197abcd47f3317ac1b98ae49f494b8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "设置社群为公开或私密："
+      }
+    },
+    {
+      "segment_id": "aa0bd54f",
+      "source_content": "- **Public Squads**: Open and discoverable in the Squads Directory.  \n- **Private Squads**: Invite-only, with content visible only to members.",
+      "source_content_hash": "5fa0d3639736e4d53899e6d92123502666f63cb2c8e2f6d91c2dc0d1259106bd",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **公开社群（Public Squads）**：开放且可在社群目录中被发现。  \n- **私密社群（Private Squads）**：仅限邀请加入，内容仅对成员可见。"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "Public Squads must comply with daily.dev’s content guidelines to maintain their visibility.",
+      "source_content_hash": "3ebb2dc87deabdede443fd4d968d5d9ba7a000c755aab33e1545bfd548577967",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开社群必须遵守daily.dev的内容准则以保持其可见性。"
+      }
+    },
+    {
+      "segment_id": "2fd0be2a",
+      "source_content": "## Tips for Effective Moderation",
+      "source_content_hash": "9ea85e0eee7dfdc4b3349ec609302f9ea0a1acc4ecec2cd8abf7eddb66d4db32",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 高效管理技巧"
+      }
+    },
+    {
+      "segment_id": "c0ea80dd",
+      "source_content": "- Set clear rules and expectations in a pinned post.  \n- Actively review and approve posts to maintain quality.  \n- Assign trusted members as moderators to share the workload.  \n- Regularly engage with members to foster a sense of community.",
+      "source_content_hash": "3e411aa8b81c9abe20f37c10e105aeb55e38d9d0d08df51cb7abe22fe3ba9498",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 在置顶帖子中明确规则和期望。  \n- 积极审核并批准帖子以维持内容质量。  \n- 指派可信成员担任版主分担管理工作。  \n- 定期与成员互动以培养社区归属感。"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "Effective moderation is key to growing a vibrant, respectful, and valuable Squad. 🚀",
+      "source_content_hash": "bcf3b75abd17ad63e6f562ae8adb0570afdeccfcbc0786c3993fb0c99a2f7945",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "高效的管理是培育活跃、互敬且有价值社群的关键。🚀"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/squads/moderating-your-squad.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.382779+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d137c82cf583c80d47a247841cbefb97a21e03720ea6d282dbb1373e44d88c25"
+  }
+}

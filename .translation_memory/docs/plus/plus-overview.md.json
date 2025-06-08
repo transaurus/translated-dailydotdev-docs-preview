@@ -1,0 +1,362 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/plus-overview.md",
+  "source_file_content_hash": "a8fb841a0396f81fa962e7d4b780f5cf2ea885ac69d8e7134447495fe3ccaeb8",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\ndescription: \"Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay focused and streamline your learning.\"\n---",
+      "source_content_hash": "5395955af1c6a994841226f817594d946991aa34bb5c0a566e2868ae6464a1f3",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Plus Overview",
+      "source_content_hash": "f3f09410fba65affe6a671e811006d81b30e1cb3d1ffd5796a6f31801efe361d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# Plus 会员概览"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![daily.dev Plus cover image](https://daily-now-res.cloudinary.com/image/upload/v1740314886/docs/daily.dev_Plus_-_Default.png)",
+      "source_content_hash": "c44ddecac5e3f9f317a80fc557ae40e5778c40523546353376f6cc250de54da0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev Plus 封面图](https://daily-now-res.cloudinary.com/image/upload/v1740314886/docs/daily.dev_Plus_-_Default.png)"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What is daily.dev Plus?",
+      "source_content_hash": "77fcd862a9c98bb03696adec53ef7505e3f7fd9c7f3e3b9483b8a2678029618b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是 daily.dev Plus？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "[daily.dev Plus](https://app.daily.dev/plus) is the premium upgrade for developers who want a cleaner, smarter, and more focused reading experience. Get advanced tools to filter distractions, personalize your feed, and streamline your learning—so you can spend less time sorting through content and more time gaining insights.",
+      "source_content_hash": "4cd1542198cf19706bbec95759ae7ee9f5f9a72985b2ca766515ed7d9e91ac79",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "[daily.dev Plus](https://app.daily.dev/plus) 是为开发者打造的高级订阅服务，提供更清爽、智能且专注的阅读体验。通过高级工具过滤干扰、个性化定制信息流并优化学习效率，让您减少内容筛选时间，专注于获取核心洞见。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## What's included?",
+      "source_content_hash": "ddff1ed9445553d14b32b949aa5a75220dc615b6a04ed0ffa8d9aa472694a832",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 包含哪些功能？"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "### Smart Prompts - Run prompts on any post",
+      "source_content_hash": "4b2bf3b8cc68012c6bc009d9971dee8ecb64a4e6b9efa2b20ae98e5008ef85d0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 智能提示 - 对任意文章执行AI指令"
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare alternatives, or create custom prompts to explore topics from different angles.",
+      "source_content_hash": "cd669de230527780f064325dd5737f711451b68ecc03aaa49fb3da31d8157e67",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "让每篇文章可交互。要求AI简化概念、质疑观点、对比方案，或创建自定义指令从多角度探索主题。"
+      }
+    },
+    {
+      "segment_id": "3b695c37",
+      "source_content": "- Learn faster by breaking down complex ideas\n- Think critically by testing different perspectives\n- Customize your learning with AI-driven insights",
+      "source_content_hash": "157386fa95f713545ad15f08fa4ef83b47d85ad124b4c98f1056d05d5c2926d0",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 通过解构复杂概念加速学习\n- 通过测试不同视角培养批判思维\n- 用AI驱动的洞见定制学习路径"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "👉 [Learn how to use smart prompts](plus/smart-prompts.md)",
+      "source_content_hash": "9ad28eeda0c77027bd407c63491c971561041bc55c604d2c7afc217c4dfea5b4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [了解智能提示使用方法](plus/smart-prompts.md)"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "### Advanced custom feeds",
+      "source_content_hash": "c64d10838758e25563ac45eb7bb5463e5fa614b6e212d41d93137f342d83b02c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 高级自定义信息流"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "Take control of your content with laser-focused feeds tailored to your interests. Whether you follow specific tools, languages, or topics, custom feeds help you surface what matters most—without the noise.",
+      "source_content_hash": "06607c2568d6d7e15515d8a24243f6a86cff70f184ae3b3803c30ef80e3b1f87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过精准匹配兴趣的定制信息流掌控内容。无论您关注特定工具、语言还是主题，都能过滤噪音直达核心。"
+      }
+    },
+    {
+      "segment_id": "5da9e02b",
+      "source_content": "- Save time by skipping irrelevant content\n- Stay ahead with a personalized stream of knowledge\n- Dive deep into niche topics without distractions",
+      "source_content_hash": "59e52446e04deb491207fc46f24ef6a3cabd0f86ee6cdfc61a3fb671818dd639",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 跳过无关内容节省时间\n- 通过个性化知识流保持前沿\n- 无干扰地深入细分领域"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "👉 [Create your first custom feed](plus/custom-feeds.md)",
+      "source_content_hash": "d9e3046d169c88c9b90557457178c67f08c670aca5c9c3be3d13a8b1f7cc1f34",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [创建首个自定义信息流](plus/custom-feeds.md)"
+      }
+    },
+    {
+      "segment_id": "109ace10",
+      "source_content": "### Clickbait Sheild - AI-powered clean titles",
+      "source_content_hash": "fc9240135501682fd1a186ac949da4fe182547cd553c31539ba5a34017d71594",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 标题净化 - AI优化真实标题"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "No more clickbait or misleading headlines. AI rewrites titles so you see the real story before clicking, making it easier to find high-value content without wasting time.",
+      "source_content_hash": "7a42c5b4cbb209598ffb508abf794152203bcb4d74ea41488fc9e45217a8ff10",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "告别标题党。AI重写标题直接呈现核心内容，助您快速识别高价值文章，避免无效点击。"
+      }
+    },
+    {
+      "segment_id": "e7bc8c38",
+      "source_content": "- Avoid distractions and focus on useful articles\n- See accurate titles that reflect real content\n- Make informed choices before clicking",
+      "source_content_hash": "8a230c8041ccf71f5758529314485feb3feac352293200c845063a09b04a5d86",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 规避干扰专注优质内容\n- 获取反映真实内容的准确标题\n- 点击前做出明智选择"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "👉 [See how clickbait shield works](plus/clickbait-shield.md)",
+      "source_content_hash": "bed1f7ffd55a99827321abf7ef5327d616f851c9fa76296bdcf3a54ca383e562",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [了解标题净化原理](plus/clickbait-shield.md)"
+      }
+    },
+    {
+      "segment_id": "8bddee80",
+      "source_content": "### Bookmark folders",
+      "source_content_hash": "520fba5a5c89676c550c2d93ae5f7d2f6d9c96ba2784fd85ad4009325c597f83",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 书签文件夹"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "Save and organize your favorite posts into custom folders so you can always find what you need, exactly when you need it.",
+      "source_content_hash": "69a940baa7d15dd40f34ddb0b929ae66cd26dc3e3f19f8fcb9498323ade1982f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将收藏文章分类存储至自定义文件夹，确保随时快速获取所需资源。"
+      }
+    },
+    {
+      "segment_id": "40251870",
+      "source_content": "- Effortlessly organize saved articles by topic\n- Quickly retrieve key resources for future reference\n- Build your own knowledge library",
+      "source_content_hash": "482f0202c67a5dddde84151fa548d52533b85c2e45e7be03040841903b9e0484",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 按主题轻松整理收藏文章\n- 快速检索未来参考资源\n- 构建个人知识库"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "👉 [Start organizing your bookmarks](plus/bookmark-folders.md)",
+      "source_content_hash": "b046164f701fd64f8972391d0d52e1a8dbcc6b6b9174d22f4bf219d33166c904",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [开始整理书签](plus/bookmark-folders.md)"
+      }
+    },
+    {
+      "segment_id": "2c1b51df",
+      "source_content": "### Ad-free experience",
+      "source_content_hash": "c95353559b5b4242128f584a051955983bbe1dbac2578a2e7fe8eb9031bc457c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 无广告体验"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "No ads. No clutter. Just pure content. Enjoy a cleaner, distraction-free feed where you can focus on learning and discovery.",
+      "source_content_hash": "3ac7f4b221911c13a51e524e6e8b89f35c8385c76f7cd0b6734f372ab669f6f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "零广告零干扰。纯粹的内容环境助您专注学习与探索。"
+      }
+    },
+    {
+      "segment_id": "a0e887c2",
+      "source_content": "- Stay immersed without interruptions\n- Read faster without unnecessary clutter\n- Enjoy a premium experience built for deep focus",
+      "source_content_hash": "df9edae2410c28b18d7897343641604524205251f6db143bb4dd6cb5d42b3409",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 无中断的沉浸式阅读\n- 去除冗余加速阅读\n- 专为深度聚焦设计的体验"
+      }
+    },
+    {
+      "segment_id": "c315c636",
+      "source_content": "### Keyword filters",
+      "source_content_hash": "9b5b2200921f48abf596800648dea28dbd95bc78ec393b4a4d9a90e697254843",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 关键词过滤"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "Mute the buzzwords and topics you don’t care about. Customize your feed by automatically filtering out content that isn’t relevant to you.",
+      "source_content_hash": "2c8b62584bf99d390306fa83d0da909ed9bc26555d0bbad44c6abeb9ac3a024b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "屏蔽无关热词话题。通过自动过滤非相关内容定制专属信息流。"
+      }
+    },
+    {
+      "segment_id": "645e08e3",
+      "source_content": "- Eliminate noise and focus on what matters\n- Reduce frustration by avoiding overhyped topics\n- Streamline your reading with tailored content",
+      "source_content_hash": "cb3a66663998a5b66b9c0dc1bec4d791c70ddd32ca26c0b2bdde92534f2559b1",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 消除噪音聚焦重点\n- 避免过度炒作话题的困扰\n- 通过精准内容提升阅读效率"
+      }
+    },
+    {
+      "segment_id": "147e8550",
+      "source_content": "👉 [Set up your keyword filters](plus/keyword-filters.md)",
+      "source_content_hash": "427cc6aad5eef55913b9d4e69f898c8d2d513aa1fb2ca7af4e65c5f07027440f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [设置关键词过滤](plus/keyword-filters.md)"
+      }
+    },
+    {
+      "segment_id": "daed5acb",
+      "source_content": "### Auto-translate your feed (coming soon)",
+      "source_content_hash": "5b6086a9a14951aa1e6cc9341b47d8e4a85241c9d30ea2df081b89ef77881026",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 信息流自动翻译（即将上线）"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "Read in your preferred language with automatic translations for post titles and summaries, making it easier to access global knowledge.",
+      "source_content_hash": "f6c97f702733be4bc286bce4ba69b1df0e648c7043308e6ae96583e9b2a10d12",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过文章标题与摘要的自动翻译，用首选语言获取全球知识。"
+      }
+    },
+    {
+      "segment_id": "6384b3d4",
+      "source_content": "- Break language barriers and expand your learning\n- Discover new sources without limitations\n- Stay informed no matter the language",
+      "source_content_hash": "f60f35d4d68c4e98b7eda016068c12c231cdc97400ae59dfe409b3b228dc051d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 突破语言壁垒拓展学习边界\n- 无限制发现新资源\n- 跨越语言障碍保持信息同步"
+      }
+    },
+    {
+      "segment_id": "8a9b6c26",
+      "source_content": "## Still not on Plus?",
+      "source_content_hash": "6c622df9c9d65dc9f8b45be2a0a14a9a5ac6fb7c8a0efe3c8841c0212c330033",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 尚未升级Plus？"
+      }
+    },
+    {
+      "segment_id": "a1fa5396",
+      "source_content": "daily.dev Plus gives you more control, clarity, and customization—so you can focus on what truly matters.",
+      "source_content_hash": "e792fecd1756c7dc62ca9ce3db3c38de34962c48d00729bca7d6f626b8efe5c4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev Plus 提供更强的掌控力、清晰度与定制化——让您专注真正重要的内容。"
+      }
+    },
+    {
+      "segment_id": "ec619944",
+      "source_content": "👉 [Upgrade to daily.dev Plus](https://app.daily.dev/plus)",
+      "source_content_hash": "88bdce25c1bc958bac5f90f2734a73121fa60211ab85795e70c373e0fca5994e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "👉 [立即升级 daily.dev Plus](https://app.daily.dev/plus)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/plus-overview.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.390275+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "a8fb841a0396f81fa962e7d4b780f5cf2ea885ac69d8e7134447495fe3ccaeb8"
+  }
+}

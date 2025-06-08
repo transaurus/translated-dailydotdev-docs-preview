@@ -1,0 +1,272 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/plus/clickbait-shield.md",
+  "source_file_content_hash": "7edee01d724e06ab3639832f7f74f1360d8b895d4b6db1d9546c1909ab79c4bc",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\ndescription: \"Clickbait Shield on daily.dev uses AI to optimize post titles by removing clickbait, improving clarity, and eliminating promotional language. Available exclusively for Plus subscribers, it delivers a cleaner, more informative reading experience.\"\n---",
+      "source_content_hash": "cff3c556d488b76c13d3b57568dc18eda19ada91890a8805aa31d9a7f50df77b",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Clickbait Shield",
+      "source_content_hash": "66427ceb9841327751c9a341e4b6074c12f4ac09715d8a1c70478a45c247f84e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 标题党防护盾"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "![Clickbait Shield cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315001/docs/jGrf9xJUD.jpg)",
+      "source_content_hash": "ec02c30da4c5a932ecc30cbc049551e128d14778fb927f1508c2a4de2949d8fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![标题党防护盾封面图](https://daily-now-res.cloudinary.com/image/upload/v1740315001/docs/jGrf9xJUD.jpg)"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## What Is Clickbait Shield?",
+      "source_content_hash": "e7bdee4ec866e2d2461abe77bc4d1124a96a75a60babfac35dd53b505e9b6cac",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是标题党防护盾？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "**Clickbait Shield** is an AI-powered feature that automatically optimizes post titles by removing clickbait, improving clarity, and eliminating overly promotional language. It refines titles across your feed so you can quickly identify the most relevant content—making your reading experience faster, clearer, and more trustworthy.",
+      "source_content_hash": "4343b02cf419094b6efe24391a87e578e31df6f82f3fd91a778d636bc36b9c9a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**标题党防护盾**是一项AI驱动功能，通过自动优化文章标题来消除标题党、提升清晰度并剔除过度营销话术。它能全面优化信息流中的标题，帮助您快速识别最有价值的内容，使阅读体验更高效、更清晰、更可信赖。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Available exclusively for **Plus** subscribers, Clickbait Shield ensures every title you see is accurate, informative, and aligned with the actual content of the post.",
+      "source_content_hash": "8a8aca05c3e816e20feebedbc616e0528bbf96cb8803a288a703c57c8cd14871",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "该功能为**Plus订阅会员**专属，确保您看到的每个标题都准确、信息丰富且与文章实际内容高度匹配。"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Why Use Clickbait Shield?",
+      "source_content_hash": "c760547b3068e5ea70d2f04394d6d802c645015e870e64a086b27e9cbcdfe6a6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为何使用标题党防护盾？"
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "- **Skip misleading titles** – Eliminate clickbait and focus on valuable content.  \n- **Find what matters faster** – Clear, concise titles help you assess relevance at a glance.  \n- **Stay in control** – Easily toggle the feature on or off based on your preferences.  \n- **Enjoy unlimited enhancements with Plus** – See optimized titles across your entire feed.",
+      "source_content_hash": "b91c90e14514ecb1a9a9657418b0cd89b4b613294e044e75cbc2868318fcd45b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **跳过误导性标题**——消除标题党，专注有价值内容  \n- **更快定位关键信息**——清晰简洁的标题助您快速判断相关性  \n- **完全掌控体验**——可根据偏好随时开启或关闭该功能  \n- **Plus会员无限增强**——全信息流标题自动优化"
+      }
+    },
+    {
+      "segment_id": "40f9552a",
+      "source_content": "## How Does the AI Work?",
+      "source_content_hash": "1ea42f67c77a15f0afa78d4c5bb6e059221d645f3115c687eded72f6e158c130",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## AI如何运作？"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "Clickbait Shield runs seamlessly in the background, analyzing every new post on daily.dev. The AI enhances titles by making them:",
+      "source_content_hash": "7fb99f538742832d8f4ef994598d47ab22cb88e5b1c509e652eebc01badb3407",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "标题党防护盾在后台静默运行，实时分析daily.dev上的每篇新文章。AI通过以下方式优化标题："
+      }
+    },
+    {
+      "segment_id": "0cc488ed",
+      "source_content": "- **More accurate** – Aligned with the content of the post.  \n- **Clear and concise** – Easy to understand at a glance.  \n- **Neutral** – Free from unnecessary hype or bias.",
+      "source_content_hash": "00a09f2c7139fbcb3c451cf608947fe704a70f9eb02dc31fc53d305578d8cf82",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **更准确**——与文章内容高度契合  \n- **更清晰简洁**——一目了然的表达  \n- **更中立**——剔除不必要的夸张或偏见"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "## Key Features",
+      "source_content_hash": "9214cf33ff90e03f0531d7f7aa0acc0dc8c37a382092e325d7e26659930e0c52",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心功能"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "### AI-Enhanced Titles",
+      "source_content_hash": "2338ed0f31431bf23542ef5dde03a4cf23cdf3297583a98d2c27b755d70f1e1b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### AI增强标题"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "Clickbait Shield automatically improves post titles by:",
+      "source_content_hash": "7865ab9f50e31d5540927673290aa652aad106d2bc6a60124191423640e765ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "标题党防护盾通过以下方式自动优化文章标题："
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "- **Removing clickbait** – Strips out exaggerated or misleading phrasing.  \n- **Improving clarity** – Makes titles more direct and informative.  \n- **Adjusting length** – Shortens overly long titles or expands overly brief ones for readability.  \n- **Neutralizing promotional language** – Cuts out unnecessary hype and sales-driven tones.",
+      "source_content_hash": "486883151ce9145a3aae1fd81c8b4e4f60677646c781b5434a8aa67ae613884f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **消除标题党**——剔除夸大或误导性措辞  \n- **提升清晰度**——使标题更直接、信息量更丰富  \n- **调整长度**——缩短冗长标题或扩展过简标题以提升可读性  \n- **中立化营销语言**——去除不必要的炒作和销售话术"
+      }
+    },
+    {
+      "segment_id": "62a6890b",
+      "source_content": "### Title Enhancement Indicators",
+      "source_content_hash": "5aa454d301b733c6ba36d8ca5467b36710fec2a38d6a518a3f33bff5d36e9871",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 标题优化标识"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "An icon highlights posts where a title has been optimized. As a **Plus subscriber**, enhancements are automatically applied across all posts in your feed.",
+      "source_content_hash": "57b4788dfffb43686356feacac7873c7a66b3995bd910988f9bc29906920c790",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "优化后的标题会显示特殊标识。作为**Plus订阅会员**，全信息流文章标题将自动获得优化。"
+      }
+    },
+    {
+      "segment_id": "8d04259b",
+      "source_content": "### Customizable Experience",
+      "source_content_hash": "894bb6a046b487ab44cbbb8276d4e3df5ac3e269088334e6d58a0ad914806326",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 可定制体验"
+      }
+    },
+    {
+      "segment_id": "bdfae007",
+      "source_content": "- **Plus users** – Toggle **Clickbait Shield** on or off anytime from the **Feed Settings** for full control over your reading experience.",
+      "source_content_hash": "03b6fb52a002f3aa5b73b8800ec313810d82c10ea1af09e0121de5bdb5e12ed9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **Plus用户**——可随时在**信息流设置**中开启或关闭**标题党防护盾**，完全掌控阅读体验"
+      }
+    },
+    {
+      "segment_id": "35a77014",
+      "source_content": "### Original vs. Enhanced Comparison",
+      "source_content_hash": "bf25b30d3e88b27ecca3e82a8b5815c9a15d924b4c0794b3800aead232da7df2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 原始标题与优化对比"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "Compare the original and optimized versions of titles directly from your feed, so you can see exactly how Clickbait Shield improves content clarity and relevance.",
+      "source_content_hash": "603276481273a589107aae1b3f9b5ec6a157b039ba6d456556b9a97a91e29e8a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "直接在信息流中对比优化前后的标题版本，清晰了解标题党防护盾如何提升内容清晰度与相关性。"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "## How It Works",
+      "source_content_hash": "f029fb0d33f0802e53458729c7a20710b671d86867fd9cb957609a4af8aee229",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 使用指南"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "### For Plus Subscribers",
+      "source_content_hash": "6cc4c76f97bd343f2f01bd5f9720081d0ee2ea8ddfffd01f8b0d19871f49146d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### Plus订阅会员专属"
+      }
+    },
+    {
+      "segment_id": "ddd2c7ae",
+      "source_content": "1. Access **Feed Settings** , got to **AI Superpowers** and toggle **Clickbait Shield** on or off.  \n2. See enhanced titles automatically applied across all posts.  \n3. Use the comparison feature to view original and optimized versions directly from the feed.  \n4. Enjoy unlimited title enhancements for a distraction-free reading experience.",
+      "source_content_hash": "7e275549ad063794c7a4a595138130dad4cd280b8a9d97834657c5811ae54274",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 进入**信息流设置** → **AI超能力** → 切换**标题党防护盾**开关  \n2. 查看全信息流自动应用的优化后标题  \n3. 使用对比功能直接在信息流中查看原始与优化版本  \n4. 享受无限制的标题优化，获得零干扰阅读体验"
+      }
+    },
+    {
+      "segment_id": "2c1b51df",
+      "source_content": "## Free vs. Plus Access",
+      "source_content_hash": "8dd3d38886e6b5cf8fe5da428ee1eac840fc197a6612e1fceb5c26b158851c33",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费版 vs Plus版"
+      }
+    },
+    {
+      "segment_id": "68267445",
+      "source_content": "| Feature                  | Free Users        | Plus Subscribers |\n|--------------------------|-------------------|------------------|\n| Title Enhancements       | ❌                | Unlimited        |\n| Automatic Title Updates  | ❌                | ✅               |\n| Original vs. Enhanced Comparison | ❌        | ✅               |\n| Customization Options    | ❌                | Full control     |",
+      "source_content_hash": "9a3ef8c47e0e9346bc3b4b0455be39e720b4795c24165b891772db837c8fc3eb",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_68267445"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/plus/clickbait-shield.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.392099+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "7edee01d724e06ab3639832f7f74f1360d8b895d4b6db1d9546c1909ab79c4bc"
+  }
+}

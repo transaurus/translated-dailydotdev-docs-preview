@@ -1,0 +1,132 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/reading-history.md",
+  "source_file_content_hash": "d27200a753e92af93f13ff40ab2eac1bfb7399cdb6c74d9c7fc0ec28166a9478",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\ndescription: \"Access your daily.dev reading history to revisit posts, bookmark, upvote, or share. Learn how to make the most of this feature to stay organized and never lose track of valuable content.\"\n---",
+      "source_content_hash": "1e8c9a9c9432f6897a785c5fe50518396e01992e82218219d018069da50a8815",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Reading History",
+      "source_content_hash": "c6d7b69a8002ccf04fb61bdf69a6e09912254aae4fb9c6acebeda307b480e02f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 阅读历史"
+      }
+    },
+    {
+      "segment_id": "37387e33",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png\" alt='Access and track your daily.dev reading history' width=\"900\" height=\"900\" />",
+      "source_content_hash": "cb2d39fa66f723ab952fa6be57cb5ece3b23d3d3c8cfc151555300e98815cf26",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_37387e33"
+      }
+    },
+    {
+      "segment_id": "1cc03ec8",
+      "source_content": "## How Does Reading History Work?",
+      "source_content_hash": "171d888950ca1af21d45478371c9cfb8e6389a29af58f1728963b13da9903f46",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 阅读历史如何运作？"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "At daily.dev, we understand the challenge of keeping up with engaging content in a constantly changing feed. The **Reading History** feature lets you track every post you've read, so you never lose sight of valuable content. When you read a post, it may disappear from your feed after a few minutes due to the feed algorithm. With Reading History, you can easily revisit any post, even if it's no longer in your feed.",
+      "source_content_hash": "9b8e21ef670e2821b4d0bc971259dbccbd1f21abe6dacd29122f8df90c1f2cca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev，我们理解在不断变化的动态中追踪优质内容的挑战。**阅读历史**功能可记录您阅读过的每篇文章，确保您不会错过有价值的内容。当您阅读某篇文章后，由于算法更新它可能会在几分钟后从动态中消失。借助阅读历史功能，您可以轻松重新访问任何文章，即使它已不在您的动态中。"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Additional options available within reading history:",
+      "source_content_hash": "2487cfd7e16bd250a7cf49aff8447acc21023d7a0faedde26161336209a83b94",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "阅读历史中提供的附加操作："
+      }
+    },
+    {
+      "segment_id": "4269e691",
+      "source_content": "- Save the post in your bookmarks.\n- Upvote or downvote the post.\n- Share the post.\n- Remove the post from your reading history.",
+      "source_content_hash": "edd5ef989c8979c60f75f8678853fe1a5469ea72fd7da699793af3d8ae7320a8",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 将文章保存至书签\n- 对文章进行点赞或点踩\n- 分享文章\n- 从阅读历史中移除文章"
+      }
+    },
+    {
+      "segment_id": "bc633244",
+      "source_content": "## How to Access Your Reading History",
+      "source_content_hash": "d0b080bf3915f77fe4cd102a52cc6cc69a83175498353afa9597849f4366ee99",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何访问您的阅读历史"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "Accessing your reading history on daily.dev is straightforward. Here’s how:",
+      "source_content_hash": "1defb113cb6b8fb08ed1971767ab502a8567bfd3a1e30a0957ab356512cc538d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在daily.dev访问阅读历史非常简单，具体步骤如下："
+      }
+    },
+    {
+      "segment_id": "8cf6d045",
+      "source_content": "1. **Direct URL Access**: Visit your reading history directly at [https://app.daily.dev/history](https://app.daily.dev/history). This page lists all the posts you’ve read, organized by date and time.\n2. **Sidebar Access**: Click the **\"History\"** button in the sidebar. This brings you instantly to your reading history page, where you can view all previously read posts.",
+      "source_content_hash": "7ba5290ef2f62e13d7656d072118f40e46c872b922a630fe57e2cde941b7bb9d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **直接URL访问**：通过链接[https://app.daily.dev/history](https://app.daily.dev/history)直达阅读历史页面。该页面按日期和时间排序展示所有您阅读过的文章。\n2. **侧边栏访问**：点击侧边栏的**\"历史\"**按钮，立即跳转至阅读历史页面，查看所有已读文章。"
+      }
+    },
+    {
+      "segment_id": "358a309f",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1724396047/docs-v2/56849ac9-ba34-4c92-9f67-5ac48635a040.png\" alt='Access your reading history directly from the sidebar' width=\"900\" height=\"900\" />",
+      "source_content_hash": "5535573db20b0ba36592b9a863bec368ec9d42d1bacd406416bef6565a4fb960",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_358a309f"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "With Reading History, you can effortlessly revisit valuable content, track your learning journey, and stay organized on daily.dev. Say goodbye to losing track of posts you’ve read—access them anytime from your profile!",
+      "source_content_hash": "ae64ab5e27c569a762cccd875876386561e11a9d3b968e1940b8388ff799d20b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过阅读历史功能，您可以轻松回溯有价值的内容、追踪学习历程，并在daily.dev上保持高效组织。从此不再担心丢失已读文章——随时通过个人资料访问它们！"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/reading-history.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.383933+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "d27200a753e92af93f13ff40ab2eac1bfb7399cdb6c74d9c7fc0ec28166a9478"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/squads/growing-your-squad.md",
+  "source_file_content_hash": "c2f67b49810fb5ddb4242edd405f00ab13022cf3528c7445afd72d88f076c25b",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Learn effective strategies for growing your Squad on daily.dev, including post management, inviting members, and transitioning to Public status.\"\n---",
+      "source_content_hash": "b4f3d9b7b7db4fa994f513154bb5d892a137cb2d6befc097d1eafc3f6f883927",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Growing Your Squad",
+      "source_content_hash": "4ad67585c92f9e60f12a9d242a1e7f0f31f7893e5e0d4f3511590402f60d38a9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 发展你的技术社群"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Managing Posts",
+      "source_content_hash": "8ed1eb9795cb641684879504c4b31b265d025549fd110c65f7337e23cac0ada0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 帖子管理"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "In a Squad, posts are essential for sparking discussion and engagement. They provide a space for you and your members to share valuable content and initiate meaningful conversations.",
+      "source_content_hash": "f3331a171204c5ea413af47c9e93e47b9f3191290eacc366b2c04934de923d42",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在技术社群中，帖子是激发讨论和互动的核心要素。它们为你和成员们提供了分享有价值内容和开启深度对话的空间。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Creating a Post",
+      "source_content_hash": "b8544dcc41186190c6b68f383eabfd87385d6aa8412e4b9417357c637e360e29",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 创建帖子"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "1. **Create a New Post**: Inside your Squad, click on the \"New Post\" button.\n2. **Add Content**: Write a post from scratch or share links from the daily.dev feed or external sources. Add a title and description to give context to your members.\n3. **Post**: Click \"Post\" to share your content with the Squad.",
+      "source_content_hash": "49ab55ed6f95b249cf9cf4964e0b6bf7ccf834b44efec2f900729eb107f84c83",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **新建帖子**：在社群内点击\"新建帖子\"按钮  \n2. **添加内容**：撰写原创内容或分享来自daily.dev信息流/外部链接的优质内容，添加标题和说明为成员提供背景  \n3. **发布**：点击\"发布\"将内容分享至社群"
+      }
+    },
+    {
+      "segment_id": "440191a5",
+      "source_content": ":::tip\nBoth posts and comments support full Markdown, allowing you to format text, add code snippets, and more.\n:::",
+      "source_content_hash": "6728c88d199fd93dc8aeb9d6cdb1c58f98ccceb42b5a9eee897e3e53e6344a14",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n帖子和评论均支持完整Markdown语法，可进行文本格式化、插入代码片段等操作  \n:::"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "## Sharing Posts from the Feed",
+      "source_content_hash": "f50c3699110b9a1b3db09a5c7bcf64cbc690766b9ae483e45e7aa44b54515d47",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 从信息流分享帖子"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "![New post from feed option](https://daily-now-res.cloudinary.com/image/upload/v1690470252/docs/Update%20July%202023/Post_to_Squads_from_your_feed_.png)",
+      "source_content_hash": "1b7922ee9f59104cce00be1ee0f58e018c4afa7fba118f117c91d2509549fed9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![从信息流新建帖子选项](https://daily-now-res.cloudinary.com/image/upload/v1690470252/docs/Update%20July%202023/Post_to_Squads_from_your_feed_.png)"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "Sharing interesting posts from the daily.dev feed to your Squad is a great way to spark discussions:",
+      "source_content_hash": "55819945a4b16bf4fb991a6438c3f19a17a443073eae53f3bc68292dfaab3ef8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "将daily.dev信息流中的优质内容分享至社群是激发讨论的有效方式："
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "1. Navigate to the daily.dev feed.\n2. Find a post you’d like to share with your Squad.\n3. Click on the \"Share\" icon.\n4. Choose the Squad you want to share the post with.\n5. Add your commentary and hit \"Post.\"",
+      "source_content_hash": "8afe8514b660222d39ee3098ac1f0810babd218335bb5f5e3267f1a50e1b894a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 进入daily.dev信息流页面  \n2. 定位目标分享内容  \n3. 点击\"分享\"图标  \n4. 选择目标社群  \n5. 添加评述后点击\"发布\""
+      }
+    },
+    {
+      "segment_id": "b56ef571",
+      "source_content": ":::tip[]\nYou can also use our 1-click share feature. When you're on the post page, you'll see all your Squads on the right side of the page. Click the Squad icon to share the post directly.\n:::",
+      "source_content_hash": "053c405b412b7cf8c8e89c091bd3f6023393d5566dd211a150d8f146cc3626e4",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip[]\n可使用一键分享功能：在帖子详情页右侧会显示所有关联社群，点击对应社群图标即可快速分享  \n:::"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "## Commenting on a Post",
+      "source_content_hash": "596f12ce757b99e75512a1538174e3d7b0402a6349396e44168376e4f80d83ec",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 帖子评论功能"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "Keep the conversation going by adding comments to posts:",
+      "source_content_hash": "3b69d67e3a7c9c125409f5589cc42d1385206ea0c20894c786ff6ecc3169c362",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过评论延续对话热度："
+      }
+    },
+    {
+      "segment_id": "8612da05",
+      "source_content": "1. **Select a Post**: Click on the post you want to comment on.\n2. **Write a Comment**: At the bottom of the post, you’ll find a comment box. Share your thoughts, questions, or insights.\n3. **Post Your Comment**: Click \"Post Comment\" to add your input to the discussion.",
+      "source_content_hash": "ae2d6fbb76683b49b50827f2014e28a1ae16219b9d6035e0827da12db94cc054",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **选择帖子**：点击目标讨论帖  \n2. **撰写评论**：在帖子底部的评论框输入观点/问题/见解  \n3. **发布评论**：点击\"发布评论\"参与讨论"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "By actively creating posts and engaging in discussions, you can cultivate an active and vibrant community in your Squad.",
+      "source_content_hash": "2852eb4a90915c6bb960fa6fbd4c54f8a2aa883fc3573a25c03bab939ad209c9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过持续创建优质内容和积极参与讨论，你将培育出活跃的技术社群生态"
+      }
+    },
+    {
+      "segment_id": "c674e260",
+      "source_content": "## Inviting People to Your Squad",
+      "source_content_hash": "dc06f132e7f87e7606bf4593663a0f5dbbac08fa4b48e3d7ebfca134ac59d0b4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 成员邀请机制"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "Building your Squad starts with inviting other developers to join:",
+      "source_content_hash": "fbf50b995accecc9424cfd20bdb8110bec8c12f16bb903977ae30d7340f566d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社群建设从开发者邀请开始："
+      }
+    },
+    {
+      "segment_id": "b4ef1e56",
+      "source_content": "1. **Access Your Squad**: Navigate to your Squad from the left sidebar.\n2. **Invite Developers**: Click the \"Copy invitation link\" button to copy your invitation link.\n3. **Send Invitations**: Share your invitation link via email, messaging apps, or social media.",
+      "source_content_hash": "53f2557451bfba7d5b9e73f729f90b5108cb39c150ee8fe12df465b4d59e9a77",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **进入社群**：通过左侧导航栏访问你的社群  \n2. **生成邀请**：点击\"复制邀请链接\"按钮获取专属邀请链接  \n3. **多渠道分发**：通过邮件/即时通讯/社交媒体等渠道分享邀请链接"
+      }
+    },
+    {
+      "segment_id": "f90b9a6a",
+      "source_content": ":::info\nEncourage members to invite peers who may be interested in your Squad’s topics to grow your community.\n:::",
+      "source_content_hash": "db538c036f52652ae326e4489bc4a6954c34ea3721c8247b500217c251144aad",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n鼓励现有成员邀请对该社群主题感兴趣的同侪加入，实现裂变增长  \n:::"
+      }
+    },
+    {
+      "segment_id": "ab5fc5b5",
+      "source_content": "## The New Squads Directory",
+      "source_content_hash": "a739df9eeeef8b563834b9d511009c2a086f683247b59c8b2f80432de7f1ecbc",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 新版技术社群目录"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "Public Squads are now automatically added to the [Squads Directory](https://app.daily.dev/squads), a curated space where developers can discover communities that align with their interests.",
+      "source_content_hash": "35380042b023b7bca04e4f1f9e1053c52fc495d8669bb689031dc51c0d37f4f5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公开社群现已自动收录至[技术社群目录](https://app.daily.dev/squads)，开发者可在此发现符合兴趣的优质社群"
+      }
+    },
+    {
+      "segment_id": "c315c636",
+      "source_content": "### Categories in the Directory",
+      "source_content_hash": "0e065bb4383f65265a2ec0bb8b3ae2866ed359e2fb591fab36ab60a9c264e7b1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 目录分类体系"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "When creating a Public Squad, you must select a category that fits your Squad's theme. Categories include:",
+      "source_content_hash": "9f018c72a2dbe5e99f5934fb34b0720a569ef4adbbff77b8d7c22a7dc03047aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "创建公开社群时需选择最匹配的主题分类，当前分类包括："
+      }
+    },
+    {
+      "segment_id": "180e9ce9",
+      "source_content": "- **Featured**: Editor’s choice for top Squads on the platform.  \n- **Languages**: Programming language-specific communities.  \n- **Web, Mobile, DevOps & Cloud, AI, Games**: Development-focused categories.  \n- **DevTools**: Squads by or for developer tools companies.  \n- **Career**: Topics around career growth, leadership, and skills development.  \n- **Open Source, DevRel, Fun**: Specialized communities for unique developer interests.",
+      "source_content_hash": "b17163c86efcb3dce440a6aea948e8af4ff10820bd74e708c43b99175b089ede",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **精选推荐**：平台官方认证的顶级社群  \n- **编程语言**：特定语言开发者社区  \n- **Web开发/移动开发/DevOps与云/AI/游戏开发**：垂直技术领域  \n- **开发者工具**：工具厂商建立的官方社群  \n- **职业发展**：职场晋升/技术领导力/技能提升  \n- **开源/开发者关系/趣味社群**：特色开发者社群"
+      }
+    },
+    {
+      "segment_id": "daed5acb",
+      "source_content": "### Tips for Gaining Visibility in the Directory",
+      "source_content_hash": "0d009dd5eafa01dcbc3b74f5e5972dcbc9706fe5566a6e0dc3e596ae259dbf8b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 目录曝光优化指南"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "To improve your chances of being featured in the directory:",
+      "source_content_hash": "9d9f0fd07f8e3c176fa35f72eed4dc1c6cd22c900fff6329da416112c9715d2c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "提升社群入选目录推荐位的策略："
+      }
+    },
+    {
+      "segment_id": "caffd879",
+      "source_content": "1. **Optimize Your Metadata**: Add an engaging image, clear description, and select the most relevant category.  \n2. **Grow Membership**: Invite members to join and participate actively.  \n3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.",
+      "source_content_hash": "c30a76e9cf190912064d81edf3190ebca173a8f77f153662f6eb29f3f0df19cf",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **元数据优化**：配置吸引人的封面图/清晰的描述说明/精准的分类标签  \n2. **成员增长**：积极邀请目标开发者加入并保持互动  \n3. **内容运营**：定期发布高质量内容提升社群活跃度"
+      }
+    },
+    {
+      "segment_id": "b936dd6a",
+      "source_content": "## Building an Engaged Community",
+      "source_content_hash": "d24cb0de05b05c3ef750e6cc04ca97a4d3bad19d66ce1e25c047260b31f3a972",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 构建活跃社区"
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "An active Squad is key to growth. By regularly posting, approving member contributions, and sparking discussions, your Squad can become a vibrant hub for developers.",
+      "source_content_hash": "49a6a77a5c3c560c9aefe7cf9007271ec22a30299591924267d757299ccda3ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "活跃的社群是发展的关键。通过定期发布内容、审核成员贡献并激发讨论，您的Squad可以成为开发者们充满活力的交流中心。"
+      }
+    },
+    {
+      "segment_id": "fbc2db85",
+      "source_content": "Good luck with growing your Squad! 🚀",
+      "source_content_hash": "564c0a4dd002670ab4c5f78e071124b54c315bfa194e177c4a5245d00f0cbd2f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "祝您的社群发展顺利！🚀"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/squads/growing-your-squad.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.381843+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "c2f67b49810fb5ddb4242edd405f00ab13022cf3528c7445afd72d88f076c25b"
+  }
+}

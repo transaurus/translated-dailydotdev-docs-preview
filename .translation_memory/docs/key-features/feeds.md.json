@@ -1,0 +1,372 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/key-features/feeds.md",
+  "source_file_content_hash": "06f9a28e1403d90271d7337fc0a55dfc6acc52b4924cbee953d26e7f1397eec5",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Learn about the different feeds on daily.dev, including My Feed, Popular Feed, Most Upvoted Feed, and Best Discussions Feed, and how to customize them.\"\n---",
+      "source_content_hash": "00a197ebdb7774656d93c08b5d2e6266f9bf5ff1fac3add66f11656306bc7b2d",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Feeds",
+      "source_content_hash": "30131fa76a3680632dfcf4dc55217be6151eebd822b222e09cfd1d76f94e42fe",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 信息流"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "There are four feeds on daily.dev, each with its own ranking logic:",
+      "source_content_hash": "f88881fa658846fdea1192d92ad67b85bd569b84926e15f8e23ded939c6aa84c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "daily.dev提供四种信息流，每种都有独立的排序逻辑："
+      }
+    },
+    {
+      "segment_id": "4a5b6a68",
+      "source_content": "1. My feed\n2. Popular feed \n3. Most upvoted feed\n4. Best discussions feed",
+      "source_content_hash": "515623bb601af4f965c76e23f482ec7b6fdbf2fa7796b7cfbe582c54f34054d2",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 我的订阅流\n2. 热门内容流\n3. 最多点赞流\n4. 最佳讨论流"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "Prefer a video version? Check out this 6-minute video that explains each feed in detail:",
+      "source_content_hash": "7dbfc2240431ce115b27e55fc634d0deed7456d859fea866a88b9a3fa5959795",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "更喜欢视频讲解？这个6分钟的视频详细说明每种信息流："
+      }
+    },
+    {
+      "segment_id": "514644bf",
+      "source_content": "<iframe width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/-NIuN8m5Pe8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "source_content_hash": "387c8167ebd1d50f83a54533e5492a67d247e85f5c5115433c08bab0b97fd319",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_514644bf"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## My feed",
+      "source_content_hash": "bffd2e1a5a34151947d414c1353cf4fe78c61a0765c352d561d2342b73efcfa6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 我的订阅流"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "Your feed contains posts that are relevant to you and your interests (once you have set it up).",
+      "source_content_hash": "03b3575c2c24c6484a3ad196edbe0b4c295abe9e8dfb1e1ef08946c4155cc7db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "该信息流会基于您的兴趣偏好展示相关内容（完成设置后）。"
+      }
+    },
+    {
+      "segment_id": "40f9552a",
+      "source_content": "### Creating your personal feed",
+      "source_content_hash": "c4edb12d77fa0d8b051996a495c788b8f06303e13687d8bd47b075b97f7f9a8b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 创建个性化信息流"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.",
+      "source_content_hash": "0628d8d3c54d2197db193c7af03db9b59f091c5d25bfe563ed5ba030af329a0c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "新用户首次使用时，我们强烈建议先设置信息流过滤器。这将释放daily.dev的全部潜力，精准推送符合您兴趣的内容。"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "There are three guides to help you get the most out of your feed:",
+      "source_content_hash": "9f72a6c56a8607ed6ccf0a9d25515af89f5627a38101ef9a445c5c20c7b8e148",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "我们提供三份指南帮助您优化信息流："
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "1. A detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).\n2. A guide on how to [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).\n3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed.",
+      "source_content_hash": "2303ff9bef12f0e38e68c1b6e15206368f804343630281560c6eaa0438458844",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. [信息流设置详细指南](/docs/setting-up-your-feed/filtering-content-feed)\n2. [调整信息流内容类型指南](/docs/setting-up-your-feed/advanced-filtering-options)\n3. [屏蔽标签和来源指南](/docs/setting-up-your-feed/blocking-tags-sources)"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "Once you have followed the steps in these guides, you will have \"My Feed\" set up exactly to your preferences!",
+      "source_content_hash": "aff83b100533fd3ea7cdb8885cb07bcc2e8c099c21475083155973c5622fa4ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "完成上述设置后，您的\"我的订阅流\"将完全匹配个人偏好！"
+      }
+    },
+    {
+      "segment_id": "a1b3d8cb",
+      "source_content": "## Popular feed",
+      "source_content_hash": "25468dc01d670c43e6e95ad3a5af5982701b5db0d9b5086280226b055efd0f03",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 热门内容流"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic, and receiving positive responses from the daily.dev community (either via upvotes or positive comments).",
+      "source_content_hash": "04c3b7f58c3610bda4534dbdb33674e6518afd8ef1dbd504ef507043f38a341d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "该信息流通过算法排序，为您呈现近期高热度、高流量且获得社区积极反馈（点赞或正面评论）的内容。"
+      }
+    },
+    {
+      "segment_id": "80d9e13c",
+      "source_content": "### Ranking overview for the popular feed",
+      "source_content_hash": "7bab55e7e6d92f7d0b0b8becfc2c1eee8e4a35c51e89ad9dcb59042f658a9834",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 热门流排序机制"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "Once a post is featured on daily.dev, it begins to rank based on various factors, such as:",
+      "source_content_hash": "1db15bd9d346e74c8a59b860f267fe668577604c9f414ddaa388869a3324b85e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "内容进入daily.dev平台后，将根据以下维度进行排序："
+      }
+    },
+    {
+      "segment_id": "8612da05",
+      "source_content": "* The number of unique reads the post has received\n* The number of upvotes the post has obtained from our community members\n* The freshness of the post, or how recently it was published\n* Other parameters related to content quality and engagement levels",
+      "source_content_hash": "f6fd309effe191802ff278c67892a33386a01739f0561731158b8385ff37686f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* 内容独立阅读量\n* 社区成员点赞数量\n* 内容新鲜度（发布时间）\n* 其他内容质量和参与度参数"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "By considering these factors, we aim to increase the likelihood of interesting and valuable posts surfacing to the top of the feed.",
+      "source_content_hash": "caa171e1fb2b69809fdb9e2ce6a00167a00be71620b2f8ad16a2a64a7eb378b9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过多维度评估，我们致力让最有价值的内容出现在信息流顶端。"
+      }
+    },
+    {
+      "segment_id": "6f930b2f",
+      "source_content": "### Sorting by date",
+      "source_content_hash": "61979b53fdae46a64666588a664bde3e2e211e3c81913255a303ae5674b203cd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 按日期排序"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "There is a dropdown menu at \"My feed\" that allows you to change the order of the feed. If it is not activated on your profile, you can easily enable it by following these steps:",
+      "source_content_hash": "f41d978fbd50e39e5d0217c56f30ec58da483a0b27fcbb6e4f5ce49f0e4905e6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "\"我的订阅流\"顶部提供排序下拉菜单。若未显示该功能，可通过以下步骤启用："
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "1. Click the \"Customize\" button on the Profile menu at the top-right (1).",
+      "source_content_hash": "728c45c7937590d8ccbd9b83df526945cd22ef6dc79d0344a0f703ee7dfb517f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击右上角个人资料菜单的\"自定义\"按钮(1)"
+      }
+    },
+    {
+      "segment_id": "bc38848e",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1726554463/docs-v2/5804a634-0191-4ecb-9706-c05f5195d020.png\" alt='Profile menu with the \"Customize\" button highlighted, last item in the main menu section (1)' width=\"900\" height=\"900\" />",
+      "source_content_hash": "3dff7c34f8d2b47e59c0b5ab30f440dd4c1c1ffc84d456acb6c5fcf8d1ddbb94",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_bc38848e"
+      }
+    },
+    {
+      "segment_id": "36ab8340",
+      "source_content": "2. Switch on the toggle, [\"Show feed sorting menu\"](/docs/customize-your-feed/preferences)",
+      "source_content_hash": "52485911e4beedcdedc120f538250a2df61b21160c25f6ff058deabdd283c3ba",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "2. 开启[\"显示信息流排序菜单\"](/docs/customize-your-feed/preferences)开关"
+      }
+    },
+    {
+      "segment_id": "ce33792e",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-2.jpg\" alt='Customize modal with the \"Show feed sorting menu\" toggle highlighted (2)' width=\"900\" height=\"900\" />",
+      "source_content_hash": "e999f352ad63eaa3a75ecbca4b930d65a2b70a115844971404da43f17cd9b7a9",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_ce33792e"
+      }
+    },
+    {
+      "segment_id": "3df4f066",
+      "source_content": "3. Go back to the feed, and you should see a new sorting option in the upper left corner (3).\n\n4. You can then choose to change the feed to sort either \"By Date\" or by \"Recommended\" (4).",
+      "source_content_hash": "2b4ac54339adb1517751d8ef6b236bdb359c7821a613896c81dc227c4fe78633",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "3. 返回信息流页面，左上角将出现新的排序选项(3)\n4. 可选择\"按日期\"或\"推荐\"排序(4)"
+      }
+    },
+    {
+      "segment_id": "19418b89",
+      "source_content": "<img src=\"https://github.com/dailydotdev/docs/assets/18360871/6a0a39fc-0843-4763-ada9-dbe8ed2a10bd\" alt='Customize modal with the \"Show feed sorting menu\" toggle highlighted (2)' width=\"900\"/>",
+      "source_content_hash": "1f5f193bd2a0de35da21fdbed8d469eff9356df13b673381016dfddfb26b6816",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_19418b89"
+      }
+    },
+    {
+      "segment_id": "a5a4323e",
+      "source_content": "## Most upvoted feed",
+      "source_content_hash": "13801fb3432ca812b8337e4cf72fc25c1373be4441edd8a491706a2d9f241b32",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 最多点赞流"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "In the \"Most Upvoted\" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.",
+      "source_content_hash": "02b9a9c106eb21ab192d3e870ed98efe089a17bd8dca4ccb601619f0e942c537",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "该信息流集中展示平台内获赞最多的内容。排序完全基于特定时间范围内的点赞总量，点赞数越高排名越靠前。"
+      }
+    },
+    {
+      "segment_id": "52388877",
+      "source_content": "### Changing the date filter",
+      "source_content_hash": "7bd7e1a1d4309f16616d445c6f2c2047a99a46c39ac6b401f99b7a74113aa071",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "### 调整时间筛选"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "The default view is the most upvoted posts of the last 7 days. However, you can choose to filter it to a different time frame using the drop-down (5).",
+      "source_content_hash": "9a465f4990f245dcd7fe44bed66327639f86011407750361b8f9a0c12008f7d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "默认显示最近7天的热门内容，但可通过下拉菜单(5)切换不同时间范围："
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "There are three options (6):",
+      "source_content_hash": "2bc9ad0f25c914ae180f91ad048c2e183483f7c2a1e0a1695abd3d34bbea392c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "提供三个选项(6)："
+      }
+    },
+    {
+      "segment_id": "4fe53981",
+      "source_content": "* Last week\n* Last month\n* Last year",
+      "source_content_hash": "12406ee0f776830eee90a7d48afa2104e8eaee0edf32108c418d839b27cd3f6b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "* 最近一周\n* 最近一月\n* 最近一年"
+      }
+    },
+    {
+      "segment_id": "4edbd92a",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-4.jpg\" alt='The drop-down located top right of the \"Most upvoted\" feed is highlighted (5). The drop-down is open showing \"Last week\", \"Last month\" and \"Last year\" as options (6)' width=\"900\" height=\"900\" />",
+      "source_content_hash": "401b8fb7e8f8451aa26b3909db910267c7f0789cbc74110db911f8a1b8f51621",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_4edbd92a"
+      }
+    },
+    {
+      "segment_id": "8a9b6c26",
+      "source_content": "## Best discussions feed",
+      "source_content_hash": "329a92f84135b1ddf83a6c48828c43025e8dcb8d83cfdbc2d03efd63651a0308",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 最佳讨论流"
+      }
+    },
+    {
+      "segment_id": "a1fa5396",
+      "source_content": "In the \"Best Discussions\" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in!",
+      "source_content_hash": "0fbc091727f5f76cadd81af897565cfe8134d6cbfd1e8be64f528cc660178268",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "在\"最佳讨论\"板块中，我们会精选daily.dev平台上当前最引人入胜的讨论话题。排名算法综合考量多项因素，包括参与评论用户的声望等级、评论的新鲜度、以及评论获得的点赞数等。该板块旨在帮助您发现值得参与的精彩讨论！"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/key-features/feeds.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.382382+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "06f9a28e1403d90271d7337fc0a55dfc6acc52b4924cbee953d26e7f1397eec5"
+  }
+}

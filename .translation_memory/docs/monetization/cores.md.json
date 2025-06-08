@@ -1,0 +1,242 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/monetization/cores.md",
+  "source_file_content_hash": "491033ee0dcaacc8fdf691bc6d97fcbf45b708951c5f53784eed753041b0cc9d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\ndescription: \"Learn how Cores, the in-app currency on daily.dev, let developers reward content, support creators, and unlock future features in the developer economy.\"\n---",
+      "source_content_hash": "dc2be34c2d10e6b83b996939a70e317a4f470352e48645d121a0b7e3b811d5bc",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Cores",
+      "source_content_hash": "cf01afc3660f23e7fc277d793902b3e122031eadc341774610e11ff8a51d2ec9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 核心币"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What are Cores",
+      "source_content_hash": "6444b638ba564b304b88199c5feb8aa9f6369a8b940fa8efdba99f7c9ab8bf08",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是核心币"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Cores are the official in-app currency on daily.dev. They power a community-driven economy where developers support each other, reward high-quality content, and help surface ideas that matter.",
+      "source_content_hash": "3d21d618c465a028837ad0af569528a687a3f86d0247e96983a92e4c42f197a1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "核心币是daily.dev平台官方应用内货币，支撑着一个由开发者社区驱动的经济体系。开发者通过核心币相互支持、奖励优质内容，并帮助筛选出真正有价值的思想。"
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "Cores aren’t just symbolic, they’re a way to show appreciation that holds real weight. Every time you give or receive them, you’re helping build a more generous and value-based developer network.",
+      "source_content_hash": "47e05c7b67b798897a4f7e0d908ab12124a773ab6e2a993d751e042ee22e7452",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "核心币不仅是象征性的，更是一种具有实际分量的赞赏方式。每次赠予或接收核心币，您都在参与构建一个更慷慨、更注重价值的开发者网络。"
+      }
+    },
+    {
+      "segment_id": "2a852f16",
+      "source_content": ":::info[]\nCores are not cash, crypto, or legal tender. They can’t be used outside daily.dev, and their value is entirely tied to the experiences and features we enable within the platform.\n:::",
+      "source_content_hash": "df88824d493e65600787201935afa69c2f6b5402fad6a13632684f0bcaacbf05",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info[]\n核心币并非现金、加密货币或法定货币。它们无法在daily.dev平台外使用，其价值完全取决于我们在平台内提供的体验和功能。\n:::"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "## Why Cores matter",
+      "source_content_hash": "544c6672231230dfb3cbb14241d6bdbc6b8544d65c79b289d2a1b314d2e702b4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心币的意义"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Likes are cheap. Cores aren’t.",
+      "source_content_hash": "c0168443b59e8d1a614e9dd2d798bf2bc033c10087e2c68c1dbee3b854513560",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "点赞很廉价。核心币不是。"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "They let you reward contributions that actually help you—whether it’s a great answer, a sharp insight, or a post that made you rethink something. The more Cores circulate, the stronger our community becomes.",
+      "source_content_hash": "8b994a9cc4f5e1e4a227dbb81dde2d56acbfce0bb9e112a3d2dae741966178d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "它们让您能真正回馈对您有帮助的贡献——无论是精彩回答、犀利见解，还是让您重新思考某事的帖子。核心币流通越频繁，我们的社区就越强大。"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "For creators, this opens a new path: instead of chasing clicks, they can focus on creating value—and get rewarded for it.",
+      "source_content_hash": "c087e18717642a49c90b16e2e4ab7bb8ef91d301ed5112a3819662d49b0c47c9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "对创作者而言，这开辟了新路径：不再需要追逐点击量，而是可以专注于创造价值——并获得相应回报。"
+      }
+    },
+    {
+      "segment_id": "a2f1eaea",
+      "source_content": ":::tip\nWhile today Cores are used mainly for rewarding content and creators, we’re actively building new features around them—including post boosts, premium interactions, exclusive content, and more. Holding Cores today means you’re ready for everything we launch next.\n:::",
+      "source_content_hash": "fc969f160afcfd32303ec9a776ad68b7f5342c50a18b2d0b62b97b2a678f7720",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n虽然目前核心币主要用于奖励内容和创作者，但我们正在围绕它们积极开发新功能——包括帖子推广、高级互动、独家内容等。现在持有核心币意味着您已为我们将推出的所有功能做好准备。\n:::"
+      }
+    },
+    {
+      "segment_id": "d06306f7",
+      "source_content": "## How to get Cores",
+      "source_content_hash": "42cdaee087055d442b0c8f857aedbb5f77a55662f9eb20ff673ff5bac7ecdcb7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何获取核心币"
+      }
+    },
+    {
+      "segment_id": "86b525ab",
+      "source_content": "- **Buy them** – Instantly available in your [wallet](https://app.daily.dev/wallet) or during any reward action  \n- **Earn them** – Every time someone tips your profile or [awards your content](monetization/awards.md), you get Cores\n- **Grants** – In some cases, daily.dev may offer Core grants to select creators or Squad admins to reward their communities",
+      "source_content_hash": "f47e089fcca940a9fe440c1b34f4ce726a96e4d3bb346f4d6bac8f3f14118020",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **购买** – 通过[钱包](https://app.daily.dev/wallet)即时获取，或在任何奖励操作中购买  \n- **赚取** – 每当有人打赏您的个人资料或[奖励您的内容](monetization/awards.md)时，您将获得核心币\n- **赠款** – 在某些情况下，daily.dev可能会向特定创作者或小组管理员提供核心币赠款以奖励其社区"
+      }
+    },
+    {
+      "segment_id": "cd591557",
+      "source_content": ":::info[]\nAll purchases of Cores are final. No refunds are provided. Double-check your bundle before purchasing. For full details, see the [Creators Terms of Service](https://daily.dev/creators-terms).\n:::",
+      "source_content_hash": "1139fae3e4be318c5fe45e55dd8c479e07a9850eb937bece84c9a55bf8448951",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info[]\n所有核心币购买均为最终交易，不提供退款。购买前请仔细核对套餐详情。完整条款请参阅[创作者服务条款](https://daily.dev/creators-terms)。\n:::"
+      }
+    },
+    {
+      "segment_id": "782c902a",
+      "source_content": "## What you can do with Cores",
+      "source_content_hash": "03cdc716a317822a8907d1f208c7a44fd221954441cdd35e36948ca217c48047",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 核心币的用途"
+      }
+    },
+    {
+      "segment_id": "8612da05",
+      "source_content": "- **[Award great content](monetization/awards.md)** – Highlight standout posts and comments with stickers that show appreciation\n- **Tip creators directly** – Visit any user’s profile and send Cores to thank them for their impact\n- **[Buy more Cores](https://app.daily.dev/cores)** – Choose from flexible bundles whenever you want to top up\n- **[Track your activity](https://app.daily.dev/wallet)** – See your balance, rewards earned, tips sent, and full transaction history\n- **Unlock upcoming features** – Some features will be Core-powered in the future, including post boosts and premium interactions",
+      "source_content_hash": "25ed0d4e06e5a9a45e230e51c0b3a7cd6c839efb657f0dfd09a59e21c0f053f7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **[奖励优质内容](monetization/awards.md)** – 用贴纸标记突出的帖子和评论以表达赞赏\n- **直接打赏创作者** – 访问任何用户的个人资料并赠送核心币以感谢他们的贡献\n- **[购买更多核心币](https://app.daily.dev/cores)** – 随时从灵活套餐中选择进行充值\n- **[追踪活动记录](https://app.daily.dev/wallet)** – 查看余额、获得的奖励、发送的打赏及完整交易历史\n- **解锁即将推出的功能** – 部分功能（如帖子推广和高级互动）未来将需要核心币支持"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "![screenshot of the Cores wallet](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.32.14.png)",
+      "source_content_hash": "91843035c4cf152e1daa09f30363c94bf1aa4ef84f4ef01250af96aa93bcb271",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![核心币钱包截图](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.32.14.png)"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "*Note: A small payment processing fee may apply when buying Cores, and a 30% platform fee is applied when rewarding others. [Details](https://daily.dev/creators-terms)*",
+      "source_content_hash": "cd8de53b18877a0274b29a93b1853da55fc8e389ca6bd58e8bd7d13d4700f3f6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "*注：购买核心币可能需支付小额支付处理费，奖励他人时平台将收取30%费用。[详情](https://daily.dev/creators-terms)*"
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "Whether you're here to contribute, support others, or both—Cores are your way in.",
+      "source_content_hash": "7609854c4f95fa229cb7a64178fcaa94fc17e6ea9bb1b789da5aa57d6a00f59f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "无论您是来贡献内容、支持他人，还是两者兼顾——核心币都是您的入场券。"
+      }
+    },
+    {
+      "segment_id": "60410af6",
+      "source_content": "## Good to know",
+      "source_content_hash": "ef2040520dcb0f3c878ec74421f691d14a5b3eeb5926b0bab4da33d26e17e584",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 须知事项"
+      }
+    },
+    {
+      "segment_id": "9b797309",
+      "source_content": "- **Cores never expire** – Use them now or later. They’ll stay in your wallet until you’re ready\n- **Not included with Plus** – Cores are sold separately and not bundled with [daily.dev Plus](../plus/plus-overview.md)\n- **Run out? No worries** – If you try to award or tip but don’t have enough Cores, you’ll be guided to top up instantly—no interruption to your flow\n- **Monetization is experimental** – In limited cases, eligible creators may be invited to cash out Cores. This feature is in beta, subject to approval, and may require ID verification. Learn more in the Creators Terms of Service",
+      "source_content_hash": "3c7fd611a03cd7a5419f5cc78a0643b18256e542201c13822fc7d4a324191d14",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **核心币永不过期** – 可随时使用，将一直保留在钱包中\n- **不与Plus会员捆绑** – 核心币需单独购买，不包含在[daily.dev Plus](../plus/plus-overview.md)套餐中\n- **余额不足？别担心** – 当尝试打赏或奖励但核心币不足时，系统将引导您即时充值，不会中断操作流程\n- **变现功能处于实验阶段** – 在少数情况下，符合资格的创作者可能受邀将核心币兑换现金。该功能处于测试阶段，需经审核并可能需要身份验证。详见创作者服务条款"
+      }
+    },
+    {
+      "segment_id": "e912d935",
+      "source_content": "## ⚠️ Play fair, stay rewarded",
+      "source_content_hash": "3f1ddf89c20ee0e043111773cd8310a0811d8249c964fea30a8a9a07223064ef",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## ⚠️ 公平参与，持续获益"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "Cores are designed to recognize authentic, valuable contributions. Any abuse—like fake accounts, self-gifting, or spammy behavior—may result in revoked Cores or account suspension. See our [Creators Terms](https://daily.dev/creators-terms) for more details.",
+      "source_content_hash": "40562e7fed154916fd5a917e495bbfb7cc4c7459ba4766023236c63dcd31dc9e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "Cores旨在认可真实且有价值的贡献。任何滥用行为——例如虚假账户、自我赠送或垃圾信息行为——都可能导致Cores被收回或账户被封禁。详情请参阅我们的[创作者条款](https://daily.dev/creators-terms)。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/monetization/cores.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.381193+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "491033ee0dcaacc8fdf691bc6d97fcbf45b708951c5f53784eed753041b0cc9d"
+  }
+}

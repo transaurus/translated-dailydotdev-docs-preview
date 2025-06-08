@@ -1,0 +1,202 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/devcard.md",
+  "source_file_content_hash": "0df00693c814e218174e0bb3a315a87a657648e012fba73af4f9c67b7b9ca430",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 6\ndescription: \"Create and customize your daily.dev DevCard to showcase your activity, interests, and reputation. Learn how to generate, customize, and share your DevCard on social media, GitHub, and more.\"\n---",
+      "source_content_hash": "6481144af44e54d0bd451ad5d8f588da409a7ff40484fb43cf895af222d96390",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# DevCard",
+      "source_content_hash": "d17551339b35cc1c712e1af1c0ef605548fd944bb4a73d8a3f12d80d3d722af9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 开发者卡片"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## Show Off Your daily.dev Activity!",
+      "source_content_hash": "01ec9e3519e6bab560ccf8a7df2290d159580558a2d441d707b76015d28e7c3c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 展示您的 daily.dev 活动！"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "The DevCard is a fun way to showcase your daily.dev activity and share your dev interests and commitment with others. It shows info on how many posts you’ve read on daily.dev, how many reputation points you have, the sources and tags you read, and Squads you’ve joined. It’s been a while since we released the DevCard, and we’re excited to update it and make it cooler. You can generate your own DevCard, customize it, and share it with the hashtag #DevCard to flex with friends and colleagues.",
+      "source_content_hash": "8d2410a5b2d429f4ad5c11496a2919248b4468c05d4933d273d2e0accc65a0a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "开发者卡片是一种有趣的方式，用于展示您在 daily.dev 上的活动并与他人分享您的开发兴趣和参与度。它会显示您在 daily.dev 上阅读的帖子数量、您获得的声望点数、您阅读的来源和标签，以及您加入的小组。自我们发布开发者卡片以来已经有一段时间了，我们很高兴能更新它并使其更加酷炫。您可以生成自己的开发者卡片，自定义它，并使用 #DevCard 标签与朋友和同事分享。"
+      }
+    },
+    {
+      "segment_id": "321c5251",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1708250583/docs/2_5.jpg\" alt='Highlight of the DevCard showcasing daily.dev user activity' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "3831c75370daafb85146eb09862feea1f3f2c5f4b0f5bd6bce1040667e50bee5",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_321c5251"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## How to Generate Your DevCard",
+      "source_content_hash": "3d1acab011a751de5e59f2a46bd8447db589da099808a132603b009d8958c3ce",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 如何生成您的开发者卡片"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "Generating your DevCard is quick and easy! Simply click on your profile picture (make sure you’re logged in) and click on the DevCard button. Another option is to directly visit https://app.daily.dev/devcard. This will take you to a page where you can customize your DevCard by choosing your theme (themes unlock as you gain reputation points! [Click here](https://docs.daily.dev/docs/your-profile/reputation) to learn how to get more reputation points and unlock more themes). You can also choose whether the card should be vertical or horizontal, select your background image, and decide whether or not your image will have a border.\nOnce you're satisfied with your customization, click the \"Generate DevCard\" button to generate your unique DevCard.",
+      "source_content_hash": "59604c6146b0d2932fc9ac500a9d4af0f1ccf811adb692f6e4cb9265842a3847",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "生成您的开发者卡片既快速又简单！只需点击您的个人资料图片（确保您已登录），然后点击开发者卡片按钮。另一种方法是直接访问 https://app.daily.dev/devcard。这将带您到一个页面，您可以在那里通过选择主题（随着您获得声望点数，主题会解锁！[点击此处](https://docs.daily.dev/docs/your-profile/reputation)了解如何获得更多声望点数并解锁更多主题）来自定义您的开发者卡片。您还可以选择卡片是垂直还是水平显示，选择背景图片，并决定是否给图片添加边框。\n一旦您对自定义满意，点击“生成开发者卡片”按钮即可生成您独特的开发者卡片。"
+      }
+    },
+    {
+      "segment_id": "09a8fe76",
+      "source_content": "<img src=\"https://daily-now-res.cloudinary.com/image/upload/v1708250583/docs/1_6.jpg\" alt='DevCard customization options including theme, layout, and background' width=\"900\" height=\"100%\" />",
+      "source_content_hash": "9c51bfe9a1a5226e46e20b14dd00962b18477f6d431e29c21c52a06888672f49",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_09a8fe76"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "## Limited-Edition DevCards",
+      "source_content_hash": "8667ba6099c14448e94d68c50195482a3372b0188595f78efe95f15e4dad6488",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 限量版开发者卡片"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "Watch this space for limited edition DevCards, skins, and special features. Stay tuned for exciting updates!",
+      "source_content_hash": "c171f0624e4811c3b617399a09a35bfb7c1baf4c11a08ed7b5fad45e29cc5095",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "请关注此空间，获取限量版开发者卡片、皮肤和特殊功能。敬请期待令人兴奋的更新！"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "## Sharing Your DevCard​",
+      "source_content_hash": "39c44bd5ace4af4663b74e317fa61a6c8ff176b6eea9215245a97988ad4ddd01",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 分享您的开发者卡片"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "Share your DevCard (don’t forget to tag #DevCard) on social media by downloading and sharing the image. We’ll be scanning for posts and have some very cool giveaways to hand out to those who share.",
+      "source_content_hash": "ea086ed14e3f746039d967c9b83e992b320efd42bfbb508c8f413d96b626e455",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "通过下载并分享图片，在社交媒体上分享您的开发者卡片（别忘了标记 #DevCard）。我们会扫描这些帖子，并向分享者赠送一些非常酷的奖品。"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## Adding DevCard to Your X (Formerly Twitter) Profile",
+      "source_content_hash": "25b24015d89f09bcef13623ec24026ad0fd87b5c0296f22c493d8a85d89c3677",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 将开发者卡片添加到您的 X（原 Twitter）个人资料"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Download the DevCard X header image to give people a snapshot of the kind of developer you are and what interests you, as soon as they open your profile.",
+      "source_content_hash": "b25ad5d809916d345896ab497099a21211ab4d76a6c72284e18ee86ce2aa2796",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "下载开发者卡片的 X 标题图片，让人们一打开您的个人资料就能了解您是哪种开发者以及您的兴趣所在。"
+      }
+    },
+    {
+      "segment_id": "0037ff70",
+      "source_content": "## Adding DevCard to Your GitHub Profile",
+      "source_content_hash": "d1daa5607cd894e6ebaa6a1cfc3b94e15e3c6274cf152fec7deb8eb4f2898789",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 将开发者卡片添加到您的 GitHub 个人资料"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "Once you've generated your DevCard, you can add it to your GitHub profile or embed it in your website. This can be a great way to highlight your interests, achievements, and engagement with daily.dev to fellow developers and potential employers.",
+      "source_content_hash": "12188fc233948613896a8b0e4a27f8339ba23880410c53863c7e24c3bac34614",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "生成开发者卡片后，您可以将其添加到您的 GitHub 个人资料或嵌入到您的网站中。这是向其他开发者和潜在雇主展示您的兴趣、成就和参与 daily.dev 的好方法。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "Here's the [full tutorial](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)",
+      "source_content_hash": "09b7d5ed3384d2299b3ab1af8f0a5dedcbf7be0ad1e8adad7b4c97c6008e543b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "这里是[完整教程](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "A Video Version:",
+      "source_content_hash": "707e28df8118023cda7a1219c026f61a386ea52c795699d753f9ff45a7ec8554",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "视频版本："
+      }
+    },
+    {
+      "segment_id": "d1ce550c",
+      "source_content": "<iframe width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/tOIZnXK81Q0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "source_content_hash": "03eb9cc1e6a5ef85e7cb7fb4ff4178d785a78bc77595d6cd0d222ff68a7d8360",
+      "node_type": "mdxJsxFlowElement",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_d1ce550c"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/devcard.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.387065+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "0df00693c814e218174e0bb3a315a87a657648e012fba73af4f9c67b7b9ca430"
+  }
+}

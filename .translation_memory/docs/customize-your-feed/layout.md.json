@@ -1,0 +1,142 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/customize-your-feed/layout.md",
+  "source_file_content_hash": "01d7b0b837d1aae01c74337522035d88fc61d8c78e9a9293b5a5cf25aab7a89a",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 0\ndescription: \"Customize your daily.dev feed layout with Grid and List modes for an optimal reading experience across all devices.\"\n---",
+      "source_content_hash": "765236f51ff12fc972d428a166f5e9a6e6d4bfa57511459787eb305d610e40b7",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Layout Options",
+      "source_content_hash": "c5a4257ae20afda2304d05d7a66a9ac3cb588f6999d99864992bd79259787444",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 布局选项"
+      }
+    },
+    {
+      "segment_id": "3fbbcc07",
+      "source_content": "The layout option lets you select how posts are displayed on your **daily.dev feed**. Switch between **Grid mode** and **List mode** to suit your viewing preferences.",
+      "source_content_hash": "a9a7403ec5e1d83a5d4347f44d105051c891ecb9e4d15ffa53299655c73d6bd1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "布局选项允许您选择**daily.dev信息流**中文章的显示方式。可在**网格模式**与**列表模式**间切换以适应您的浏览偏好。"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "To switch between Grid and List mode, click on the **customize** option from the top-right profile menu, as shown below:",
+      "source_content_hash": "f5c4c3389745a7c2ac8771299f81335d481fffca89a55716231f3b1cf85016b1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "要切换网格/列表模式，请点击右上角个人资料菜单中的**自定义**选项，如下图所示："
+      }
+    },
+    {
+      "segment_id": "8d66f911",
+      "source_content": "![Switch from List to Grid mode on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)",
+      "source_content_hash": "a78a3632cd27f66125baa26109a3d9900ecbea1950673381d19eab4031950103",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![在daily.dev中从列表模式切换至网格模式](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "## Grid Mode for Content Display",
+      "source_content_hash": "bf0c70acc387efa3a32d7498f42648e183cb451923a2c810adb74d9eca75c7b4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 内容展示的网格模式"
+      }
+    },
+    {
+      "segment_id": "86b54d44",
+      "source_content": "The **Grid mode** displays posts as cards arranged in a grid format, as seen in the image below:",
+      "source_content_hash": "3a37364eaf80b180b1506608cecbb6b483199daea7268e51c357710b7bb26db0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**网格模式**会将文章以卡片形式呈网格状排列，如下图所示："
+      }
+    },
+    {
+      "segment_id": "39b3772c",
+      "source_content": "![Grid mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400852/docs-v2/a6b59df0-78b5-431a-8719-1efb654f9ef4.png)",
+      "source_content_hash": "37ddf869e56a597a742175bf5c3222cc007ef8b3df2780cc38f9cf0cfe606e46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev信息流的网格模式视图](https://daily-now-res.cloudinary.com/image/upload/v1724400852/docs-v2/a6b59df0-78b5-431a-8719-1efb654f9ef4.png)"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "In Grid mode, posts are positioned both vertically and horizontally, making it easy to scan and interact with the content. Grid mode adapts seamlessly to various viewports and orientations, providing consistency across different platforms and screen sizes.",
+      "source_content_hash": "aa2d98ee598567faf5a6c37b5a4c49815e292ecb12ef4815bd8ea68d7033f339",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "网格模式下文章会按纵横方向排列，便于快速浏览与交互。该模式能自适应不同视窗尺寸和屏幕方向，确保跨平台显示的一致性。"
+      }
+    },
+    {
+      "segment_id": "63622bf0",
+      "source_content": "## List Mode for Simplified Layout",
+      "source_content_hash": "210ed0a04624422eb4d0a30b4a053e86dd171fd9bf19674074b39a3c48bf8b1b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 简化布局的列表模式"
+      }
+    },
+    {
+      "segment_id": "98cfbd53",
+      "source_content": "In **List mode**, posts are stacked vertically in a list, as shown below:",
+      "source_content_hash": "ff7f924e1203525dee20c05ee94df2d9faafc1eb252f695992e5ff549c3e5c6c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "**列表模式**会将文章垂直堆叠排列，如下图所示："
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "![List mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400878/docs-v2/5ff46522-dfc3-401b-9aff-12819a91f4c4.png)",
+      "source_content_hash": "22c3288652480795d19779102208367fe217b3243d9716ff61bfb30b1a5858e5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![daily.dev信息流的列表模式视图](https://daily-now-res.cloudinary.com/image/upload/v1724400878/docs-v2/5ff46522-dfc3-401b-9aff-12819a91f4c4.png)"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "List mode displays posts in a simple, stacked format, showing only source images without cover images. This option is ideal if you prefer a shorter feed with fewer visuals.",
+      "source_content_hash": "24990c049780050dd0dd5536c8a52b6c1395f15f2fc6c641c8561d6d7016f947",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "列表模式采用简洁的纵向堆叠布局，仅显示来源图片而不展示封面图。该选项适合偏好精简信息流和较少视觉元素的用户。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/customize-your-feed/layout.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.385320+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "01d7b0b837d1aae01c74337522035d88fc61d8c78e9a9293b5a5cf25aab7a89a"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/monetization/awards.md",
+  "source_file_content_hash": "c9b1ba9690cae5f3e5d6d9543e7b16d84a8b0d10b036923fa9e1330321b3aafc",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\ndescription: \"Discover how Awards on daily.dev let you recognize and support valuable posts, comments, and creators using free or Core-powered stickers. Learn how they work and why they matter.\"\n---",
+      "source_content_hash": "0017c99c58e6f546f408a231ec5c0ab3b6d3b6d31ee8a58dd0273966b132b9c8",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Awards",
+      "source_content_hash": "bdb92738320ee1b3603132a1c6b38620ceb917412e820f4c25d02745f60112ed",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 徽章系统"
+      }
+    },
+    {
+      "segment_id": "cc3c868d",
+      "source_content": "## What are Awards",
+      "source_content_hash": "3c38571c4086b7f9856d3cfcd88793594738343dd09e0c78eaa210f2e6b85fa9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 什么是徽章"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "Awards let you recognize top-tier contributions on daily.dev. They’re powered by our in-app currency called [Cores](monetization/cores.md) and help spotlight content that’s helpful, insightful, or just straight-up great. Whether it's a killer post, a sharp comment, or someone consistently showing up—you can now say “this is worth it” in a meaningful way.",
+      "source_content_hash": "e7472807231e59d6f70b707402dee9ee78bc4ee71a7e894e44fa7071a8997d06",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "徽章是daily.dev平台上表彰优质贡献的荣誉体系，由应用内货币[Cores](monetization/cores.md)驱动。无论是精彩文章、犀利评论还是持续贡献者，您都可以通过徽章对\"值得推荐\"的内容进行实质性的认可。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Why Awards matter",
+      "source_content_hash": "ac572f519788b84e15778ac590c8c1629c4a64de9f40b731e1ad819368afb066",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章的意义"
+      }
+    },
+    {
+      "segment_id": "ad8fd492",
+      "source_content": "Giving an Award sends a stronger signal that someone’s effort mattered. Awards help elevate the best content, encourage thoughtful participation, and build a culture where effort gets recognized and rewarded. They also unlock visibility for creators—great for reputation, motivation, and discovery.",
+      "source_content_hash": "d3970cd629472508ec0cfabb292ed71a7458d802be73d5525c310cc3ec723bae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "授予徽章能更强烈地传递价值认可。这一机制有助于：提升优质内容曝光度、激励深度参与、构建\"付出即有回报\"的社区文化。创作者也将因此获得更多关注，这对个人声誉、创作动力和内容传播都大有裨益。"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "## Why give Awards?",
+      "source_content_hash": "b3cf19b4f42042a494cd18efb96adae033895eb07ad70e2fbc17c5ef881ca282",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 为什么要授予徽章？"
+      }
+    },
+    {
+      "segment_id": "11c829ab",
+      "source_content": "- **Support what matters** – Show appreciation for content that taught you something, saved you time, or sparked new ideas.  \n- **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  \n- **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.",
+      "source_content_hash": "b8972e58afb9e394d7d3cf18ad6bb592885205ce014b14ff9995fbdd95670649",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **支持有价值的内容**——感谢那些让您学到知识、节省时间或激发灵感的作品  \n- **鼓励优质创作**——徽章让创作者感受到被关注和重视，从而产出更多深度内容  \n- **塑造社区生态**——获得徽章的内容越多，daily.dev的整体质量就越高"
+      }
+    },
+    {
+      "segment_id": "2df4f75f",
+      "source_content": "![screenshot of the different aaard options](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)",
+      "source_content_hash": "e13916aead476df9d13d7564081ead2b8d2f3bcf961b0ac6528a5aa72664e6ac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![徽章选项截图](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "## How Awards work",
+      "source_content_hash": "26c3e46fa06e59cf828016420b3c45af2a022a5a725753987b0d3e2f5632efc7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章使用指南"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "You can give Awards in a few simple steps:",
+      "source_content_hash": "684613e57a3ef15ecbfde6724f787075ad3107a13ba5f86aa3519b25c2538cf6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "只需简单几步即可授予徽章："
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "1. Click the award icon on a post, comment, or profile.  \n2. Choose a sticker. Some are **free** and usable right away. Others are **premium** and require [Cores](monetization/cores.md).  \n3. Add an optional note (recommended!).  \n4. Confirm the Award. If it's a premium one, your Cores will be deducted.  \n5. The recipient is notified, and your name appears as the supporter.",
+      "source_content_hash": "ffb402488a1d07d5ac1aad1a1fcd3ecfcf79854803269e623abb0c2aadd214ef",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. 点击帖子、评论或个人资料上的徽章图标  \n2. 选择贴纸：部分为**免费**贴纸，部分**高级**贴纸需消耗[Cores](monetization/cores.md)  \n3. 添加备注信息（推荐填写）  \n4. 确认授予。若选择高级贴纸，相应Cores将被扣除  \n5. 接收者将收到通知，您的名字会显示为支持者"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "![screenshot of how the award button looks like](https://daily-now-res.cloudinary.com/image/upload/v1745239254/docs/Screenshot_2025-04-21_at_15.39.59.png)",
+      "source_content_hash": "ddb84c56ddb82d835aa43d6230ebbee402ca9c795e3ea67b649263b809e5ab73",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![徽章按钮样式截图](https://daily-now-res.cloudinary.com/image/upload/v1745239254/docs/Screenshot_2025-04-21_at_15.39.59.png)"
+      }
+    },
+    {
+      "segment_id": "cd591557",
+      "source_content": ":::info\nAwards are currently available in select regions and for eligible users only. You might not see the option to give Awards if:  \n- The creator isn’t part of the program yet  \n- Awards aren’t supported in your country or theirs  \nWe're actively expanding access—so if it’s not live for you yet, stay tuned.\n:::",
+      "source_content_hash": "0f4a5445be0d1226ceb1de493fffa7cd3be58f7be2b83831709dfce32b9a009f",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::info\n当前徽章功能仅在特定区域对符合条件的用户开放。若您无法使用该功能，可能是由于：  \n- 内容创作者尚未加入该计划  \n- 您所在地区或创作者所在地区暂未开放  \n我们正在积极扩展服务范围，请持续关注后续更新。  \n:::"
+      }
+    },
+    {
+      "segment_id": "06c0f776",
+      "source_content": "## What you can do with Awards",
+      "source_content_hash": "70992453729ed964e80e01165151396a761c890a4754cb30a47fcc5a00b19226",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章功能概览"
+      }
+    },
+    {
+      "segment_id": "4c077b92",
+      "source_content": "- **Appreciate helpful content** – Drop a sticker on anything valuable: posts, comments, discussions.  \n- **Add a personal message** – Say why it stood out. Optional, but adds meaning.  \n- **Reward from profiles** – Support a creator directly from their profile, even if you’re not on a specific post.  \n- **Build credibility** – Awards are public and show up across the platform—on content, profiles, and wallets.",
+      "source_content_hash": "9aca8d61840694f291158166fd427929a1fbb3ffecb0bd65a6c61f98ff47f1cb",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **赞赏优质内容**——可为帖子、评论等有价值内容添加贴纸  \n- **附加个性化留言**——说明推荐理由（选填但更有意义）  \n- **通过个人资料直接奖励**——无需特定帖子，可直接支持创作者  \n- **建立可信度**——徽章记录将公开展示在内容、个人资料和钱包中"
+      }
+    },
+    {
+      "segment_id": "6d28a77c",
+      "source_content": "## Free vs. paid Awards",
+      "source_content_hash": "1949c51e638df8a464ed871f2f7405f7689e8ddc825dcba28445bb2c97142c6b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 免费与付费徽章"
+      }
+    },
+    {
+      "segment_id": "b4ef1e56",
+      "source_content": "- **Free stickers** – Available to everyone. Use them anytime to show support.  \n- **Paid stickers** – Premium designs that require Cores to send. Prices vary per sticker.",
+      "source_content_hash": "e6084285f0aece55c99432542cfad030ba9cc1bdf67c0ac579c5474b001bc4c7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **免费贴纸**——所有用户可用，随时表达支持  \n- **付费贴纸**——需消耗Cores的精选设计，不同贴纸价格各异"
+      }
+    },
+    {
+      "segment_id": "7fc18c94",
+      "source_content": ":::tip\nYou can [buy Cores](https://app.daily.dev/cores) instantly using a credit card, PayPal, or local payment options.\n:::",
+      "source_content_hash": "814e23ad1def6de1b342848737b65023ccd6e685cf6acaca24766601b9c5bc54",
+      "node_type": "containerDirective",
+      "translatable": true,
+      "translations": {
+        "zh-CN": ":::tip\n支持通过[信用卡、PayPal或本地支付方式](https://app.daily.dev/cores)即时购买Cores。  \n:::"
+      }
+    },
+    {
+      "segment_id": "7283cdac",
+      "source_content": "## Where Awards show up",
+      "source_content_hash": "b6a0d9fdb419f6d62617dd8b703ab1905f1b3eac59116c258ec1cbafb1023366",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章展示位置"
+      }
+    },
+    {
+      "segment_id": "3df4f066",
+      "source_content": "- **On posts** – Next to likes and other actions.  \n- **In comments** – Alongside replies and reactions.  \n- **On profiles** – A dedicated section that shows all Awards given and received.  \n- **In your Wallet** – Track all transactions via your [Wallet](https://app.daily.dev/wallet), including Awards you’ve sent or received.",
+      "source_content_hash": "b17dc59d7ff31a4408d026b37f8d64da9c02a86470f4bf46f8627fd8549c8811",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **帖子页面**——与点赞等功能并列显示  \n- **评论区**——在回复和反应旁展示  \n- **个人资料页**——设有专属板块展示所有收发记录  \n- **钱包系统**——通过[钱包](https://app.daily.dev/wallet)可查看所有收发记录"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "![screenshot of the transaction history](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.31.13.png)",
+      "source_content_hash": "3ebfdcc1a8adca513bc15133ecddc884f3a16cc559012559d4dfa154a65e3dae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![交易历史截图](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.31.13.png)"
+      }
+    },
+    {
+      "segment_id": "bd92edfc",
+      "source_content": "## Who can see Awards",
+      "source_content_hash": "4da62420f029944c6b3e58c5b81f296d220bca5493f7d2c534c636cfa7c65b8b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章可见范围"
+      }
+    },
+    {
+      "segment_id": "7f71ff2a",
+      "source_content": "Awards are public. Everyone can see:",
+      "source_content_hash": "1f374ab6b5e13cea7571ca860581d42c132c175eb0092674953b81fa27122ec5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "徽章是公开的。所有人都可以看到："
+      }
+    },
+    {
+      "segment_id": "af6ca965",
+      "source_content": "- Who gave the Award  \n- Which sticker was used  \n- Any attached message  \n- Where it was given",
+      "source_content_hash": "cff95a3376a32e46821f27608915fb4ea623f4a73f95935db75d2c455ab426ce",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 徽章由谁授予  \n- 使用了哪种贴纸  \n- 附加的留言内容  \n- 徽章授予的具体位置"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "This transparency helps build trust and reputation across the community.",
+      "source_content_hash": "72935d5117948c65d515d62da2d1f6ae4af722e30d821f89f39655f09d57f51a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "这种透明度有助于在社区内建立信任和声誉。"
+      }
+    },
+    {
+      "segment_id": "98355e36",
+      "source_content": "## Can I give anonymously?",
+      "source_content_hash": "e18b130e0711978340b321dd084118dbac89bf9b44ec532f432968c9a6d647cf",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 可以匿名授予吗？"
+      }
+    },
+    {
+      "segment_id": "7736989b",
+      "source_content": "Not at the moment. When you give an Award, your profile will be shown as the supporter. We believe recognition is stronger when it’s personal—but we’re open to anonymous options in the future based on feedback.",
+      "source_content_hash": "f2c4132f15b50bae32ca22a22774a9e40aee8853304cd6c9cd51ec1743598a5c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "目前不支持。当您授予徽章时，您的个人资料将显示为支持者。我们认为具名的认可更具力量——但未来可能会根据用户反馈推出匿名选项。"
+      }
+    },
+    {
+      "segment_id": "8a9b6c26",
+      "source_content": "## Report misuse",
+      "source_content_hash": "69fb44351e12431e2f6be97f9a0b76239a985f3daa39a9749cbdd7fdfacb6cd6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 举报滥用行为"
+      }
+    },
+    {
+      "segment_id": "a1fa5396",
+      "source_content": "If you notice someone abusing the Awards system, [report it here](https://daily.dev/feedback). Our team reviews reports to keep the platform fair and constructive.",
+      "source_content_hash": "1202d5a8325ea153e26b9fbabf803c3dbe8352ae15ccf26f3ae2dc6a2ff7cf85",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "如发现有人滥用徽章系统，请[点击此处举报](https://daily.dev/feedback)。我们的团队会审核举报以维护平台的公平性和建设性。"
+      }
+    },
+    {
+      "segment_id": "1c598ecd",
+      "source_content": "## Try it now",
+      "source_content_hash": "af59d55e5c9884b17ddf3293464fe6175ef70423819149d8414188c79a4f396f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 立即尝试"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "Found a post that helped you out? A comment that nailed it? Head to your [feed](https:/app.daily.dev) and give your first Award. Start with a free sticker—you might make someone’s day.",
+      "source_content_hash": "9e7ee527467d3ab9bec95d9da71fa8fc941212c08f66bad91860676e3f1b91d2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "发现对您有帮助的帖子？或一针见血的评论？前往您的[信息流](https:/app.daily.dev)授予首个徽章。从免费贴纸开始——您可能会点亮某人的一天。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/monetization/awards.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.383295+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "c9b1ba9690cae5f3e5d6d9543e7b16d84a8b0d10b036923fa9e1330321b3aafc"
+  }
+}

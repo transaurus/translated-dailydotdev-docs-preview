@@ -1,0 +1,172 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/your-profile/top-readers.md",
+  "source_file_content_hash": "050eb7c9fec52c935bf80f88e5a4a2a8b344a8fb99f112e36d668a444d77a286",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 5\ndescription: \"Celebrate your dedication by earning a Top Reader badge and gain recognition for your activity within specific categories.\"\n---",
+      "source_content_hash": "a4de424a1ab456b57b2988cf1e251615f3be0c75f11921f0073f81e2c38067e5",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "zh-CN": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "b3de8742",
+      "source_content": "# Top Readers",
+      "source_content_hash": "1bd7fe81566f817b66a0626cfbc9510603290f3fcd40b5cbdbfab8d98988e341",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "# 顶级读者"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "Top Readers rewards active readers with a badge that highlights their engagement in specific content categories. By encouraging continuous reading, this feature also enables users to share their achievements with others, boosting personal and community engagement across the platform",
+      "source_content_hash": "71f25abb63d8c050afda2ac304a1a308f05f5fa7f4d05b5c2740ecccf2f58c33",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "\"顶级读者\"功能通过徽章奖励活跃读者，突显其在特定内容领域的参与度。该功能鼓励持续阅读行为，同时支持用户与他人分享成就，从而提升个人及社区在平台上的互动活跃度。"
+      }
+    },
+    {
+      "segment_id": "d912d376",
+      "source_content": "## Prerequisites",
+      "source_content_hash": "bbd3d4949a6f237efd8d4ff5c7c5f30d968e7a989ad12f3d7dcef69c98053912",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 先决条件"
+      }
+    },
+    {
+      "segment_id": "7e5c5a39",
+      "source_content": "To be eligible for a Top Reader badge, simply stay active on daily.dev and engage consistently with content in various categories. There’s no additional setup required to start earning badges.",
+      "source_content_hash": "43ba0cadf75d9a9f9bb2017d0befd2025c41e5f2e7b3346328a12ff0750347db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "获取\"顶级读者\"徽章无需额外设置，只需在daily.dev保持活跃状态并持续参与各类别内容的阅读互动即可获得评选资格。"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## Benefits of the Top Readers Feature",
+      "source_content_hash": "ec5799ce30fb645b7748ce3b76a0ab114a81f03527bae57ee46310e7a729b0f9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 功能优势"
+      }
+    },
+    {
+      "segment_id": "730c423c",
+      "source_content": "- **Recognition**: Stand out in the community with a visible badge on your profile.\n- **Motivation**: Track and celebrate your reading habits to stay engaged with topics you love.\n- **Community**: Share your badge with friends and colleagues to encourage others to dive deeper into relevant content.",
+      "source_content_hash": "a3c0481aa1d1f7de215656482f0d7743248d8d997d4eb7674a2fddb1bbd3f6f0",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **身份标识**：个人资料页展示专属徽章，彰显社区地位  \n- **持续激励**：通过追踪阅读习惯培养持久的内容消费动力  \n- **社区影响**：与同行分享徽章，推动更多人深入参与相关主题讨论"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "![top readers displayed on profile page](https://daily-now-res.cloudinary.com/image/upload/v1730663961/docs/SCR-20241103-szmp.png)",
+      "source_content_hash": "3128e3bfa9f8a44d65c97d55d047b4dee0006ec789d23407903d16638f52225f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "![个人资料页展示的顶级读者徽章](https://daily-now-res.cloudinary.com/image/upload/v1730663961/docs/SCR-20241103-szmp.png)"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## How to Earn a Top Reader Badge",
+      "source_content_hash": "a14a69f212186adf06abc911528899eb215b6d16c67e12dd4451b8cfea703ac4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 获取方式"
+      }
+    },
+    {
+      "segment_id": "1acb9a05",
+      "source_content": "Here's how you can become a Top Reader:",
+      "source_content_hash": "daac892128b9006fb261cdf099ef13648f6faca0f2e43df5e0011daf78b6cd31",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "成为顶级读者的具体路径："
+      }
+    },
+    {
+      "segment_id": "da23c906",
+      "source_content": "1. **Read consistently**: Spend time engaging with posts in specific content categories. Categories with higher engagement across the platform are eligible for the Top Reader badge.\n2. **Monthly evaluation**: Every month, daily.dev evaluates reading days for each category. Based on engagement, certain high-activity tags are \"whitelisted\" for badge eligibility.\n3. **Notification**: If you're among the top readers for a category, you’ll receive both an in-app notification and an email letting you know you’ve earned the Top Reader badge.\n4. **Display on profile**: Once awarded, your badge will display on your profile, showcasing the number of times you've earned this recognition and the specific categories where you excel.",
+      "source_content_hash": "93aaf94990a0629ee13a1493ab21a08001d7e6122b1996323f6ec29f7100382a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "1. **持续阅读**：深度参与平台高活跃度内容类别的文章阅读  \n2. **月度评估**：系统每月统计各标签下的阅读天数，筛选出符合授章条件的高互动标签  \n3. **成就通知**：若进入类别阅读量前列，将通过站内通知和邮件双重告知  \n4. **徽章展示**：获奖记录将永久保存在个人资料，显示累计获得次数及优势领域"
+      }
+    },
+    {
+      "segment_id": "fa430ad4",
+      "source_content": "## Badge Frequency and Display",
+      "source_content_hash": "4781a064872176b74756ea02b71241e60dc3dc6426b0378e3150e30285967119",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 徽章机制"
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "- **Monthly updates**: Badges are awarded each month based on the previous month’s activity. Stay consistent to earn badges across multiple categories!\n- **Profile display**: Your Top Reader badge will show on your profile page, highlighting the number of times you've earned it and the categories associated with your achievements.\n- **Badge download**: Download your badge from the in-app notification to share your accomplishment outside of daily.dev.",
+      "source_content_hash": "688dbc1c56e5ed4547ddce5ceeb2591442bd8a5181f47140de4547e28e64d3eb",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- **月度更新**：依据上月活跃度每月重新评定，持续参与可斩获多领域徽章  \n- **资料展示**：个人页面动态显示总获得次数及对应内容类别  \n- **下载分享**：可通过站内通知下载电子版徽章，用于平台外展示"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "## Troubleshooting",
+      "source_content_hash": "659a188b36f9c3262a28539e24c345df4edc9657f59b116b0a1d9887cf2e28e0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "## 故障排查"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "If your badge isn’t displaying correctly or if you don’t receive a notification after significant activity in a category:",
+      "source_content_hash": "bcd23ca6100661413e06f4ef67918048d5c3d8c9abd3095331f39a93da85b137",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "若徽章未正常显示或达到标准未收到通知："
+      }
+    },
+    {
+      "segment_id": "f2c8a42b",
+      "source_content": "- Verify your reading days and make sure you’re engaging consistently in high-activity categories.\n- Refresh your profile page after receiving the in-app notification.\n- For further support, reach out to [support@daily.dev](mailto:support@daily.dev).",
+      "source_content_hash": "0098d36cad6e181d77c519d58707e5f987a27bbe593cc984ad42ed59201e5c92",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "- 确认是否持续参与高活跃度类别阅读  \n- 收到通知后尝试刷新个人资料页面  \n- 如需进一步支持请联系[support@daily.dev](mailto:support@daily.dev)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/your-profile/top-readers.md",
+  "last_updated_timestamp": "2025-06-08T19:04:50.387702+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "050eb7c9fec52c935bf80f88e5a4a2a8b344a8fb99f112e36d668a444d77a286"
+  }
+}
