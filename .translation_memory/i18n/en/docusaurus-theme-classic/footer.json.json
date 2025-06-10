@@ -1,0 +1,405 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "i18n/en/docusaurus-theme-classic/footer.json",
+  "source_file_content_hash": "bf957fb190daa4659e737395d1ffbc5e4a403883bb20a1de6097ba6ca108203a",
+  "segments": [
+    {
+      "segment_id": "link.title.Product",
+      "source_content": "Product",
+      "source_content_hash": "fb9ef894175c327470f768d95ca7bee65e19853a0eaace3805f8a7b8a12270da",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "产品"
+      },
+      "metadata": {
+        "json_description": "The title of the footer links column with title=Product in the footer"
+      }
+    },
+    {
+      "segment_id": "link.title.Community",
+      "source_content": "Community",
+      "source_content_hash": "bb501d7877eb7ddbd40baf7990e8058212e8140a2e6ceaaf2d54a6412b770bfd",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社区"
+      },
+      "metadata": {
+        "json_description": "The title of the footer links column with title=Community in the footer"
+      }
+    },
+    {
+      "segment_id": "link.title.Company",
+      "source_content": "Company",
+      "source_content_hash": "de4743c879734dc38cb3e270ecefcae077c3c2e626f9298115d5a03c8613f89b",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "公司"
+      },
+      "metadata": {
+        "json_description": "The title of the footer links column with title=Company in the footer"
+      }
+    },
+    {
+      "segment_id": "link.title.Social",
+      "source_content": "Social",
+      "source_content_hash": "f1b7505afa5c9e2bd6d68ae814b3582cf38632d56a67913e75e7d8cb10b5a8a3",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "社交媒体"
+      },
+      "metadata": {
+        "json_description": "The title of the footer links column with title=Social in the footer"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Home",
+      "source_content": "Home",
+      "source_content_hash": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "首页"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Home linking to https://daily.dev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Chrome extension",
+      "source_content": "Chrome extension",
+      "source_content_hash": "08e2a7f0f999ce504ef9ff7bf62931bb12a38aeee97087c33f5ce3aaafcbb4ad",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "Chrome 扩展"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Chrome extension linking to https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Web version",
+      "source_content": "Web version",
+      "source_content_hash": "10830b56098216ebfbd22a3c24705e88fed9ba026e4ee3fcd762480c38a1e760",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "网页版"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Web version linking to https://app.daily.dev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Changelog",
+      "source_content": "Changelog",
+      "source_content_hash": "ead07c84baac57a9542f388a07a2a5209456ce790b04251bc9bd7d179ea85cb1",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "更新日志"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Changelog linking to https://changelog.daily.dev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Open source",
+      "source_content": "Open source",
+      "source_content_hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "开源"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Open source linking to https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Feature requests",
+      "source_content": "Feature requests",
+      "source_content_hash": "caf3f69b1dd1e9a90314b41f27a56a7dfb9b71c128f0f74cc3d67d2d21c88405",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "功能请求"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Feature requests linking to https://github.com/dailydotdev/daily/discussions"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Online events",
+      "source_content": "Online events",
+      "source_content_hash": "4117461ad4162808ff0f8f4d93e18f2b8fb76513fff15e32c1a3de90f02ffbd3",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "线上活动"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Online events linking to https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Swag store",
+      "source_content": "Swag store",
+      "source_content_hash": "37692de6574a4a6e574d7d1a40622cc0b45dfd25694a70faa19e09315af2ad7d",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "周边商店"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Swag store linking to https://store.daily.dev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Blog",
+      "source_content": "Blog",
+      "source_content_hash": "8c6bc099534a0251b576f6b88bd2db124ae9497c64bd9242e92a6aec23e6a73a",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "博客"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Blog linking to https://daily.dev/blog"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Brand book",
+      "source_content": "Brand book",
+      "source_content_hash": "11141eb142f48ae90290028e1e61ec91b813ab6ffcc96f89e6041538a922268e",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "品牌手册"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Brand book linking to https://brand.daily.dev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Contact",
+      "source_content": "Contact",
+      "source_content_hash": "2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "联系我们"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Contact linking to https://daily.dev/contact"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Privacy",
+      "source_content": "Privacy",
+      "source_content_hash": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "隐私政策"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Privacy linking to https://daily.dev/privacy"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Terms",
+      "source_content": "Terms",
+      "source_content_hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "服务条款"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Terms linking to https://daily.dev/tos"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Twitter/X",
+      "source_content": "Twitter/X",
+      "source_content_hash": "e36cecd324cc381d544fe3c9824cb189c28f9dd84cc24256ae984850030f501f",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "Twitter/X"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Twitter/X linking to https://twitter.com/dailydotdev"
+      }
+    },
+    {
+      "segment_id": "link.item.label.GitHub",
+      "source_content": "GitHub",
+      "source_content_hash": "f911e414cf6bdfc595532ab166b5ba0f63d73c021452fcdacbda363dda6ad8fb",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "GitHub"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=GitHub linking to https://github.com/dailydotdev/daily"
+      }
+    },
+    {
+      "segment_id": "link.item.label.YouTube",
+      "source_content": "YouTube",
+      "source_content_hash": "fb7accfff8c6f8ea9b03c91ee5576d0d08080e9ba35918d801aaeb6020dbc88c",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "YouTube"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ"
+      }
+    },
+    {
+      "segment_id": "link.item.label.Instagram",
+      "source_content": "Instagram",
+      "source_content_hash": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "Instagram"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=Instagram linking to https://www.instagram.com/dailydotdev/"
+      }
+    },
+    {
+      "segment_id": "link.item.label.TikTok",
+      "source_content": "TikTok",
+      "source_content_hash": "1bb6fcfbf1368a7b27a6db04802e2756a9e209eb24f189c3e35be8542f439a2c",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "TikTok"
+      },
+      "metadata": {
+        "json_description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/@dailydotdev"
+      }
+    },
+    {
+      "segment_id": "copyright",
+      "source_content": "© 2025 All rights reserved.",
+      "source_content_hash": "6eb78a9ae8363e15d604be17a3352a890af0d0054e1e2ff221ee0a3a3321e76c",
+      "node_type": "json_message",
+      "translatable": true,
+      "translations": {
+        "zh-CN": "© 2025 保留所有权利。"
+      },
+      "metadata": {
+        "json_description": "The footer copyright"
+      }
+    }
+  ],
+  "original_json_structure": {
+    "link.title.Product": {
+      "message": "Product",
+      "description": "The title of the footer links column with title=Product in the footer"
+    },
+    "link.title.Community": {
+      "message": "Community",
+      "description": "The title of the footer links column with title=Community in the footer"
+    },
+    "link.title.Company": {
+      "message": "Company",
+      "description": "The title of the footer links column with title=Company in the footer"
+    },
+    "link.title.Social": {
+      "message": "Social",
+      "description": "The title of the footer links column with title=Social in the footer"
+    },
+    "link.item.label.Home": {
+      "message": "Home",
+      "description": "The label of footer link with label=Home linking to https://daily.dev/"
+    },
+    "link.item.label.Chrome extension": {
+      "message": "Chrome extension",
+      "description": "The label of footer link with label=Chrome extension linking to https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied"
+    },
+    "link.item.label.Web version": {
+      "message": "Web version",
+      "description": "The label of footer link with label=Web version linking to https://app.daily.dev/"
+    },
+    "link.item.label.Changelog": {
+      "message": "Changelog",
+      "description": "The label of footer link with label=Changelog linking to https://changelog.daily.dev/"
+    },
+    "link.item.label.Open source": {
+      "message": "Open source",
+      "description": "The label of footer link with label=Open source linking to https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md"
+    },
+    "link.item.label.Feature requests": {
+      "message": "Feature requests",
+      "description": "The label of footer link with label=Feature requests linking to https://github.com/dailydotdev/daily/discussions"
+    },
+    "link.item.label.Online events": {
+      "message": "Online events",
+      "description": "The label of footer link with label=Online events linking to https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/"
+    },
+    "link.item.label.Swag store": {
+      "message": "Swag store",
+      "description": "The label of footer link with label=Swag store linking to https://store.daily.dev/"
+    },
+    "link.item.label.Blog": {
+      "message": "Blog",
+      "description": "The label of footer link with label=Blog linking to https://daily.dev/blog"
+    },
+    "link.item.label.Brand book": {
+      "message": "Brand book",
+      "description": "The label of footer link with label=Brand book linking to https://brand.daily.dev/"
+    },
+    "link.item.label.Contact": {
+      "message": "Contact",
+      "description": "The label of footer link with label=Contact linking to https://daily.dev/contact"
+    },
+    "link.item.label.Privacy": {
+      "message": "Privacy",
+      "description": "The label of footer link with label=Privacy linking to https://daily.dev/privacy"
+    },
+    "link.item.label.Terms": {
+      "message": "Terms",
+      "description": "The label of footer link with label=Terms linking to https://daily.dev/tos"
+    },
+    "link.item.label.Twitter/X": {
+      "message": "Twitter/X",
+      "description": "The label of footer link with label=Twitter/X linking to https://twitter.com/dailydotdev"
+    },
+    "link.item.label.GitHub": {
+      "message": "GitHub",
+      "description": "The label of footer link with label=GitHub linking to https://github.com/dailydotdev/daily"
+    },
+    "link.item.label.YouTube": {
+      "message": "YouTube",
+      "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ"
+    },
+    "link.item.label.Instagram": {
+      "message": "Instagram",
+      "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/dailydotdev/"
+    },
+    "link.item.label.TikTok": {
+      "message": "TikTok",
+      "description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/@dailydotdev"
+    },
+    "copyright": {
+      "message": "© 2025 All rights reserved.",
+      "description": "The footer copyright"
+    }
+  },
+  "target_i18n_subpath": "docusaurus-theme-classic/footer.json",
+  "last_updated_timestamp": "2025-06-10T09:55:48.064528+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "zh-CN": "bf957fb190daa4659e737395d1ffbc5e4a403883bb20a1de6097ba6ca108203a"
+  }
+}

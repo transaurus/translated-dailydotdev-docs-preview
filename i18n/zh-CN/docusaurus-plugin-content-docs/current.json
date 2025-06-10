@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting started": {
+    "message": "入门指南",
+    "description": "The label for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Setting up your feed": {
+    "message": "设置您的信息流",
+    "description": "The label for category Setting up your feed in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key features": {
+    "message": "核心功能",
+    "description": "The label for category Key features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Your profile": {
+    "message": "个人资料",
+    "description": "The label for category Your profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Squads": {
+    "message": "开发者小队",
+    "description": "The label for category Squads in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Plus": {
+    "message": "Plus会员",
+    "description": "The label for category Plus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Monetization (beta)": {
+    "message": "变现功能(测试版)",
+    "description": "The label for category Monetization (beta) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Customization": {
+    "message": "个性化设置",
+    "description": "The label for category Customization in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For content creators": {
+    "message": "内容创作者专区",
+    "description": "The label for category For content creators in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For OSS contributors": {
+    "message": "开源贡献者专区",
+    "description": "The label for category For OSS contributors in sidebar tutorialSidebar"
+  }
+}
